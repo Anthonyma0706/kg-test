@@ -83,6 +83,33 @@
 - 建立了项目的标准化文档体系
 - 为后续AI辅助开发提供了上下文基础 
 
+### 简化extract_titles.py - 专注HTML到MD转换
+**日期**: 当前
+**背景**: 现在有了专门的md_to_json.py处理MD到JSON转换，extract_titles.py应该专注于HTML到MD的转换
+
+**修改内容**:
+1. 移除所有JSON相关代码：
+   - 删除json和re导入
+   - 删除json_output_dir参数
+   - 删除JSON生成逻辑（约40行代码）
+   - 删除JSON文件写入代码
+
+2. 简化函数签名：
+   - `extract_titles(html_file_path, md_output_dir, json_output_dir)` → `extract_titles(html_file_path, md_output_dir)`
+   - 命令行参数从3个减少到2个
+
+3. 保留核心功能：
+   - HTML解析和标题提取
+   - Markdown文件生成
+   - 层级缩进处理
+
+**工作流程优化**:
+- HTML → MD: 使用 `extract_titles.py`
+- MD → JSON: 使用 `md_to_json.py`
+- 职责分离，代码更清晰
+
+**测试验证**: ✅ 生成的Markdown文件格式完全正确，层级结构保持一致
+
 ### 最终修复：动态判断Level 2内容类型
 **日期**: 当前
 **核心问题**: Level 2内容需要动态判断：
@@ -105,3 +132,31 @@ else:
 **最终状态**: md_to_json.py脚本现在能够完美处理所有markdown层级结构，正确生成符合规范的JSON知识图谱！
 
 ### 修复md_to_json.py层级处理逻辑 
+
+### 更新README.md文档
+**日期**: 当前
+**背景**: 根据近期的脚本重构和功能分离，需要更新项目文档
+
+**主要更新内容**:
+1. **架构说明**: 添加两步转换流程图和脚本功能分离说明
+2. **双脚本介绍**: 
+   - `extract_titles.py`: HTML→MD转换专用
+   - `md_to_json.py`: MD→JSON转换专用
+3. **完整使用流程**: 提供分步骤和一键执行的使用示例
+4. **智能层级识别**: 详细说明动态判断Level 2内容的算法
+5. **技术特点**: 添加优势和技术实现说明
+
+**文档结构优化**:
+- 增加工具架构章节
+- 完善MD到JSON转换说明
+- 更新JSON示例为实际数据
+- 添加Markdown层级结构映射
+- 补充技术特点和实现细节
+
+**用户体验改进**:
+- 提供清晰的分步骤执行指南
+- 添加完整的参数说明表格
+- 包含实际的输出示例
+- 突出智能识别功能的优势
+
+### 简化extract_titles.py - 专注HTML到MD转换 
