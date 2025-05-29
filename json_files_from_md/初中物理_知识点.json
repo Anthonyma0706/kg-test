@@ -1,0 +1,1258 @@
+{
+    "chapter": "理化综合",
+    "sections": [
+        {
+            "sectionTitle": "长度和时间的测量",
+            "subsections": [
+                {
+                    "subsectionTitle": "长度的单位",
+                    "knowledgePoints": [
+                        "长度单位及换算",
+                        "常见的长度及估测"
+                    ]
+                },
+                {
+                    "subsectionTitle": "长度的测量",
+                    "knowledgePoints": [
+                        "常用的测量工具",
+                        "用刻度尺测量长度",
+                        "测量长度的特殊方法"
+                    ]
+                },
+                {
+                    "subsectionTitle": "时间及其测量",
+                    "knowledgePoints": [
+                        "时间单位及换算",
+                        "用表测量时间"
+                    ]
+                },
+                {
+                    "subsectionTitle": "误差",
+                    "knowledgePoints": [
+                        "误差与错误",
+                        "减小误差的方法",
+                        "正确求平均值"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "质量和密度",
+            "subsections": [
+                {
+                    "subsectionTitle": "质量",
+                    "knowledgePoints": [
+                        "质量的概念及特性",
+                        "质量的单位及换算",
+                        "常见物体的质量及质量估算"
+                    ]
+                },
+                {
+                    "subsectionTitle": "质量的测量",
+                    "knowledgePoints": [
+                        "托盘天平的构造",
+                        "用托盘天平测量物体的质量",
+                        "使用托盘天平的错误操作对测量结果的影响",
+                        "测量质量的特殊方法"
+                    ]
+                },
+                {
+                    "subsectionTitle": "密度",
+                    "knowledgePoints": [
+                        "物质质量和体积的关系",
+                        "密度的定义及公式",
+                        "温度对密度大小的影响",
+                        "密度公式的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "测量物质的密度",
+                    "knowledgePoints": [
+                        "量筒(杯)的选择和使用",
+                        "测量固体体积的特殊方法",
+                        "直接测量固体的密度",
+                        "直接测量液体的密度",
+                        "特殊方法测密度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "密度的应用",
+                    "knowledgePoints": [
+                        "利用密度分析混合物",
+                        "空心物质的密度计算",
+                        "与密度有关的物理现象"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "机械运动",
+            "subsections": [
+                {
+                    "subsectionTitle": "参照物",
+                    "knowledgePoints": [
+                        "参照物的概念",
+                        "判断参照物的选择",
+                        "不同参照物下描述运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "速度",
+                    "knowledgePoints": [
+                        "速度的定义",
+                        "速度的单位",
+                        "速度的计算",
+                        "速度变化的探究实验"
+                    ]
+                },
+                {
+                    "subsectionTitle": "平均速度",
+                    "knowledgePoints": [
+                        "平均速度概念及理解",
+                        "平均速度的计算",
+                        "测量物体运动的平均速度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "运动图像",
+                    "knowledgePoints": [
+                        "s-t图像",
+                        "v-t图像"
+                    ]
+                },
+                {
+                    "subsectionTitle": "机械运动的分类",
+                    "knowledgePoints": [
+                        "静止",
+                        "匀速直线运动",
+                        "变速直线运动",
+                        "曲线运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "追及、相遇及行程问题",
+                    "knowledgePoints": [
+                        "追及问题",
+                        "相遇问题",
+                        "行程问题",
+                        "列车时刻表",
+                        "交通标志牌",
+                        "过河问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "机械运动的概念",
+                "机械运动的相对性",
+                "运动示意图"
+            ]
+        },
+        {
+            "sectionTitle": "运动和力",
+            "subsections": [
+                {
+                    "subsectionTitle": "力的概念及性质",
+                    "knowledgePoints": [
+                        "力的概念和单位",
+                        "施力物体与受力物体",
+                        "力的作用效果",
+                        "力的三要素",
+                        "力的示意图",
+                        "力作用的相互性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "弹力",
+                    "knowledgePoints": [
+                        "弹力基础",
+                        "弹簧",
+                        "弹簧测力计"
+                    ]
+                },
+                {
+                    "subsectionTitle": "重力",
+                    "knowledgePoints": [
+                        "重力的概念",
+                        "重力的三要素"
+                    ]
+                },
+                {
+                    "subsectionTitle": "摩擦力",
+                    "knowledgePoints": [
+                        "摩擦力及其产生条件",
+                        "静摩擦力",
+                        "探究影响滑动摩擦力大小的因素",
+                        "滑动摩擦力",
+                        "摩擦的利用和防止"
+                    ]
+                },
+                {
+                    "subsectionTitle": "牛顿第一定律和惯性",
+                    "knowledgePoints": [
+                        "探究阻力对物体运动的影响",
+                        "牛顿第一定律",
+                        "力与运动的关系",
+                        "惯性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "力的合成",
+                    "knowledgePoints": [
+                        "合力及力的合成",
+                        "同一直线上二力的合成"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二力平衡的条件及应用",
+                    "knowledgePoints": [
+                        "二力平衡的条件",
+                        "平衡状态的判断",
+                        "探究二力平衡的条件",
+                        "二力平衡条件的应用",
+                        "二力或多力平衡问题",
+                        "平衡力与相互作用力的区别",
+                        "力与图像结合问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "压强",
+            "subsections": [
+                {
+                    "subsectionTitle": "压力与压强",
+                    "knowledgePoints": [
+                        "压力的概念",
+                        "压力大小的计算",
+                        "探究影响压力作用效果的因素",
+                        "压强的定义和单位",
+                        "压强公式及其计算",
+                        "改变压强的方法和应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "液体压强",
+                    "knowledgePoints": [
+                        "液体压强的产生原因",
+                        "探究液体内部压强的特点",
+                        "液体压强的特点和公式",
+                        "液体压强的计算和比较",
+                        "连通器"
+                    ]
+                },
+                {
+                    "subsectionTitle": "大气压强",
+                    "knowledgePoints": [
+                        "大气压强的存在",
+                        "大气压的测量及标准大气压",
+                        "大气压与地理因素的关系",
+                        "大气压的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "流体压强与流速的关系",
+                    "knowledgePoints": [
+                        "流体压强与流速的关系及现象解释",
+                        "探究流体压强与流速的关系",
+                        "飞机的升力及其应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "浮力",
+            "subsections": [
+                {
+                    "subsectionTitle": "浮力基础",
+                    "knowledgePoints": [
+                        "浮力及其产生的原因",
+                        "浮力大小的计算",
+                        "探究影响浮力大小的因素"
+                    ]
+                },
+                {
+                    "subsectionTitle": "阿基米德原理",
+                    "knowledgePoints": [
+                        "探究浮力的大小与排开液体所受的重力的关系",
+                        "阿基米德原理的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物体的浮沉条件",
+                    "knowledgePoints": [
+                        "物体的浮沉",
+                        "物体浮沉条件的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "浮力的应用",
+                    "knowledgePoints": [
+                        "密度计原理及应用",
+                        "盐水选种的原理",
+                        "轮船的原理",
+                        "潜水艇的原理",
+                        "气球和飞艇的原理",
+                        "浮力综合问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "做功与机械能",
+            "subsections": [
+                {
+                    "subsectionTitle": "功及其计算",
+                    "knowledgePoints": [
+                        "功的概念和单位",
+                        "力做功的必要因素",
+                        "功的计算和估算",
+                        "比较功的大小"
+                    ]
+                },
+                {
+                    "subsectionTitle": "功率及其计算",
+                    "knowledgePoints": [
+                        "功率",
+                        "功率的计算",
+                        "功率在实际中的应用",
+                        "功率的测量"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动能和势能",
+                    "knowledgePoints": [
+                        "能量",
+                        "动能",
+                        "探究影响物体动能的因素",
+                        "重力势能",
+                        "探究影响物体重力势能的因素",
+                        "弹性势能",
+                        "探究影响物体弹性势能的因素",
+                        "动能和势能的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "机械能及其相互转化",
+                    "knowledgePoints": [
+                        "机械能",
+                        "动能和势能的转化",
+                        "机械能守恒"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "简单机械及机械效率",
+            "subsections": [
+                {
+                    "subsectionTitle": "杠杆",
+                    "knowledgePoints": [
+                        "杠杆及其五要素",
+                        "力和力臂的作图",
+                        "杠杆的平衡条件",
+                        "探究杠杆的平衡条件",
+                        "杠杆的分类",
+                        "杠杆的最省力问题",
+                        "杠杆的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "滑轮及滑轮组",
+                    "knowledgePoints": [
+                        "定滑轮及其工作特点",
+                        "动滑轮及其工作特点",
+                        "探究定滑轮和动滑轮的特点",
+                        "滑轮组及其工作特点"
+                    ]
+                },
+                {
+                    "subsectionTitle": "其他简单机械",
+                    "knowledgePoints": [
+                        "斜面模型及相关计算",
+                        "轮轴模型及相关计算"
+                    ]
+                },
+                {
+                    "subsectionTitle": "机械效率",
+                    "knowledgePoints": [
+                        "有用功和额外功",
+                        "机械效率的概念及计算",
+                        "机械效率的测量",
+                        "机械效率的综合计算"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "生活中简单机械的应用"
+            ]
+        },
+        {
+            "sectionTitle": "电流和电路",
+            "subsections": [
+                {
+                    "subsectionTitle": "电荷",
+                    "knowledgePoints": [
+                        "电现象",
+                        "两种电荷",
+                        "验电器",
+                        "判断物体是否带电",
+                        "导体",
+                        "绝缘体",
+                        "导体与绝缘体的区别与联系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电流",
+                    "knowledgePoints": [
+                        "电流的形成",
+                        "电流的方向"
+                    ]
+                },
+                {
+                    "subsectionTitle": "简单电路",
+                    "knowledgePoints": [
+                        "电源及其能量转化",
+                        "电路的组成部分及其作用",
+                        "电路图",
+                        "通路、断路和短路"
+                    ]
+                },
+                {
+                    "subsectionTitle": "串联和并联电路",
+                    "knowledgePoints": [
+                        "用电器的串联和并联",
+                        "连接串联电路和并联电路",
+                        "电路设计"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电流的测量",
+                    "knowledgePoints": [
+                        "电流强度",
+                        "电流表及其使用",
+                        "了解生物电"
+                    ]
+                },
+                {
+                    "subsectionTitle": "串并联电路电流的规律",
+                    "knowledgePoints": [
+                        "探究串联电路和并联电路中电流的特点",
+                        "串联电路的电流规律",
+                        "并联电路的电流规律",
+                        "应用串、并联电路电流规律"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "电压和电阻",
+            "subsections": [
+                {
+                    "subsectionTitle": "电压及其测量",
+                    "knowledgePoints": [
+                        "电压",
+                        "电压表及其使用",
+                        "电路故障检测"
+                    ]
+                },
+                {
+                    "subsectionTitle": "串并联电路电压的规律",
+                    "knowledgePoints": [
+                        "探究串联电路和并联电路中电压的特点",
+                        "串联电路的电压规律及应用",
+                        "并联电路的电压规律及应用",
+                        "利用电表判断电路故障"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电阻",
+                    "knowledgePoints": [
+                        "电阻的概念及物理意义",
+                        "影响导体电阻大小的因素",
+                        "半导体和超导现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "变阻器",
+                    "knowledgePoints": [
+                        "滑动变阻器",
+                        "电阻箱",
+                        "插孔式变阻器",
+                        "变阻器的应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "欧姆定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "电流与电压、电阻的关系",
+                    "knowledgePoints": [
+                        "探究电流与电压的关系",
+                        "探究电流与电阻的关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "欧姆定律的内容及理解",
+                    "knowledgePoints": [
+                        "欧姆定律的表达式与U、I、R的决定关系",
+                        "欧姆定律的图像表示",
+                        "欧姆定律的成立条件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "欧姆定律的应用",
+                    "knowledgePoints": [
+                        "欧姆定律的简单计算",
+                        "串联电路的电阻与电压的比值关系及计算",
+                        "并联电路的电阻与电流的比值关系及计算",
+                        "欧姆定律在图像中的应用",
+                        "应用欧姆定律求范围"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电路的动态分析",
+                    "knowledgePoints": [
+                        "含有变阻器电路的动态分析",
+                        "含有变阻器电路的动态计算",
+                        "含有敏感电阻的动态分析",
+                        "多开关通断引起的动态分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电流表和电压表的改装",
+                    "knowledgePoints": [
+                        "用电流表与电阻串联实现电压表功能",
+                        "用电压表与电阻并联实现电流表功能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电路故障的分析",
+                    "knowledgePoints": [
+                        "应用欧姆定律进行电路故障分析",
+                        "根据欧姆定律及变形式判断电路故障",
+                        "电路故障的解决方法"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电阻的测量",
+                    "knowledgePoints": [
+                        "伏安法测电阻",
+                        "电阻的伏安特性曲线",
+                        "特殊方法测电阻",
+                        "电阻的串联",
+                        "电阻的并联",
+                        "电阻公式的应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "电功和电功率",
+            "subsections": [
+                {
+                    "subsectionTitle": "电能和电功",
+                    "knowledgePoints": [
+                        "电能及其单位",
+                        "电能表",
+                        "节约用电",
+                        "电功及其计算",
+                        "串并联电路电功的特点"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电功率",
+                    "knowledgePoints": [
+                        "电功率的概念",
+                        "电功率的计算",
+                        "电功率的测量"
+                    ]
+                },
+                {
+                    "subsectionTitle": "焦耳定律",
+                    "knowledgePoints": [
+                        "电流的热效应",
+                        "探究影响电流通过导体产生热量的因素",
+                        "焦耳定律及其应用",
+                        "电能的输送",
+                        "电热的利用和防止",
+                        "非纯电阻电路的功率",
+                        "欧姆定律与电功的综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "家庭电路",
+                    "knowledgePoints": [
+                        "家庭电路的组成和连接",
+                        "三线插头和漏电保护器",
+                        "家庭电路故障分析",
+                        "家庭电路的保护"
+                    ]
+                },
+                {
+                    "subsectionTitle": "安全用电",
+                    "knowledgePoints": [
+                        "人体的电阻及触电的实质",
+                        "家庭电路触电与高压触电",
+                        "可能发生触电事故的情况",
+                        "触电防护及救援措施",
+                        "雷电现象与危害的防治"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "电和磁",
+            "subsections": [
+                {
+                    "subsectionTitle": "磁现象",
+                    "knowledgePoints": [
+                        "磁性、磁体和磁极",
+                        "磁极间的相互作用",
+                        "磁化和磁性材料"
+                    ]
+                },
+                {
+                    "subsectionTitle": "磁场",
+                    "knowledgePoints": [
+                        "磁场与磁感线",
+                        "地磁场",
+                        "磁现象与力学综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电生磁",
+                    "knowledgePoints": [
+                        "电流的磁效应",
+                        "通电螺线管",
+                        "安培定则",
+                        "利用安培定则作图"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电磁铁和电磁继电器",
+                    "knowledgePoints": [
+                        "电磁铁的构造及原理",
+                        "探究影响电磁铁磁性强弱的因素",
+                        "电磁铁在实际生活中的应用",
+                        "电磁继电器及其应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "磁场对电流的作用、电动机",
+                    "knowledgePoints": [
+                        "磁场对通电导线的作用",
+                        "直流电动机原理及工作过程",
+                        "扬声器和耳机的构造及原理"
+                    ]
+                },
+                {
+                    "subsectionTitle": "磁生电",
+                    "knowledgePoints": [
+                        "电磁感应",
+                        "动圈式话筒的工作原理",
+                        "发电机",
+                        "电磁感应与磁场对电流的作用对比"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "信息的传递",
+            "subsections": [
+                {
+                    "subsectionTitle": "现代通信技术",
+                    "knowledgePoints": [
+                        "通信发展简史",
+                        "电话",
+                        "电话交换机",
+                        "模拟通信与数字通信",
+                        "传感器",
+                        "音频、视频和射频信号",
+                        "调制、调谐和解调",
+                        "无线电信号的收发",
+                        "电视的发射和接收",
+                        "移动电话",
+                        "广播、电视和移动电话信号传递的异同"
+                    ]
+                },
+                {
+                    "subsectionTitle": "通信技术的发展前景",
+                    "knowledgePoints": [
+                        "微波通信",
+                        "卫星通信",
+                        "光纤通信",
+                        "网络通信",
+                        "三网合一"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电磁波的海洋",
+                    "knowledgePoints": [
+                        "电磁波的产生和传播",
+                        "波速、波长和频率",
+                        "电磁波的应用",
+                        "电磁波谱"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "温度与物态变化",
+            "subsections": [
+                {
+                    "subsectionTitle": "温度和温度计",
+                    "knowledgePoints": [
+                        "温度",
+                        "温标",
+                        "温度计",
+                        "不同材料的保温性能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "熔化和凝固",
+                    "knowledgePoints": [
+                        "物质的三态及其变化",
+                        "熔化和凝固现象",
+                        "熔化和凝固的探究实验"
+                    ]
+                },
+                {
+                    "subsectionTitle": "汽化和液化",
+                    "knowledgePoints": [
+                        "汽化的概念和现象",
+                        "沸腾",
+                        "探究水在沸腾前后温度变化的特点",
+                        "蒸发",
+                        "蒸发和沸腾的区别与联系",
+                        "液化的概念和现象",
+                        "液化的方法及应用",
+                        "生活中的汽、液化现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "升华和凝华",
+                    "knowledgePoints": [
+                        "升华与凝华的概念和现象",
+                        "升华与凝华的吸放热及其应用",
+                        "生活中的升、凝华现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "水循环与水资源",
+                    "knowledgePoints": [
+                        "自然界中的水循环",
+                        "地球上的水资源",
+                        "节约用水和水资源保护"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "内能",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子动理论",
+                    "knowledgePoints": [
+                        "物质的构成",
+                        "分子热运动",
+                        "分子间的作用力",
+                        "分子动理论解释生活现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "内能基础",
+                    "knowledgePoints": [
+                        "内能及其影响因素",
+                        "热传递与热量",
+                        "改变物体内能的两种方式",
+                        "温度、热量与内能的区别与联系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "比热容",
+                    "knowledgePoints": [
+                        "比热容基础",
+                        "生活中的比热容问题",
+                        "比热容的相关计算",
+                        "水的比热容特点及应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "内能的利用",
+            "subsections": [
+                {
+                    "subsectionTitle": "热机",
+                    "knowledgePoints": [
+                        "认识热机",
+                        "汽油机的构造与工作过程",
+                        "柴油机的构造与工作过程",
+                        "火箭的构造与工作原理"
+                    ]
+                },
+                {
+                    "subsectionTitle": "热值及热机效率",
+                    "knowledgePoints": [
+                        "燃料的热值",
+                        "热机的效率",
+                        "燃料的利用和环境保护"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "能量",
+            "subsections": [
+                {
+                    "subsectionTitle": "能量的转化和守恒",
+                    "knowledgePoints": [
+                        "能量的转化",
+                        "能量的转移",
+                        "能量转移或转化有方向",
+                        "能量守恒定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能源的概念及分类",
+                    "knowledgePoints": [
+                        "常见的能源",
+                        "可再生能源与不可再生能源",
+                        "一次能源与二次能源",
+                        "常规能源与新能源",
+                        "化石能源",
+                        "电能",
+                        "核能",
+                        "太阳能",
+                        "水能和风能",
+                        "潮汐能与地热能",
+                        "生物能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能源与可持续发展",
+                    "knowledgePoints": [
+                        "能源消耗对环境的影响",
+                        "能源与可持续发展",
+                        "能源危机及解决"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光现象",
+            "subsections": [
+                {
+                    "subsectionTitle": "光的直线传播",
+                    "knowledgePoints": [
+                        "光源",
+                        "光沿直线传播的条件及现象",
+                        "光沿直线传播的作图",
+                        "光速"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光的反射",
+                    "knowledgePoints": [
+                        "光的反射的概念和现象",
+                        "探究光的反射定律",
+                        "光的反射定律",
+                        "光的反射定律的应用",
+                        "作光的反射光路图",
+                        "镜面反射与漫反射",
+                        "光路的可逆性",
+                        "光污染及其防治"
+                    ]
+                },
+                {
+                    "subsectionTitle": "平面镜成像",
+                    "knowledgePoints": [
+                        "探究平面镜成像的特点",
+                        "平面镜成像及其作图",
+                        "实像和虚像"
+                    ]
+                },
+                {
+                    "subsectionTitle": "凸面镜和凹面镜",
+                    "knowledgePoints": [
+                        "凸面镜和凹面镜对光线的作用",
+                        "凸面镜和凹面镜的应用",
+                        "凸面镜成像及其光路图",
+                        "凹面镜成像及其光路图"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光的折射",
+                    "knowledgePoints": [
+                        "光的折射的概念和现象",
+                        "光的折射条件",
+                        "探究光的折射特点",
+                        "自然现象中光的折射规律",
+                        "光的折射的作图",
+                        "光的折射规律的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光的色散",
+                    "knowledgePoints": [
+                        "光的色散现象",
+                        "物体的颜色",
+                        "看不见的光"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "透镜及其应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "透镜",
+                    "knowledgePoints": [
+                        "透镜的特点与分类",
+                        "探究透镜对光的作用",
+                        "透镜的结构",
+                        "透镜的光线作图"
+                    ]
+                },
+                {
+                    "subsectionTitle": "凸透镜的成像规律",
+                    "knowledgePoints": [
+                        "探究凸透镜成像的规律",
+                        "凸透镜成像规律的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "透镜的应用",
+                    "knowledgePoints": [
+                        "照相机",
+                        "投影仪",
+                        "放大镜",
+                        "显微镜的构造",
+                        "望远镜的构造",
+                        "天文望远镜的发展史"
+                    ]
+                },
+                {
+                    "subsectionTitle": "眼睛和眼镜",
+                    "knowledgePoints": [
+                        "眼睛",
+                        "远、近视眼及其矫正"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "声音的产生和传播",
+            "subsections": [
+                {
+                    "subsectionTitle": "声音的产生",
+                    "knowledgePoints": [
+                        "声音产生的原因",
+                        "声源和介质",
+                        "探究声音的产生",
+                        "观察声源的振动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "声音的传播",
+                    "knowledgePoints": [
+                        "声音是怎么传播的",
+                        "探究声音的传播条件",
+                        "探究声音能否在液体和固体中传播"
+                    ]
+                },
+                {
+                    "subsectionTitle": "声速",
+                    "knowledgePoints": [
+                        "熟悉声音在一些介质中传播的速度",
+                        "比较不同介质中的声速大小",
+                        "辨析温度对声速的影响",
+                        "有关声速的计算",
+                        "波长、频率和声速",
+                        "解释生活中的声现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "人耳",
+                    "knowledgePoints": [
+                        "人耳听声的原理",
+                        "人耳的结构及作用",
+                        "双耳效应和立体声",
+                        "骨传导"
+                    ]
+                },
+                {
+                    "subsectionTitle": "回声",
+                    "knowledgePoints": [
+                        "回声与原声",
+                        "回声测距"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "声音的特性",
+            "subsections": [
+                {
+                    "subsectionTitle": "音调",
+                    "knowledgePoints": [
+                        "辨析音调与频率的关系",
+                        "熟悉人和一些动物的发声和听觉频率范围",
+                        "探究影响音调高低的因素"
+                    ]
+                },
+                {
+                    "subsectionTitle": "响度",
+                    "knowledgePoints": [
+                        "辨析响度与振幅的关系",
+                        "探究影响响度大小的因素",
+                        "改变听到响度强弱的方法"
+                    ]
+                },
+                {
+                    "subsectionTitle": "音色",
+                    "knowledgePoints": [
+                        "影响音色的因素有哪些",
+                        "根据音色辨别发声体"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "区分音调、响度与音色",
+                "用波形图比较声音特性"
+            ]
+        },
+        {
+            "sectionTitle": "声的利用",
+            "subsections": [
+                {
+                    "subsectionTitle": "声的利用与防范",
+                    "knowledgePoints": [
+                        "超声波和次声波",
+                        "超声波的利用",
+                        "次声波的危害",
+                        "生物对于声波的利用"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "声与信息",
+                "声与能量"
+            ]
+        },
+        {
+            "sectionTitle": "噪声的危害与控制",
+            "subsections": [
+                {
+                    "subsectionTitle": "噪声及其来源",
+                    "knowledgePoints": [
+                        "辨析声音是否是噪声",
+                        "噪声的波形图",
+                        "噪声的来源"
+                    ]
+                },
+                {
+                    "subsectionTitle": "控制噪声的主要途径",
+                    "knowledgePoints": [
+                        "从声源处减弱",
+                        "在传播途中减弱",
+                        "在人耳处减弱"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "噪声的强弱等级和危害"
+            ]
+        },
+        {
+            "sectionTitle": "走进微观",
+            "subsections": [],
+            "knowledgePoints": [
+                "认识分子",
+                "认识原子"
+            ]
+        },
+        {
+            "sectionTitle": "点击新材料",
+            "subsections": [
+                {
+                    "subsectionTitle": "认识新材料",
+                    "knowledgePoints": [
+                        "纳米材料",
+                        "“绿色”能源",
+                        "记忆合金",
+                        "超导材料"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "认识物质的物理属性"
+            ]
+        },
+        {
+            "sectionTitle": "探索宇宙",
+            "subsections": [
+                {
+                    "subsectionTitle": "宇宙深处",
+                    "knowledgePoints": [
+                        "从地心说到日心说",
+                        "星空世界"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "飞出地球"
+            ]
+        },
+        {
+            "sectionTitle": "探索的方法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "探索的历程",
+            "subsections": [],
+            "knowledgePoints": [
+                "重要人物",
+                "经典实验",
+                "关键事件"
+            ]
+        },
+        {
+            "sectionTitle": "现代技术",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "控制变量法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "理想模型法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "等效替代法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验推理法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "比值定义法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "逆向思维法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "转换法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "类比法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "比较法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "归纳法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "估测法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "图像法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "放大法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "分类法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "观察法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "节约能源与绿色化学",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "生活常识与科学应用",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物理变化与化学变化",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验操作与注意事项",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "分子动理论",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物质的分类",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "观察现象与总结规律",
+            "subsections": [],
+            "knowledgePoints": []
+        }
+    ]
+}

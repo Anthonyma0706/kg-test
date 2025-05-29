@@ -1,0 +1,27 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 知识图谱提取工具项目概览
+
+## 项目目的
+这是一个专门用于从HTML教材文件中提取章节结构并转换为知识图谱数据的Python工具。主要服务于教育内容的结构化处理和知识点提取。
+
+## 核心文件
+- [extract_titles.py](mdc:extract_titles.py) - 主要提取脚本，负责HTML解析和数据转换
+- [tidy_markdown.py](mdc:tidy_markdown.py) - Markdown格式整理工具
+- [README.md](mdc:README.md) - 详细的项目文档和使用说明
+
+## 目录结构
+- `html_files/` - 输入的HTML教材文件，按学科分类（初中/高中数学、物理、化学、生物）
+- `json_files/` - 输出的JSON知识图谱文件
+- `md_files/` - 输出的Markdown格式文件
+
+## 数据流程
+HTML教材 → 解析提取 → Markdown列表 + JSON知识图谱
+
+## 技术栈
+- Python 3.x
+- BeautifulSoup4 (HTML解析)
+- 标准库：os, json, re, argparse

@@ -1,0 +1,1727 @@
+{
+    "chapter": "竞赛",
+    "sections": [
+        {
+            "sectionTitle": "运动的描述",
+            "subsections": [
+                {
+                    "subsectionTitle": "参考系",
+                    "knowledgePoints": [
+                        "已知物体运动情况判断参考系",
+                        "已知参考系判断物体运动情况",
+                        "同一运动在不同参考系中的描述"
+                    ]
+                },
+                {
+                    "subsectionTitle": "时间",
+                    "knowledgePoints": [
+                        "时间、时刻的定义",
+                        "用坐标轴表示时刻与时间",
+                        "时刻和时间间隔的关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "位移",
+                    "knowledgePoints": [
+                        "坐标系",
+                        "标量与矢量",
+                        "路程与位移"
+                    ]
+                },
+                {
+                    "subsectionTitle": "速度",
+                    "knowledgePoints": [
+                        "速率与速度",
+                        "平均速度与瞬时速度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "加速度",
+                    "knowledgePoints": [
+                        "加速度的定义",
+                        "加速度的分析与计算"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "机械运动",
+                "质点"
+            ]
+        },
+        {
+            "sectionTitle": "匀变速直线运动",
+            "subsections": [
+                {
+                    "subsectionTitle": "匀变速直线运动的研究",
+                    "knowledgePoints": [
+                        "直线运动的概念",
+                        "直线运动的特征",
+                        "直线运动的条件",
+                        "匀速直线运动",
+                        "匀变速直线运动的定义与特征"
+                    ]
+                },
+                {
+                    "subsectionTitle": "匀变速直线运动推论",
+                    "knowledgePoints": [
+                        "匀变速直线运动的判别",
+                        "中间时刻的瞬时速度",
+                        "中间位置的瞬时速度",
+                        "匀变速直线运动的比例关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "自由落体运动",
+                    "knowledgePoints": [
+                        "伽利略对自由落体运动的探究",
+                        "自由落体运动的特征",
+                        "重力加速度及其测定",
+                        "自由落体运动的三个基本公式",
+                        "自由落体运动的图象",
+                        "自由落体运动平均速度",
+                        "自由落体运动的重要推论Δh=gT²",
+                        "用自由落体运动公式求解频闪照片问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "竖直上抛运动",
+                    "knowledgePoints": [
+                        "竖直上抛运动的三个基本公式",
+                        "竖直上抛运动的v-t图象",
+                        "竖直上抛运动的高度、速度与时间的计算",
+                        "自由落体和竖直上抛相遇类问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "运动图像",
+                    "knowledgePoints": [
+                        "v-t图像",
+                        "x-t图像",
+                        "a-t图像",
+                        "非常规图像"
+                    ]
+                },
+                {
+                    "subsectionTitle": "追及与相遇问题",
+                    "knowledgePoints": [
+                        "变速物体追匀速物体",
+                        "变速物体追变速物体",
+                        "匀速物体追变速物体",
+                        "避免相撞类问题",
+                        "追击猎物问题",
+                        "接力赛问题",
+                        "相遇次数问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "刹车问题",
+                    "knowledgePoints": [
+                        "判断车与物体是否相撞",
+                        "计算停车时间和位移",
+                        "逆向思维求解匀变速直线运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "直线运动多过程问题",
+                    "knowledgePoints": [
+                        "利用v-t图像解决非匀变速运动",
+                        "利用a-t图像解决非匀变速运动",
+                        "解决非匀变速直线运动的特殊方法"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "匀变速直线运动速度与时间的关系",
+                "匀变速直线运动位移与时间的关系",
+                "匀变速直线运动速度与位移的关系"
+            ]
+        },
+        {
+            "sectionTitle": "相互作用",
+            "subsections": [
+                {
+                    "subsectionTitle": "力",
+                    "knowledgePoints": [
+                        "力的概念",
+                        "自然界的四种基本相互作用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "重力",
+                    "knowledgePoints": [
+                        "重力的概念、大小和方向",
+                        "重力的作用点：重心"
+                    ]
+                },
+                {
+                    "subsectionTitle": "弹力",
+                    "knowledgePoints": [
+                        "弹力的理解",
+                        "胡克定律",
+                        "微小形变的弹力"
+                    ]
+                },
+                {
+                    "subsectionTitle": "摩擦力",
+                    "knowledgePoints": [
+                        "静摩擦力",
+                        "滑动摩擦力"
+                    ]
+                },
+                {
+                    "subsectionTitle": "力的合成",
+                    "knowledgePoints": [
+                        "合力与分力的定义及关系",
+                        "力的平行四边形定则及应用",
+                        "合力的取值范围",
+                        "两个力成特殊角时的合力的计算",
+                        "三角形法则及多边形法则"
+                    ]
+                },
+                {
+                    "subsectionTitle": "力的分解",
+                    "knowledgePoints": [
+                        "正交分解法",
+                        "力的分解及应用",
+                        "力的合成和分解的动态和极值问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "共点力的平衡",
+                    "knowledgePoints": [
+                        "共点力的平衡条件",
+                        "动态平衡问题",
+                        "平衡问题中临界与极值问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "牛顿运动定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "牛顿第一定律",
+                    "knowledgePoints": [
+                        "伽利略的理想斜面实验",
+                        "牛顿第一定律的理解",
+                        "惯性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "牛顿第二定律",
+                    "knowledgePoints": [
+                        "牛顿第二定律的内容和表达式",
+                        "牛顿第二定律的简单应用",
+                        "牛顿第二定律求瞬时突变问题",
+                        "牛顿第二定律的同向性",
+                        "利用牛顿第二定律分析动态过程"
+                    ]
+                },
+                {
+                    "subsectionTitle": "力学单位制",
+                    "knowledgePoints": [
+                        "基本单位",
+                        "导出单位",
+                        "单位制及量纲"
+                    ]
+                },
+                {
+                    "subsectionTitle": "超重与失重",
+                    "knowledgePoints": [
+                        "超重和失重的概念",
+                        "电梯中的超重和失重现象分析",
+                        "根据超重或失重判断物体的运动状态",
+                        "完全失重",
+                        "利用F-t图象计算升降机的位移"
+                    ]
+                },
+                {
+                    "subsectionTitle": "牛顿运动定律的应用",
+                    "knowledgePoints": [
+                        "牛顿运动定律的两类基本问题",
+                        "斜面模型",
+                        "连接体模型",
+                        "传送带模型",
+                        "板块模型",
+                        "牛顿运动定律与图像结合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "牛顿第三定律"
+            ]
+        },
+        {
+            "sectionTitle": "曲线运动",
+            "subsections": [
+                {
+                    "subsectionTitle": "曲线运动的认识",
+                    "knowledgePoints": [
+                        "曲线运动的概念",
+                        "曲线运动的条件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "运动的合成与分解",
+                    "knowledgePoints": [
+                        "位移和速度的合成与分解",
+                        "小船渡河问题",
+                        "关联速度问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "平抛运动",
+                    "knowledgePoints": [
+                        "平抛运动的概念",
+                        "平抛运动的规律",
+                        "平抛运动的推论",
+                        "生活中的平抛运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "圆周运动",
+                    "knowledgePoints": [
+                        "圆周运动的描述",
+                        "向心力",
+                        "向心加速度",
+                        "水平面内的圆周运动",
+                        "竖直平面内的圆周运动",
+                        "离心运动"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "斜抛运动"
+            ]
+        },
+        {
+            "sectionTitle": "万有引力与宇宙航行",
+            "subsections": [
+                {
+                    "subsectionTitle": "行星的运动",
+                    "knowledgePoints": [
+                        "天体运动的探索历程",
+                        "开普勒行星运动定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "万有引力定律",
+                    "knowledgePoints": [
+                        "万有引力定律的发现",
+                        "万有引力理论的成就"
+                    ]
+                },
+                {
+                    "subsectionTitle": "万有引力定律的应用",
+                    "knowledgePoints": [
+                        "宇宙速度",
+                        "同步卫星与近地卫星",
+                        "一般人造卫星",
+                        "双星（多星）问题",
+                        "潮汐问题",
+                        "宇宙学问题",
+                        "中子星与黑洞问题",
+                        "拉格朗日点"
+                    ]
+                },
+                {
+                    "subsectionTitle": "牛顿力学局限性与相对论初步",
+                    "knowledgePoints": [
+                        "牛顿力学的成就与局限性",
+                        "相对论时空观",
+                        "宇宙起源和演化"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "机械能及其守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "功",
+                    "knowledgePoints": [
+                        "功的概念和计算",
+                        "几种常见力做功的特点",
+                        "变力做功的常见解法"
+                    ]
+                },
+                {
+                    "subsectionTitle": "功率",
+                    "knowledgePoints": [
+                        "功率及其计算",
+                        "机车启动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动能和动能定理",
+                    "knowledgePoints": [
+                        "动能",
+                        "动能定理",
+                        "动能定理的综合应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "势能",
+                    "knowledgePoints": [
+                        "重力势能",
+                        "弹性势能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "机械能守恒定律",
+                    "knowledgePoints": [
+                        "机械能",
+                        "机械能守恒定律及其条件",
+                        "机械能守恒定律的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "功能关系",
+                    "knowledgePoints": [
+                        "功是能量转化的过程和量度",
+                        "常见力做功与相应的能量转化"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能源与可持续发展",
+                    "knowledgePoints": [
+                        "能量的多种形式",
+                        "能量守恒定律",
+                        "能源与环境"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "动量及其守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "动量",
+                    "knowledgePoints": [
+                        "动量的定义、单位和矢量性",
+                        "计算物体的动量及动量的变化",
+                        "动量和动能的区别与联系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "冲量",
+                    "knowledgePoints": [
+                        "冲量的定义、单位和矢量性",
+                        "求恒力的冲量",
+                        "求变力的冲量",
+                        "利用F-t图像求冲量"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动量定理",
+                    "knowledgePoints": [
+                        "动量定理的内容",
+                        "动量定理的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动量守恒定律",
+                    "knowledgePoints": [
+                        "碰撞中的不变量",
+                        "动量守恒定律的内容、应用范围和推导",
+                        "判断系统动量是否守恒"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动量守恒定律的应用",
+                    "knowledgePoints": [
+                        "碰撞",
+                        "弹性碰撞",
+                        "非弹性碰撞",
+                        "爆炸、反冲问题",
+                        "板块/子弹打木块模型",
+                        "滑块斜（曲）面模型",
+                        "滑块弹簧模型",
+                        "人船模型",
+                        "动量守恒定律解决多过程问题",
+                        "利用动量守恒及能量守恒解决（类）碰撞问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "机械振动与机械波",
+            "subsections": [
+                {
+                    "subsectionTitle": "机械振动",
+                    "knowledgePoints": [
+                        "简谐运动",
+                        "单摆",
+                        "外力作用下的振动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "机械波",
+                    "knowledgePoints": [
+                        "波的形成",
+                        "波的描述",
+                        "波的多解问题",
+                        "波的反射和折射",
+                        "波的干涉和衍射",
+                        "多普勒效应",
+                        "超声波和次声波"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "静电场",
+            "subsections": [
+                {
+                    "subsectionTitle": "电荷和静电现象",
+                    "knowledgePoints": [
+                        "电荷",
+                        "静电现象",
+                        "静电的应用和防护"
+                    ]
+                },
+                {
+                    "subsectionTitle": "库仑定律",
+                    "knowledgePoints": [
+                        "点电荷模型及库仑定律的适用范围",
+                        "库仑定律表达式和简单计算",
+                        "库仑的实验——静电力常量",
+                        "计算不能当做点电荷的带电球之间的作用力",
+                        "库仑定律与万有引力定律的类比",
+                        "带电小球的平衡问题",
+                        "静电力作用下的加速度问题",
+                        "多个点电荷间库仑力合成",
+                        "库仑力下的曲线运动",
+                        "利用动量守恒分析两带电小球的运动情况"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电场力的性质",
+                    "knowledgePoints": [
+                        "电场的概念",
+                        "电场强度",
+                        "电场线"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电场能的性质",
+                    "knowledgePoints": [
+                        "电势能",
+                        "电势",
+                        "电势差",
+                        "等势面",
+                        "电势差与电场强度的关系",
+                        "电场线、等势面和运动轨迹的定性分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电容器与电容",
+                    "knowledgePoints": [
+                        "电容器",
+                        "电容",
+                        "平行板电容器的电容",
+                        "电容器的动态分析",
+                        "电容器的充放电与储能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "带电粒子在电场中的运动",
+                    "knowledgePoints": [
+                        "带电粒子在匀强电场中的直线运动",
+                        "带电粒子在匀强电场中的偏转",
+                        "带电微粒（计重力）在电场中的运动",
+                        "示波管及其应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "恒定电流",
+            "subsections": [
+                {
+                    "subsectionTitle": "电流",
+                    "knowledgePoints": [
+                        "电流强度的定义及单位",
+                        "电流的微观表达式及其应用",
+                        "等效电流"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电阻",
+                    "knowledgePoints": [
+                        "电阻定律",
+                        "影响材料电阻率的因素"
+                    ]
+                },
+                {
+                    "subsectionTitle": "串联电路和并联电路",
+                    "knowledgePoints": [
+                        "欧姆定律",
+                        "串并联电路的特点",
+                        "电表改装"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电功和电功率",
+                    "knowledgePoints": [
+                        "电功和电功率定义、表达式及简单应用",
+                        "计算串联和并联电路的电功和电功率",
+                        "计算混联电路各电阻的电功和电功率"
+                    ]
+                },
+                {
+                    "subsectionTitle": "焦耳定律",
+                    "knowledgePoints": [
+                        "焦耳定律的内容和含义",
+                        "电流生热与电流做功的关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "非纯电阻电路",
+                    "knowledgePoints": [
+                        "电动机工作时的能量转化",
+                        "含有电动机电路综合计算",
+                        "电动机被卡住时的功率情况",
+                        "其他非纯电阻元件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电动势",
+                    "knowledgePoints": [
+                        "电源、电动势的定义、电动势与电势差的对比",
+                        "常见的电源种类及其电动势",
+                        "判断电源内部带电粒子移动方向和能量转化"
+                    ]
+                },
+                {
+                    "subsectionTitle": "闭合电路的欧姆定律",
+                    "knowledgePoints": [
+                        "闭合电路欧姆定律的内容和三个公式",
+                        "电源的U-I图像",
+                        "利用电源的U-I图像求解可变电阻的实际功率",
+                        "路端电压随负载的变化规律",
+                        "由闭合电路欧姆定律计算电源的电动势和内阻",
+                        "通过电源外特性曲线得到电动势和内阻",
+                        "计算电源的输出电压、总功率、输出功率、效率",
+                        "电源的最大输出功率及其条件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动态电路分析",
+                    "knowledgePoints": [
+                        "利用局部→整体→局部的方法分析动态电路",
+                        "根据串反并同判断电阻电压和电流的变化"
+                    ]
+                },
+                {
+                    "subsectionTitle": "故障电路分析",
+                    "knowledgePoints": [
+                        "判断电路中发生故障的元件和原因",
+                        "电路发生故障后电表示数变化问题",
+                        "电路发生故障后小灯泡亮度变化问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "含容电路分析",
+                    "knowledgePoints": [
+                        "判断电路中电容器极板的电性",
+                        "含容电路中有关电荷量及其变化的计算",
+                        "计算含容电路的电流和电压",
+                        "含有电容的电桥问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "简单逻辑电路",
+                    "knowledgePoints": [
+                        "门电路",
+                        "常用的逻辑电路"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "多用电表",
+                "黑箱问题",
+                "家庭电路与安全用电"
+            ]
+        },
+        {
+            "sectionTitle": "磁场",
+            "subsections": [
+                {
+                    "subsectionTitle": "磁现象和磁场",
+                    "knowledgePoints": [
+                        "磁场与磁感线",
+                        "磁感应强度",
+                        "几种常见的磁场",
+                        "磁通量",
+                        "电流的磁效应",
+                        "安培分子电流假说"
+                    ]
+                },
+                {
+                    "subsectionTitle": "安培力",
+                    "knowledgePoints": [
+                        "安培力的方向",
+                        "安培力的大小",
+                        "磁电式电流表",
+                        "磁力矩"
+                    ]
+                },
+                {
+                    "subsectionTitle": "洛伦兹力",
+                    "knowledgePoints": [
+                        "洛伦兹力的方向",
+                        "洛伦兹力的大小",
+                        "电子束的磁偏转"
+                    ]
+                },
+                {
+                    "subsectionTitle": "带电粒子在磁场中的运动",
+                    "knowledgePoints": [
+                        "带电粒子在无边界匀强磁场中运动",
+                        "带电粒子（微粒）在非匀强磁场中的运动",
+                        "带电粒子在有边界磁场中运动",
+                        "带电粒子在磁场中运动的多解问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "带电粒子在复合场中的运动",
+                    "knowledgePoints": [
+                        "速度选择器",
+                        "质谱仪",
+                        "回旋加速器",
+                        "霍尔效应",
+                        "磁流体发电机",
+                        "电磁流量计",
+                        "带电粒子在组合场中的运动",
+                        "带电粒子在叠加场中的运动"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "电磁感应",
+            "subsections": [
+                {
+                    "subsectionTitle": "电磁感应现象",
+                    "knowledgePoints": [
+                        "电磁感应的发现过程",
+                        "探究感应电流产生的条件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "感应电流方向的判断",
+                    "knowledgePoints": [
+                        "右手定则",
+                        "楞次定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "法拉第电磁感应定律",
+                    "knowledgePoints": [
+                        "法拉第电磁感应定律的内容",
+                        "动生电动势",
+                        "感生电动势"
+                    ]
+                },
+                {
+                    "subsectionTitle": "法拉第电磁感应定律的应用",
+                    "knowledgePoints": [
+                        "线框模型",
+                        "单杆模型",
+                        "双杆模型"
+                    ]
+                },
+                {
+                    "subsectionTitle": "自感和涡流",
+                    "knowledgePoints": [
+                        "自感与互感",
+                        "涡流",
+                        "电磁阻尼 电磁驱动"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "交变电流",
+            "subsections": [
+                {
+                    "subsectionTitle": "交变电流的产生",
+                    "knowledgePoints": [
+                        "交流发电机原理和示意图",
+                        "判断线圈转到不同位置的电流方向",
+                        "中性面及其性质",
+                        "交流电在示波器上的显示"
+                    ]
+                },
+                {
+                    "subsectionTitle": "描述交变电流的物理量",
+                    "knowledgePoints": [
+                        "交流电的图像",
+                        "交流电的频率和峰值",
+                        "交变电流的瞬时值",
+                        "交变电流的有效值",
+                        "交变电流的平均值"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电感和电容对交变电流的影响",
+                    "knowledgePoints": [
+                        "电感器对交变电流的影响",
+                        "电容器对交变电流的影响"
+                    ]
+                },
+                {
+                    "subsectionTitle": "变压器",
+                    "knowledgePoints": [
+                        "变压器的原理",
+                        "变压器的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "远距离输电",
+                    "knowledgePoints": [
+                        "升压变压器和降压变压器",
+                        "影响输电损耗的因素",
+                        "高压输电的原理与优点",
+                        "远距离输电在导线上损失功率的计算",
+                        "降压变压器原线圈电压的计算",
+                        "用户端功率改变判断输电线路中物理量变化",
+                        "计算用户端用电器的数量"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "交变电流的概念"
+            ]
+        },
+        {
+            "sectionTitle": "电磁波",
+            "subsections": [
+                {
+                    "subsectionTitle": "电磁波的产生与应用",
+                    "knowledgePoints": [
+                        "电磁场理论与电磁波的发现",
+                        "振荡回路",
+                        "电磁波的发射和接收",
+                        "电磁波与信息化社会"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电磁波谱",
+                    "knowledgePoints": [
+                        "电磁波的波长和频率的关系",
+                        "无线电波的特性及作用",
+                        "红外线的特性及作用",
+                        "可见光的特性及作用",
+                        "紫外线的特性及作用",
+                        "X射线的特性及作用",
+                        "γ射线的特性及作用",
+                        "电磁波的能量",
+                        "了解太阳辐射",
+                        "了解光谱和太阳光谱"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "传感器",
+            "subsections": [
+                {
+                    "subsectionTitle": "传感器及其元件",
+                    "knowledgePoints": [
+                        "传感器定义及原理",
+                        "光敏电阻",
+                        "热敏电阻",
+                        "金属热电阻",
+                        "霍尔元件"
+                    ]
+                },
+                {
+                    "subsectionTitle": "传感器的应用",
+                    "knowledgePoints": [
+                        "压（拉）力传感器",
+                        "温度传感器",
+                        "光传感器",
+                        "光控开关",
+                        "温度报警器"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "分子动理论",
+            "subsections": [
+                {
+                    "subsectionTitle": "阿伏加德罗常数",
+                    "knowledgePoints": [
+                        "阿伏加德罗常数的物理意义",
+                        "物质的量、摩尔质量、分子质量之间的关系",
+                        "计算物质所含分子个数"
+                    ]
+                },
+                {
+                    "subsectionTitle": "分子的大小",
+                    "knowledgePoints": [
+                        "计算物质的体积",
+                        "计算分子的体积",
+                        "分子直径大小的数量级"
+                    ]
+                },
+                {
+                    "subsectionTitle": "分子热运动",
+                    "knowledgePoints": [
+                        "分子热运动的基本概念",
+                        "影响分子热运动的因素——温度",
+                        "扩散现象",
+                        "布朗运动",
+                        "分子运动速率分布规律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "分子间的相互作用力",
+                    "knowledgePoints": [
+                        "分子间存在间隙",
+                        "分子存在相互作用力的实例",
+                        "分子间的引力、斥力合力与距离的关系图像"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物体的内能",
+                    "knowledgePoints": [
+                        "分子动能",
+                        "分子势能",
+                        "内能"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "物质是由大量分子组成的"
+            ]
+        },
+        {
+            "sectionTitle": "气体、固体和液体",
+            "subsections": [
+                {
+                    "subsectionTitle": "温度和温标",
+                    "knowledgePoints": [
+                        "热力学第零定律：热平衡定律",
+                        "热力学温标及其与摄氏温标的换算关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "气体",
+                    "knowledgePoints": [
+                        "气体的状态参量",
+                        "气体的等温变化",
+                        "气体的等容变化",
+                        "气体的等压变化",
+                        "理想气体状态方程"
+                    ]
+                },
+                {
+                    "subsectionTitle": "固体",
+                    "knowledgePoints": [
+                        "晶体和非晶体",
+                        "晶体的微观结构",
+                        "各向异性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "液体",
+                    "knowledgePoints": [
+                        "液体的表面张力",
+                        "液体的微观结构",
+                        "浸润和不浸润",
+                        "毛细现象",
+                        "液晶"
+                    ]
+                },
+                {
+                    "subsectionTitle": "饱和汽和饱和汽压",
+                    "knowledgePoints": [
+                        "了解饱和汽和饱和汽压",
+                        "相对湿度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物态变化",
+                    "knowledgePoints": [
+                        "物态变化的基本类型",
+                        "熔化与凝固过程的能量转化",
+                        "汽化与液化过程的能量转化"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "热力学定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "热力学第一定律",
+                    "knowledgePoints": [
+                        "理解热力学第一定律的表述和表达式",
+                        "判断系统吸放热、做功情况和内能变化情况",
+                        "计算系统内能改变、吸放热及做功",
+                        "热机、制冷机"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能量守恒定律（热学背景）",
+                    "knowledgePoints": [
+                        "能量守恒定律的内容",
+                        "第一类永动机对于热力学第一定律的违反",
+                        "能量守恒定律在科技中的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "热力学第二定律",
+                    "knowledgePoints": [
+                        "热力学第二定律两种表述",
+                        "第二类永动机违背了热力学第二定律",
+                        "热力学第二定律的微观意义",
+                        "熵和熵增加原理"
+                    ]
+                },
+                {
+                    "subsectionTitle": "热力学第三定律",
+                    "knowledgePoints": [
+                        "绝对零度",
+                        "热力学第三定律的内容"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能源与可持续发展",
+                    "knowledgePoints": [
+                        "能源与环境",
+                        "新能源开发"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光的直线传播与反射",
+            "subsections": [
+                {
+                    "subsectionTitle": "光沿直线传播",
+                    "knowledgePoints": [
+                        "用光沿直线传播解释生活中的现象",
+                        "光在真空中的传播速度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光的反射",
+                    "knowledgePoints": [
+                        "光的反射现象",
+                        "光的反射定律"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光的折射",
+            "subsections": [
+                {
+                    "subsectionTitle": "光的折射定律",
+                    "knowledgePoints": [
+                        "光的折射现象、光路的可逆性",
+                        "光的折射定律、折射率",
+                        "根据反射与折射定律画出光路图",
+                        "根据光的偏折程度比较折射率大小",
+                        "三棱镜色散"
+                    ]
+                },
+                {
+                    "subsectionTitle": "折射率",
+                    "knowledgePoints": [
+                        "折射率的波长表达式和速度表达式",
+                        "不同色光在同一介质中的波长与波速",
+                        "了解各色光在真空中的频率和波长"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "全反射",
+            "subsections": [
+                {
+                    "subsectionTitle": "全反射现象",
+                    "knowledgePoints": [
+                        "全反射现象的光路图",
+                        "全反射光束的能量分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "全反射的条件",
+                    "knowledgePoints": [
+                        "光疏介质和光密介质",
+                        "发生全反射的条件、临界角",
+                        "根据全反射条件判断光能否发生全反射",
+                        "折射和全反射的综合问题",
+                        "根据条件画出全反射的光路图"
+                    ]
+                },
+                {
+                    "subsectionTitle": "全反射的应用",
+                    "knowledgePoints": [
+                        "全反射棱镜",
+                        "光导纤维"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光的干涉",
+            "subsections": [
+                {
+                    "subsectionTitle": "双缝干涉",
+                    "knowledgePoints": [
+                        "发生双缝干涉的条件",
+                        "单色光与白光的双缝干涉图样",
+                        "干涉条纹间距与波长的关系",
+                        "已知光程差和频率判断某点的明暗条纹",
+                        "更换光的颜色判断条纹间距的变化",
+                        "改变双缝间距判断条纹间距的变化",
+                        "改变双缝到光屏距离判断条纹间距的变化"
+                    ]
+                },
+                {
+                    "subsectionTitle": "薄膜干涉",
+                    "knowledgePoints": [
+                        "薄膜干涉现象和原理",
+                        "检查工件的平整度",
+                        "增透膜与增反膜"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光的衍射",
+            "subsections": [
+                {
+                    "subsectionTitle": "衍射图样",
+                    "knowledgePoints": [
+                        "单缝衍射和小孔衍射图样",
+                        "泊松亮斑",
+                        "衍射光栅"
+                    ]
+                },
+                {
+                    "subsectionTitle": "衍射条件",
+                    "knowledgePoints": [
+                        "光发生明显衍射的条件",
+                        "调节单缝的宽度观察条纹变化",
+                        "光的干涉与衍射的联系"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "光的偏振",
+            "subsections": [],
+            "knowledgePoints": [
+                "偏振现象及其解释",
+                "偏振的应用"
+            ]
+        },
+        {
+            "sectionTitle": "激光",
+            "subsections": [],
+            "knowledgePoints": [
+                "激光的原理和产生条件",
+                "激光的特点及其应用"
+            ]
+        },
+        {
+            "sectionTitle": "波粒二象性",
+            "subsections": [
+                {
+                    "subsectionTitle": "能量的量子化",
+                    "knowledgePoints": [
+                        "黑体与黑体辐射",
+                        "能量子"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光电效应",
+                    "knowledgePoints": [
+                        "光电效应的规律",
+                        "光子说",
+                        "用光电管研究光电效应"
+                    ]
+                },
+                {
+                    "subsectionTitle": "康普顿效应",
+                    "knowledgePoints": [
+                        "康普顿效应的现象及其解释",
+                        "光子的动量及其公式",
+                        "光压"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物质的波粒二象性",
+                    "knowledgePoints": [
+                        "德布罗意波",
+                        "概率波",
+                        "不确定性关系"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "原子结构",
+            "subsections": [
+                {
+                    "subsectionTitle": "电子的发现",
+                    "knowledgePoints": [
+                        "电子的发现与测定",
+                        "枣糕模型"
+                    ]
+                },
+                {
+                    "subsectionTitle": "核式结构模型",
+                    "knowledgePoints": [
+                        "α粒子散射实验",
+                        "原子的核式结构"
+                    ]
+                },
+                {
+                    "subsectionTitle": "玻尔的原子模型",
+                    "knowledgePoints": [
+                        "光谱分析",
+                        "氢原子光谱",
+                        "玻尔原子理论及其局限性"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "原子核",
+            "subsections": [
+                {
+                    "subsectionTitle": "原子核的组成",
+                    "knowledgePoints": [
+                        "理解核子、电荷数和质量数",
+                        "用符号表示原子核",
+                        "计算某原子核中的质子数和中子数",
+                        "理解同位素"
+                    ]
+                },
+                {
+                    "subsectionTitle": "放射性元素衰变",
+                    "knowledgePoints": [
+                        "天然放射现象",
+                        "原子核的衰变",
+                        "半衰期",
+                        "原子核的人工转变",
+                        "探测射线的方法",
+                        "放射性的应用与防护"
+                    ]
+                },
+                {
+                    "subsectionTitle": "核力与结合能",
+                    "knowledgePoints": [
+                        "核力的性质",
+                        "原子核中质子和中子的比例",
+                        "结合能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "核能",
+                    "knowledgePoints": [
+                        "质能方程",
+                        "核裂变",
+                        "核聚变"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基本粒子",
+                    "knowledgePoints": [
+                        "强子、轻子和媒介子",
+                        "夸克模型"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物理实验基础",
+            "subsections": [
+                {
+                    "subsectionTitle": "常用仪器的使用与读数",
+                    "knowledgePoints": [
+                        "刻度尺的使用与读数",
+                        "秒表的使用与读数",
+                        "螺旋测微器的读数",
+                        "游标卡尺的使用与读数"
+                    ]
+                },
+                {
+                    "subsectionTitle": "误差和有效数字",
+                    "knowledgePoints": [
+                        "系统误差和偶然误差",
+                        "有效数字"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "力学实验",
+            "subsections": [
+                {
+                    "subsectionTitle": "测量做直线运动物体的瞬时速度",
+                    "knowledgePoints": [
+                        "用打点计时器测物体的速度",
+                        "用现代技术测速度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "测定匀变速直线运动的加速度",
+                    "knowledgePoints": [
+                        "探究小车速度随时间变化规律的实验器材和原理",
+                        "探究小车速度随时间变化规律的实验步骤",
+                        "计算某点的瞬时速度",
+                        "用逐差法计算加速度",
+                        "描绘实验的v-t图象并求加速度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用现代技术测量加速度",
+                    "knowledgePoints": [
+                        "用DIS研究匀变速运动",
+                        "用光电门研究匀变速运动",
+                        "用频闪相机研究匀变速运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究弹簧弹力与形变量的关系",
+                    "knowledgePoints": [
+                        "探究弹力和弹簧伸长量的关系的原理、器材与实验步骤",
+                        "探究弹力和弹簧伸长量的关系的数据处理与误差分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "测量动摩擦因数",
+                    "knowledgePoints": [
+                        "利用力的平衡测量动摩擦因数",
+                        "利用牛顿第二定律测量动摩擦因数",
+                        "利用动能定理测量动摩擦因数",
+                        "利用能量守恒定律测量动摩擦因数"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究两个互成角度的力的合成规律",
+                    "knowledgePoints": [
+                        "验证力的平行四边形定则的原理和实验步骤",
+                        "验证力的平行四边形定则的注意事项和误差分析",
+                        "用其他方法验证力的平行四边形定则"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究加速度与物体受力、物体质量的关系",
+                    "knowledgePoints": [
+                        "验证加速度与力成正比的实验步骤、数据处理与误差分析",
+                        "验证加速度与质量成反比的实验步骤、数据处理与误差分析",
+                        "验证牛顿第二定律实验图像的解读",
+                        "验证牛顿第二定律实验方法的改进"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究平抛运动的特点",
+                    "knowledgePoints": [
+                        "研究物体平抛运动实验的目的、原理、器材",
+                        "研究物体平抛运动实验的步骤和数据处理",
+                        "研究物体平抛运动实验的注意事项和误差分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用频闪相机研究平抛运动",
+                    "knowledgePoints": [
+                        "计算频闪时间间隔和平抛运动水平速度",
+                        "计算抛出点坐标"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究功与物体速度变化的关系",
+                    "knowledgePoints": [
+                        "探究功与物体速度变化的实验目的、原理、器材",
+                        "探究功与物体速度变化的实验步骤和数据处理",
+                        "探究功与物体速度变化的注意事项和误差分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "探究动能定理",
+                    "knowledgePoints": [
+                        "探究动能定理的实验目的、原理、器材",
+                        "探究动能定理的实验步骤和数据处理",
+                        "探究动能定理的注意事项和误差分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用现代方法验证动能定理",
+                    "knowledgePoints": [
+                        "用DIS验证动能定理",
+                        "用光电门验证动能定理"
+                    ]
+                },
+                {
+                    "subsectionTitle": "验证机械能守恒定律",
+                    "knowledgePoints": [
+                        "验证机械能守恒定律的实验目的、原理与器材",
+                        "验证机械能守恒定律的实验步骤与数据处理",
+                        "验证机械能守恒定律的注意事项和误差分析"
+                    ]
+                },
+                {
+                    "subsectionTitle": "验证动量守恒定律",
+                    "knowledgePoints": [
+                        "验证动量守恒定律的实验目的、原理、器材",
+                        "验证动量守恒定律的实验步骤和数据处理",
+                        "验证动量守恒定律的注意事项和误差分析",
+                        "用竖直挡板验证动量守恒定律",
+                        "在斜面上验证动量守恒定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "利用现代方法验证动量守恒定律",
+                    "knowledgePoints": [
+                        "利用频闪相机和气垫导轨验证动量守恒定律",
+                        "利用光电门和气垫导轨验证动量守恒定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用单摆测量重力加速度的大小",
+                    "knowledgePoints": [
+                        "用单摆测重力加速度的实验目的、原理、器材",
+                        "用单摆测重力加速度的实验步骤和数据处理",
+                        "用单摆测重力加速度的注意事项和误差分析"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "探究向心力大小与半径、角速度、质量的关系"
+            ]
+        },
+        {
+            "sectionTitle": "电学实验",
+            "subsections": [
+                {
+                    "subsectionTitle": "描绘小灯泡的伏安特性曲线",
+                    "knowledgePoints": [
+                        "测绘小灯泡的伏安特性曲线的实验目的、原理、器材",
+                        "描绘小灯泡伏安特性曲线的实验步骤和数据处理",
+                        "描绘小灯泡伏安特性曲线的注意事项和误差分析",
+                        "由伏安特性曲线推测其他关系",
+                        "伏安特性曲线在求用电器实际功率时的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "半偏法测量电表内阻",
+                    "knowledgePoints": [
+                        "半偏法测电表内阻的实验目的、原理、器材",
+                        "半偏法测灵敏电流计内阻的电路设计和实验步骤和误差分析",
+                        "半偏法测电压表内阻的电路设计、实验步骤和误差分析",
+                        "电表内阻的校准"
+                    ]
+                },
+                {
+                    "subsectionTitle": "测量电阻丝的电阻率",
+                    "knowledgePoints": [
+                        "测量电阻丝电阻率的实验原理和器材",
+                        "测量电阻丝电阻率的实验电路、实验步骤和注意事项",
+                        "测量电阻丝电阻率的数据处理方法",
+                        "电流表的内接与外接及相应的误差分析",
+                        "补偿法消除系统误差",
+                        "滑动变阻器的分压接法与限流接法",
+                        "利用改装的电表充当电流（电压）表"
+                    ]
+                },
+                {
+                    "subsectionTitle": "特殊方法测电阻",
+                    "knowledgePoints": [
+                        "利用双安法测量电阻",
+                        "利用双伏法测量电阻",
+                        "用电阻箱替代电阻测量阻值",
+                        "电桥法测电阻问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "测量电源的电动势和内阻",
+                    "knowledgePoints": [
+                        "测量电源电动势和内阻的实验原理、器材、实验电路",
+                        "测量电源电动势和内阻的实验步骤和数据处理",
+                        "测量电源电动势和内阻的注意事项和误差分析",
+                        "用电流表和电阻箱测量电源的电动势和内阻",
+                        "用电压表和电阻箱测量电源的电动势和内阻"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用多用电表测量电学中的物理量",
+                    "knowledgePoints": [
+                        "多用电表的结构和使用方法",
+                        "多用电表直流电流、电压表的读数",
+                        "多用电表欧姆挡的测量原理和内部电路",
+                        "多用电表测电阻的方法、操作步骤、注意事项和读数",
+                        "使用多用电表测量二极管的正反向电阻"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "伏安法测量未知电阻",
+                "观察电容器充、放电现象",
+                "探究影响感应电流方向的因素",
+                "探究变压器原、副线圈电压与匝数的关系",
+                "利用传感器制作简单的自动控制装置"
+            ]
+        },
+        {
+            "sectionTitle": "热学实验",
+            "subsections": [
+                {
+                    "subsectionTitle": "用油膜法估测油酸分子的大小",
+                    "knowledgePoints": [
+                        "油膜法测分子直径的原理和实验方法",
+                        "油膜法测分子直径的实验步骤和数据处理",
+                        "油膜法测分子直径的误差分析"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "探究等温情况下一定质量气体压强与体积的关系"
+            ]
+        },
+        {
+            "sectionTitle": "光学实验",
+            "subsections": [
+                {
+                    "subsectionTitle": "测量玻璃的折射率",
+                    "knowledgePoints": [
+                        "用插针法测介质折射率的实验目的、原理、器材",
+                        "用插针法测介质折射率的实验步骤和数据处理",
+                        "用插针法测介质折射率的注意事项和误差分析",
+                        "根据侧移量判断折射率大小"
+                    ]
+                },
+                {
+                    "subsectionTitle": "用双缝干涉实验测量光的波长",
+                    "knowledgePoints": [
+                        "杨氏双缝干涉实验的实验目的、原理",
+                        "杨氏双缝干涉实验的实验步骤和数据处理",
+                        "杨氏双缝干涉实验的注意事项和误差分析"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "创新实验",
+            "subsections": [],
+            "knowledgePoints": [
+                "力学创新实验",
+                "电学创新实验",
+                "热学创新实验",
+                "光学创新实验"
+            ]
+        },
+        {
+            "sectionTitle": "物理学史",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物理方法",
+            "subsections": [],
+            "knowledgePoints": [
+                "整体隔离法",
+                "控制变量法",
+                "假设法",
+                "等效法",
+                "图像法",
+                "极限法",
+                "估算法",
+                "微元法",
+                "理想模型法",
+                "放大法",
+                "转换法",
+                "比值定义法",
+                "逆向思维法",
+                "类比法",
+                "归纳法"
+            ]
+        },
+        {
+            "sectionTitle": "力学",
+            "subsections": [
+                {
+                    "subsectionTitle": "物体的运动",
+                    "knowledgePoints": [
+                        "运动学的基础内容",
+                        "抛体运动",
+                        "圆周运动",
+                        "刚体的平动与定轴转动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物体的平衡",
+                    "knowledgePoints": [
+                        "几种常见的力",
+                        "共点力作用下的物体平衡",
+                        "力矩有固定转轴的物体平衡",
+                        "一般物体的平衡",
+                        "平衡的稳度",
+                        "流体静力学"
+                    ]
+                },
+                {
+                    "subsectionTitle": "运动定律",
+                    "knowledgePoints": [
+                        "牛顿运动定律",
+                        "惯性力"
+                    ]
+                },
+                {
+                    "subsectionTitle": "能量与动量",
+                    "knowledgePoints": [
+                        "动能与势能",
+                        "功能原理与机械能守恒定律",
+                        "动量与动量守恒定律",
+                        "碰撞",
+                        "变质量体系的运动"
+                    ]
+                },
+                {
+                    "subsectionTitle": "角动量与天体运动",
+                    "knowledgePoints": [
+                        "角动量",
+                        "刚体动力学",
+                        "万有引力定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "振动与波动",
+                    "knowledgePoints": [
+                        "振动",
+                        "波动"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "电磁学",
+            "subsections": [
+                {
+                    "subsectionTitle": "电场",
+                    "knowledgePoints": [
+                        "库伦定律 电场强度",
+                        "电势",
+                        "电容器",
+                        "电偶极子 电介质"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电路",
+                    "knowledgePoints": [
+                        "电路中的基本物理量",
+                        "电路的基本规律",
+                        "电表电桥补偿电路",
+                        "网络电路的简化",
+                        "物质的导电性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "磁场",
+                    "knowledgePoints": [
+                        "电流的磁场",
+                        "磁场对电流的作用",
+                        "磁场对运动电荷的作用",
+                        "磁场应用的常见模型"
+                    ]
+                },
+                {
+                    "subsectionTitle": "电磁感应与交流电",
+                    "knowledgePoints": [
+                        "磁感应与交流电 电磁感应",
+                        "交流电",
+                        "电磁振荡和电磁波"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "声学",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "热学",
+            "subsections": [],
+            "knowledgePoints": [
+                "气体的性质",
+                "分子动理论",
+                "固体、液体的性质",
+                "相变热传递",
+                "热力学定律"
+            ]
+        },
+        {
+            "sectionTitle": "光学",
+            "subsections": [],
+            "knowledgePoints": [
+                "光的反射与折射",
+                "透镜成像与常用光学仪器",
+                "光的波动性"
+            ]
+        },
+        {
+            "sectionTitle": "科学探索",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物理学方法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "近代物理",
+            "subsections": [],
+            "knowledgePoints": [
+                "光的粒子性",
+                "原子结构",
+                "原子核",
+                "粒子"
+            ]
+        },
+        {
+            "sectionTitle": "狭义相对论",
+            "subsections": [],
+            "knowledgePoints": [
+                "基本原理与洛伦兹变换",
+                "相对论的运动学效应",
+                "相对论动力学"
+            ]
+        }
+    ]
+}

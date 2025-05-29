@@ -1,0 +1,643 @@
+{
+    "chapter": "物化综合试题",
+    "sections": [
+        {
+            "sectionTitle": "走进化学",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学研究对象",
+                "化学发展史"
+            ]
+        },
+        {
+            "sectionTitle": "物质的变化和性质",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学变化和物理变化",
+                    "knowledgePoints": [
+                        "化学变化与物理变化判断",
+                        "化学反应现象和结论判断"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "化学性质和物理性质"
+            ]
+        },
+        {
+            "sectionTitle": "化学反应及质量守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "四种基本反应类型",
+                    "knowledgePoints": [
+                        "化合反应",
+                        "分解反应",
+                        "复分解反应",
+                        "置换反应"
+                    ]
+                },
+                {
+                    "subsectionTitle": "氧化反应",
+                    "knowledgePoints": [
+                        "氧化反应概念及判断",
+                        "还原剂、氧化剂"
+                    ]
+                },
+                {
+                    "subsectionTitle": "催化剂",
+                    "knowledgePoints": [
+                        "催化剂的概念、性质与用途",
+                        "催化作用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "燃烧和灭火",
+                    "knowledgePoints": [
+                        "燃烧",
+                        "灭火",
+                        "爆炸"
+                    ]
+                },
+                {
+                    "subsectionTitle": "质量守恒定律",
+                    "knowledgePoints": [
+                        "质量守恒定律分析",
+                        "质量守恒定律的应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "化学方程式",
+                    "knowledgePoints": [
+                        "化学方程式含义",
+                        "化学方程式的书写",
+                        "根据方程式推测化学式",
+                        "化学方程式配平",
+                        "化学方程式有关计算"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "构成物质的微粒",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子",
+                    "knowledgePoints": [
+                        "物质的微粒性",
+                        "分子、原子的关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "原子",
+                    "knowledgePoints": [
+                        "原子的构成",
+                        "原子核外电子排布"
+                    ]
+                },
+                {
+                    "subsectionTitle": "离子",
+                    "knowledgePoints": [
+                        "离子的概念及形成",
+                        "离子中各类微粒间数值关系",
+                        "同一元素的离子与原子相互转化",
+                        "物质化学性质的决定因素",
+                        "离子符号的含义及书写"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "化学元素",
+            "subsections": [
+                {
+                    "subsectionTitle": "元素",
+                    "knowledgePoints": [
+                        "元素的概念",
+                        "地壳中元素的含量",
+                        "多种多样的物质及其组成"
+                    ]
+                },
+                {
+                    "subsectionTitle": "常见元素名称及符号",
+                    "knowledgePoints": [
+                        "元素符号书写及含义",
+                        "元素与原子、物质的区别与联系",
+                        "前20号元素的原子序数、名称及符号"
+                    ]
+                },
+                {
+                    "subsectionTitle": "元素周期表简介",
+                    "knowledgePoints": [
+                        "元素周期表结构及简单规律",
+                        "元素周期表及元素分类",
+                        "元素周期表信息示意图",
+                        "原子结构示意图与元素在周期表中的位置相互推断",
+                        "周期表信息示意图及结构示意图的综合考查"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物质组成的表示",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学式与化合价",
+                    "knowledgePoints": [
+                        "化学式",
+                        "化学式的简单计算",
+                        "化合价"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物质的量",
+                    "knowledgePoints": [
+                        "物质的量及其单位",
+                        "物质的量与微粒数目间的计算",
+                        "摩尔质量",
+                        "摩尔质量的有关计算"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "化学物质的多样性",
+            "subsections": [
+                {
+                    "subsectionTitle": "无机物的分类",
+                    "knowledgePoints": [
+                        "酸的定义",
+                        "碱的定义",
+                        "盐的定义",
+                        "氧化物的定义"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "纯净物和混合物的判断",
+                "单质和化合物的判断",
+                "有机物定义和常见的有机物"
+            ]
+        },
+        {
+            "sectionTitle": "空气",
+            "subsections": [
+                {
+                    "subsectionTitle": "空气的组成",
+                    "knowledgePoints": [
+                        "拉瓦锡测定空气组成的实验",
+                        "空气各成分及其体积分数",
+                        "测定空气中氧气的含量实验的过程",
+                        "测定空气中氧气含量的实验误差分析",
+                        "测定空气中氧气含量实验的改进",
+                        "证明空气及各成分的存在及性质"
+                    ]
+                },
+                {
+                    "subsectionTitle": "空气的应用",
+                    "knowledgePoints": [
+                        "空气中各成分的用途",
+                        "空气的污染与防治",
+                        "空气的分离",
+                        "空气质量报告"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "氧气",
+            "subsections": [
+                {
+                    "subsectionTitle": "氧气的性质",
+                    "knowledgePoints": [
+                        "氧气的物理性质及贮存",
+                        "氧气的化学性质"
+                    ]
+                },
+                {
+                    "subsectionTitle": "氧气的制取",
+                    "knowledgePoints": [
+                        "工业制取氧气",
+                        "实验室制取氧气"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "碳和碳的氧化物",
+            "subsections": [
+                {
+                    "subsectionTitle": "碳的单质",
+                    "knowledgePoints": [
+                        "同种元素组成的物质",
+                        "金刚石的相关知识",
+                        "石墨的相关知识",
+                        "C60的相关知识",
+                        "活性炭的吸附性",
+                        "根据新信息判断碳单质的性质",
+                        "结构、性质与用途的关系"
+                    ]
+                },
+                {
+                    "subsectionTitle": "碳单质的化学性质",
+                    "knowledgePoints": [
+                        "碳单质的稳定性",
+                        "碳单质的可燃性",
+                        "碳单质与某些氧化物的反应",
+                        "木炭还原氧化铜的实验",
+                        "木炭还原其他金属氧化物的实验",
+                        "碳单质与二氧化碳的反应"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二氧化碳和一氧化碳",
+                    "knowledgePoints": [
+                        "二氧化碳的制取",
+                        "二氧化碳",
+                        "一氧化碳"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "金属和金属矿物",
+            "subsections": [
+                {
+                    "subsectionTitle": "金属材料",
+                    "knowledgePoints": [
+                        "几种重要的金属",
+                        "合金"
+                    ]
+                },
+                {
+                    "subsectionTitle": "金属的化学性质",
+                    "knowledgePoints": [
+                        "金属与氧气反应",
+                        "金属与酸反应",
+                        "金属与盐溶液反应",
+                        "金属活动顺序表及应用",
+                        "有关金属性质的计算"
+                    ]
+                },
+                {
+                    "subsectionTitle": "金属资源的利用和保护",
+                    "knowledgePoints": [
+                        "金属矿物",
+                        "金属的冶炼",
+                        "金属资源的保护"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "水",
+            "subsections": [
+                {
+                    "subsectionTitle": "水的净化",
+                    "knowledgePoints": [
+                        "水的净化方法",
+                        "纯水与某些天然水"
+                    ]
+                },
+                {
+                    "subsectionTitle": "水的组成",
+                    "knowledgePoints": [
+                        "水的电解实验",
+                        "氢气",
+                        "水的性质"
+                    ]
+                },
+                {
+                    "subsectionTitle": "水资源",
+                    "knowledgePoints": [
+                        "水资源的现状",
+                        "爱护水资源"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "溶液",
+            "subsections": [
+                {
+                    "subsectionTitle": "溶液的形成",
+                    "knowledgePoints": [
+                        "溶解现象及溶液",
+                        "溶解性",
+                        "溶解时能量的变化",
+                        "乳化现象与结晶现象"
+                    ]
+                },
+                {
+                    "subsectionTitle": "溶解度",
+                    "knowledgePoints": [
+                        "饱和溶液",
+                        "物质的溶解度"
+                    ]
+                },
+                {
+                    "subsectionTitle": "溶液的浓度",
+                    "knowledgePoints": [
+                        "溶质的质量分数",
+                        "配制一定溶质质量分数的溶液"
+                    ]
+                },
+                {
+                    "subsectionTitle": "有关溶液的计算",
+                    "knowledgePoints": [
+                        "配制一定溶质质量分数的计算",
+                        "溶质质量分数公式运用",
+                        "有关溶液浓缩、稀释的计算",
+                        "溶质质量分数结合化学方程式的计算",
+                        "溶液和化学方程式的综合计算"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "生活中常见化合物",
+            "subsections": [
+                {
+                    "subsectionTitle": "酸和碱",
+                    "knowledgePoints": [
+                        "常见酸主要性质及用途",
+                        "酸的化学性质",
+                        "常见碱主要性质及用途",
+                        "碱的化学性质",
+                        "酸碱指示剂"
+                    ]
+                },
+                {
+                    "subsectionTitle": "中和反应",
+                    "knowledgePoints": [
+                        "中和反应原理",
+                        "中和反应的应用",
+                        "溶液的酸碱性和pH"
+                    ]
+                },
+                {
+                    "subsectionTitle": "盐和化肥",
+                    "knowledgePoints": [
+                        "常见盐",
+                        "盐的性质",
+                        "化学肥料"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "几种简单的有机物",
+            "subsections": [],
+            "knowledgePoints": [
+                "甲烷",
+                "乙醇",
+                "乙酸"
+            ]
+        },
+        {
+            "sectionTitle": "化学物质与健康",
+            "subsections": [
+                {
+                    "subsectionTitle": "基本营养物质",
+                    "knowledgePoints": [
+                        "蛋白质",
+                        "维生素",
+                        "油脂",
+                        "糖类",
+                        "高分子化合物"
+                    ]
+                },
+                {
+                    "subsectionTitle": "元素与人体健康",
+                    "knowledgePoints": [
+                        "人体内的常量元素",
+                        "人体内的微量元素",
+                        "合理饮食"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "对人体健康危害的物质"
+            ]
+        },
+        {
+            "sectionTitle": "化学合成材料",
+            "subsections": [
+                {
+                    "subsectionTitle": "合成材料",
+                    "knowledgePoints": [
+                        "常见物品质材的辨别",
+                        "塑料、合成橡胶、合成纤维",
+                        "有机材料对环境的影响及应对措施",
+                        "羊毛、合成纤维、棉的鉴别"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "有机化合物",
+                "新型材料",
+                "无机非金属材料"
+            ]
+        },
+        {
+            "sectionTitle": "化学与能源的开发利用",
+            "subsections": [
+                {
+                    "subsectionTitle": "燃料的合理利用与开发",
+                    "knowledgePoints": [
+                        "化学反应中的能量变化",
+                        "绿色能源",
+                        "资源综合利用和新能源开发",
+                        "化石燃料"
+                    ]
+                },
+                {
+                    "subsectionTitle": "海洋资源",
+                    "knowledgePoints": [
+                        "海洋化学资源",
+                        "海水晒盐",
+                        "海水制碱"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "化学与环境",
+            "subsections": [],
+            "knowledgePoints": [
+                "绿色化学",
+                "空气污染及其保护",
+                "土壤污染",
+                "水体的污染及保护",
+                "“三废”处理",
+                "合理使用化肥与农药",
+                "垃圾分类（上海）",
+                "垃圾分类（北京）"
+            ]
+        },
+        {
+            "sectionTitle": "实验基础",
+            "subsections": [
+                {
+                    "subsectionTitle": "怎样进行化学实验",
+                    "knowledgePoints": [
+                        "实验安全问题及处理",
+                        "化学实验室安全规则",
+                        "常用危险化学品标志",
+                        "科学探究的基本环节的辨析",
+                        "探究蜡烛及其燃烧",
+                        "探究人体吸入空气和呼出气体",
+                        "金属铜化学性质的探究",
+                        "化学变化现象的观察及描述"
+                    ]
+                },
+                {
+                    "subsectionTitle": "常用化学实验仪器",
+                    "knowledgePoints": [
+                        "量筒的正确使用方法和注意事项",
+                        "托盘天平的正确使用方法和注意事项",
+                        "酒精灯的正确使用方法和注意事项",
+                        "胶头滴管的正确使用方法和注意事项",
+                        "容器",
+                        "玻璃棒的作用",
+                        "常见仪器及制材的辨认",
+                        "分离物质及加热的仪器",
+                        "根据量程和精确度进行数据合理性的判断"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基本实验操作",
+                    "knowledgePoints": [
+                        "试剂的取用",
+                        "仪器连接",
+                        "气密性检测",
+                        "仪器的洗涤",
+                        "物质的加热",
+                        "振荡和搅拌"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物质的鉴别、推断与分离、提纯",
+            "subsections": [
+                {
+                    "subsectionTitle": "物质的分离、提纯",
+                    "knowledgePoints": [
+                        "蒸发",
+                        "过滤",
+                        "吸附",
+                        "蒸馏",
+                        "除杂"
+                    ]
+                },
+                {
+                    "subsectionTitle": "物质的鉴别与推断",
+                    "knowledgePoints": [
+                        "物质的鉴别",
+                        "物质的推断"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "气体制取和净化",
+            "subsections": [
+                {
+                    "subsectionTitle": "气体制取",
+                    "knowledgePoints": [
+                        "实验室制取气体的一般思路",
+                        "气体制备实验的反应条件的控制",
+                        "气体发生、收集装置"
+                    ]
+                },
+                {
+                    "subsectionTitle": "气体收集、净化及处理",
+                    "knowledgePoints": [
+                        "气体的收集方式",
+                        "气体净化、干燥",
+                        "污染性、可燃性尾气的处理",
+                        "万能瓶的使用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "气体制备综合考查",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验探究与设计",
+            "subsections": [
+                {
+                    "subsectionTitle": "实验和探究常考模块",
+                    "knowledgePoints": [
+                        "实验的猜想与假设",
+                        "实验的设计与操作",
+                        "实验的解释与结论",
+                        "实验的结果与测量",
+                        "实验的设计与评价"
+                    ]
+                },
+                {
+                    "subsectionTitle": "实验探究的方法",
+                    "knowledgePoints": [
+                        "定量实验",
+                        "定性实验"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "节约能源与绿色化学（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "生活常识与科学应用（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物理变化与化学变化（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验操作与注意事项（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "分子动理论（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "物质的分类（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "观索现象与总结规律（理综）",
+            "subsections": [],
+            "knowledgePoints": []
+        }
+    ]
+}

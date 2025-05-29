@@ -1,316 +1,359 @@
 {
-    "1": [
+    "chapter": "第五章  合成高分子",
+    "sections": [
         {
-            "第一章  有机化合物的结构特点与研究方法": {
-                "2": [
-                    {
-                        "第一节  有机化合物的结构特点": {
-                            "3": [
-                                {
-                                    "有机物通性": {}
-                                },
-                                {
-                                    "有机物常见分类": {}
-                                },
-                                {
-                                    "有机官能团的性质及结构": {}
-                                },
-                                {
-                                    "有机化合物中碳的成键特征": {}
-                                },
-                                {
-                                    "有机物结构的表示方法": {}
-                                },
-                                {
-                                    "同分异构现象": {}
-                                },
-                                {
-                                    "同分异构体书写": {}
-                                },
-                                {
-                                    "有机反应类型": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  研究有机化合物的一般方法": {
-                            "3": [
-                                {
-                                    "有机物分子式的确定": {}
-                                },
-                                {
-                                    "有机物结构式的确定": {}
-                                },
-                                {
-                                    "有机物的分离与提纯": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第一节  有机化合物的结构特点",
+            "subsections": [
+                {
+                    "subsectionTitle": "有机物通性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机物常见分类",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机官能团的性质及结构",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机化合物中碳的成键特征",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机物结构的表示方法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "同分异构现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "同分异构体书写",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机反应类型",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第二章  烃": {
-                "2": [
-                    {
-                        "第一节  烷烃": {
-                            "3": [
-                                {
-                                    "烷烃的命名": {}
-                                },
-                                {
-                                    "同系物": {}
-                                },
-                                {
-                                    "甲烷": {}
-                                },
-                                {
-                                    "烷烃": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  烯烃  炔烃": {
-                            "3": [
-                                {
-                                    "乙烯": {}
-                                },
-                                {
-                                    "烯烃": {}
-                                },
-                                {
-                                    "乙炔": {}
-                                },
-                                {
-                                    "炔烃": {}
-                                },
-                                {
-                                    "烯烃、炔烃的命名": {}
-                                },
-                                {
-                                    "脂肪烃的来源及用途": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  芳香烃": {
-                            "3": [
-                                {
-                                    "环状化合物的命名": {}
-                                },
-                                {
-                                    "苯": {}
-                                },
-                                {
-                                    "芳香烃": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第二节  研究有机化合物的一般方法",
+            "subsections": [
+                {
+                    "subsectionTitle": "有机物分子式的确定",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机物结构式的确定",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机物的分离与提纯",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第三章  烃的衍生物": {
-                "2": [
-                    {
-                        "第一节  卤代烃": {
-                            "3": [
-                                {
-                                    "卤代烃": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  醇 酚": {
-                            "3": [
-                                {
-                                    "醇的命名": {}
-                                },
-                                {
-                                    "醇类": {}
-                                },
-                                {
-                                    "乙醇": {}
-                                },
-                                {
-                                    "酚类": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  醛 酮": {
-                            "3": [
-                                {
-                                    "乙醛": {}
-                                },
-                                {
-                                    "甲醛": {}
-                                },
-                                {
-                                    "醛类": {}
-                                },
-                                {
-                                    "酮": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第四节  羧酸 羧酸衍生物": {
-                            "3": [
-                                {
-                                    "乙酸": {}
-                                },
-                                {
-                                    "羧酸": {}
-                                },
-                                {
-                                    "酯": {}
-                                },
-                                {
-                                    "胺和酰胺": {}
-                                },
-                                {
-                                    "油脂": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第五节  有机合成": {
-                            "3": [
-                                {
-                                    "碳骨架的构建和官能团的引入": {}
-                                },
-                                {
-                                    "有机合成路线的设计": {}
-                                },
-                                {
-                                    "有关混合有机物的计算": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    },
-                    {
-                        "实验活动1 乙酸乙酯的制备与性质": {}
-                    },
-                    {
-                        "实验活动2 有机化合物中常见官能团的检验": {}
-                    }
-                ]
-            }
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
         },
         {
-            "第四章  生物大分子": {
-                "2": [
-                    {
-                        "第一节  糖类": {
-                            "3": [
-                                {
-                                    "糖类的组成和分类": {}
-                                },
-                                {
-                                    "葡萄糖和果糖": {}
-                                },
-                                {
-                                    "蔗糖与麦芽糖": {}
-                                },
-                                {
-                                    "淀粉和纤维素": {}
-                                },
-                                {
-                                    "糖类性质实验探究": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  蛋白质": {
-                            "3": [
-                                {
-                                    "氨基酸": {}
-                                },
-                                {
-                                    "蛋白质": {}
-                                },
-                                {
-                                    "酶": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  核酸": {
-                            "3": [
-                                {
-                                    "五碳醛糖与核酸": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    },
-                    {
-                        "实验活动3 糖类的性质": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第一节  烷烃",
+            "subsections": [
+                {
+                    "subsectionTitle": "烷烃的命名",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "同系物",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "甲烷",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "烷烃",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第五章  合成高分子": {
-                "2": [
-                    {
-                        "第一节  合成高分子的基本方法": {
-                            "3": [
-                                {
-                                    "高分子化合物通性": {}
-                                },
-                                {
-                                    "加聚反应": {}
-                                },
-                                {
-                                    "缩聚反应": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  高分子材料": {
-                            "3": [
-                                {
-                                    "通用高分子材料": {}
-                                },
-                                {
-                                    "功能高分子材料": {}
-                                },
-                                {
-                                    "应用广泛的高分子材料": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第二节  烯烃  炔烃",
+            "subsections": [
+                {
+                    "subsectionTitle": "乙烯",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "烯烃",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "乙炔",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "炔烃",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "烯烃、炔烃的命名",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "脂肪烃的来源及用途",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  芳香烃",
+            "subsections": [
+                {
+                    "subsectionTitle": "环状化合物的命名",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "苯",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "芳香烃",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  卤代烃",
+            "subsections": [
+                {
+                    "subsectionTitle": "卤代烃",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  醇 酚",
+            "subsections": [
+                {
+                    "subsectionTitle": "醇的命名",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "醇类",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "乙醇",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "酚类",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  醛 酮",
+            "subsections": [
+                {
+                    "subsectionTitle": "乙醛",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "甲醛",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "醛类",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "酮",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第四节  羧酸 羧酸衍生物",
+            "subsections": [
+                {
+                    "subsectionTitle": "乙酸",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "羧酸",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "酯",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "胺和酰胺",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "油脂",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第五节  有机合成",
+            "subsections": [
+                {
+                    "subsectionTitle": "碳骨架的构建和官能团的引入",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有机合成路线的设计",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "有关混合有机物的计算",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动1 乙酸乙酯的制备与性质",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动2 有机化合物中常见官能团的检验",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  糖类",
+            "subsections": [
+                {
+                    "subsectionTitle": "糖类的组成和分类",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "葡萄糖和果糖",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "蔗糖与麦芽糖",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "淀粉和纤维素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "糖类性质实验探究",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  蛋白质",
+            "subsections": [
+                {
+                    "subsectionTitle": "氨基酸",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "蛋白质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "酶",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  核酸",
+            "subsections": [
+                {
+                    "subsectionTitle": "五碳醛糖与核酸",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动3 糖类的性质",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  合成高分子的基本方法",
+            "subsections": [
+                {
+                    "subsectionTitle": "高分子化合物通性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "加聚反应",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "缩聚反应",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  高分子材料",
+            "subsections": [
+                {
+                    "subsectionTitle": "通用高分子材料",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "功能高分子材料",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "应用广泛的高分子材料",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
         }
     ]
 }

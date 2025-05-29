@@ -1,646 +1,775 @@
 {
-    "1": [
+    "chapter": "第五章 原子核",
+    "sections": [
         {
-            "第一章 分子动理论": {
-                "2": [
-                    {
-                        "1. 分子动理论的基本内容": {
-                            "3": [
-                                {
-                                    "物质是由大量分子组成的": {}
-                                },
-                                {
-                                    "阿伏加德罗常数的物理意义": {}
-                                },
-                                {
-                                    "物质的量、摩尔质量、分子质量之间的关系": {}
-                                },
-                                {
-                                    "计算物质所含分子个数": {}
-                                },
-                                {
-                                    "计算物质的体积": {}
-                                },
-                                {
-                                    "计算分子的体积": {}
-                                },
-                                {
-                                    "分子直径大小的数量级": {}
-                                },
-                                {
-                                    "生活中的扩散现象": {}
-                                },
-                                {
-                                    "影响扩散现象快慢的因素": {}
-                                },
-                                {
-                                    "扩散现象解释分子热运动": {}
-                                },
-                                {
-                                    "布朗运动的定义、现象和解释": {}
-                                },
-                                {
-                                    "布朗运动微粒运动的观测记录图象": {}
-                                },
-                                {
-                                    "影响微粒布朗运动快慢的因素": {}
-                                },
-                                {
-                                    "分子间存在间隙": {}
-                                },
-                                {
-                                    "分子存在相互作用力的实例": {}
-                                },
-                                {
-                                    "分子间的引力、斥力合力与距离的关系图像": {}
-                                },
-                                {
-                                    "分子热运动的基本概念": {}
-                                },
-                                {
-                                    "影响分子热运动的因素——温度": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 实验：用油膜法估测油酸分子的大小": {
-                            "3": [
-                                {
-                                    "油膜法测分子直径的原理和实验方法": {}
-                                },
-                                {
-                                    "油膜法测分子直径的实验步骤和数据处理": {}
-                                },
-                                {
-                                    "油膜法测分子直径的误差分析": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 分子运动速率分布规律": {
-                            "3": [
-                                {
-                                    "气体分子热运动的特点": {}
-                                },
-                                {
-                                    "气体温度的微观意义、气体分子速率分布图像": {}
-                                },
-                                {
-                                    "气体压强的微观意义": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 分子动能和分子势能": {
-                            "3": [
-                                {
-                                    "分子势能随间距的变化E-r图": {}
-                                },
-                                {
-                                    "分子势能为负值及其解释": {}
-                                },
-                                {
-                                    "类比弹簧模型分析两分子势能的变化": {}
-                                },
-                                {
-                                    "两分子间分子势能和动能随间距变化的变化": {}
-                                },
-                                {
-                                    "分子动能": {}
-                                },
-                                {
-                                    "理解内能的概念": {}
-                                },
-                                {
-                                    "内能与机械能的区别": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "1. 分子动理论的基本内容",
+            "subsections": [
+                {
+                    "subsectionTitle": "物质是由大量分子组成的",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "阿伏加德罗常数的物理意义",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "物质的量、摩尔质量、分子质量之间的关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算物质所含分子个数",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算物质的体积",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算分子的体积",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子直径大小的数量级",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生活中的扩散现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响扩散现象快慢的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "扩散现象解释分子热运动",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "布朗运动的定义、现象和解释",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "布朗运动微粒运动的观测记录图象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响微粒布朗运动快慢的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子间存在间隙",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子存在相互作用力的实例",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子间的引力、斥力合力与距离的关系图像",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子热运动的基本概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响分子热运动的因素——温度",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第二章 气体、固体和液体": {
-                "2": [
-                    {
-                        "1. 温度和温标": {
-                            "3": [
-                                {
-                                    "分子动能": {}
-                                },
-                                {
-                                    "热力学第零定律：热平衡定律": {}
-                                },
-                                {
-                                    "热力学温标及其与摄氏温标的换算关系": {}
-                                },
-                                {
-                                    "气体的状态参量": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 气体的等温变化": {
-                            "3": [
-                                {
-                                    "理解玻意耳定律": {}
-                                },
-                                {
-                                    "气体等温变化的图象": {}
-                                },
-                                {
-                                    "应用波意耳定律解决实际问题": {}
-                                },
-                                {
-                                    "探究等温情况下一定质量气体压强与体积的关系": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 气体的等压变化和等容变化": {
-                            "3": [
-                                {
-                                    "理解查理定理": {}
-                                },
-                                {
-                                    "气体等容变化的图象": {}
-                                },
-                                {
-                                    "应用查理定律解决实际问题": {}
-                                },
-                                {
-                                    "理解盖吕萨克定理": {}
-                                },
-                                {
-                                    "气体等压变化的图象": {}
-                                },
-                                {
-                                    "应用盖吕萨克定律解决实际问题": {}
-                                },
-                                {
-                                    "理想气体的状态方程及各物理量的含义": {}
-                                },
-                                {
-                                    "应用理想气体状态方程处理实际问题": {}
-                                },
-                                {
-                                    "理想气体": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 固体": {
-                            "3": [
-                                {
-                                    "晶体和非晶体": {}
-                                },
-                                {
-                                    "晶体的微观结构": {}
-                                },
-                                {
-                                    "各向异性": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 液体": {
-                            "3": [
-                                {
-                                    "液体的表面张力": {}
-                                },
-                                {
-                                    "液体的微观结构": {}
-                                },
-                                {
-                                    "浸润和不浸润": {}
-                                },
-                                {
-                                    "毛细现象": {}
-                                },
-                                {
-                                    "液晶": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "2. 实验：用油膜法估测油酸分子的大小",
+            "subsections": [
+                {
+                    "subsectionTitle": "油膜法测分子直径的原理和实验方法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "油膜法测分子直径的实验步骤和数据处理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "油膜法测分子直径的误差分析",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第三章 热力学定律": {
-                "2": [
-                    {
-                        "1. 功、热和内能的改变": {
-                            "3": [
-                                {
-                                    "通过做功改变系统内能": {}
-                                },
-                                {
-                                    "通过热传递改变系统内能": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 热力学第一定律": {
-                            "3": [
-                                {
-                                    "理解热力学第一定律的表述和表达式": {}
-                                },
-                                {
-                                    "判断系统吸放热、做功情况和内能变化情况": {}
-                                },
-                                {
-                                    "计算系统内能改变、吸放热及做功": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 能量守恒定律": {
-                            "3": [
-                                {
-                                    "能量守恒定律的内容": {}
-                                },
-                                {
-                                    "第一类永动机对于热力学第一定律的违反": {}
-                                },
-                                {
-                                    "能量守恒定律在科技中的应用": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 热力学第二定律": {
-                            "3": [
-                                {
-                                    "热力学第二定律两种表述": {}
-                                },
-                                {
-                                    "第二类永动机违背了热力学第二定律": {}
-                                },
-                                {
-                                    "热力学第二定律的微观意义": {}
-                                },
-                                {
-                                    "熵和熵增加原理": {}
-                                },
-                                {
-                                    "能源与环境": {}
-                                },
-                                {
-                                    "新能源开发": {}
-                                },
-                                {
-                                    "绝对零度": {}
-                                },
-                                {
-                                    "热力学第三定律的内容": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "3. 分子运动速率分布规律",
+            "subsections": [
+                {
+                    "subsectionTitle": "气体分子热运动的特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体温度的微观意义、气体分子速率分布图像",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体压强的微观意义",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第四章 原子结构和波粒二象性": {
-                "2": [
-                    {
-                        "1. 普朗克黑体辐射理论": {
-                            "3": [
-                                {
-                                    "热辐射、黑体和黑体辐射": {}
-                                },
-                                {
-                                    "黑体辐射的实验规律": {}
-                                },
-                                {
-                                    "理解量子化与能量子": {}
-                                },
-                                {
-                                    "根据公式计算能量子ε的值": {}
-                                },
-                                {
-                                    "能量的量子化": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 光电效应": {
-                            "3": [
-                                {
-                                    "光电效应现象及其解释": {}
-                                },
-                                {
-                                    "光电效应的极限频率": {}
-                                },
-                                {
-                                    "影响光电流大小的因素": {}
-                                },
-                                {
-                                    "光电子的最大初速度": {}
-                                },
-                                {
-                                    "光电效应的瞬时性": {}
-                                },
-                                {
-                                    "康普顿效应的现象及其解释": {}
-                                },
-                                {
-                                    "光子的动量及其公式": {}
-                                },
-                                {
-                                    "光压": {}
-                                },
-                                {
-                                    "用不同色光照射光电管能否发生光电效应": {}
-                                },
-                                {
-                                    "饱和电流的本质及其决定因素": {}
-                                },
-                                {
-                                    "遏止电压的本质及其决定因素": {}
-                                },
-                                {
-                                    "光子能量的公式": {}
-                                },
-                                {
-                                    "爱因斯坦光电效应方程": {}
-                                },
-                                {
-                                    "光电效应方程的函数图象": {}
-                                },
-                                {
-                                    "爱因斯坦光子说的内容及其对光电效应的解释": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 原子的核式结构模型": {
-                            "3": [
-                                {
-                                    "发现阴极射线——电子的实验装置": {}
-                                },
-                                {
-                                    "计算电子的比荷": {}
-                                },
-                                {
-                                    "密立根实验测电子的电荷量": {}
-                                },
-                                {
-                                    "枣糕模型": {}
-                                },
-                                {
-                                    "α粒子散射实验的装置、现象和结果分析": {}
-                                },
-                                {
-                                    "α粒子射向原子核的微观分析": {}
-                                },
-                                {
-                                    "卢瑟福原子核式结构模型": {}
-                                },
-                                {
-                                    "原子与原子核半径的数量级比较": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 氢原子光谱和玻尔的原子模型": {
-                            "3": [
-                                {
-                                    "线状谱和连续谱": {}
-                                },
-                                {
-                                    "光谱分析及其应用": {}
-                                },
-                                {
-                                    "太阳光谱的特征分析": {}
-                                },
-                                {
-                                    "理解氢原子光谱的特点": {}
-                                },
-                                {
-                                    "理解巴尔末公式及其应用": {}
-                                },
-                                {
-                                    "玻尔原子理论的基本假设": {}
-                                },
-                                {
-                                    "基态、激发态、跃迁、电离": {}
-                                },
-                                {
-                                    "氢原子能级图": {}
-                                },
-                                {
-                                    "计算电子跃迁中释放的光子频率种数": {}
-                                },
-                                {
-                                    "计算电子跃迁时吸收或释放光子的频率和波长": {}
-                                },
-                                {
-                                    "玻尔理论的局限性": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 粒子的波动性和量子力学的建立": {
-                            "3": [
-                                {
-                                    "光的波粒二象性": {}
-                                },
-                                {
-                                    "实物粒子的波动性": {}
-                                },
-                                {
-                                    "德布罗意波的公式": {}
-                                },
-                                {
-                                    "电子束衍射和衍射图样": {}
-                                },
-                                {
-                                    "概率波的概念": {}
-                                },
-                                {
-                                    "用概率波观点解释干涉图样的形成": {}
-                                },
-                                {
-                                    "从概率波角度说明电磁波的波粒二象性": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "4. 分子动能和分子势能",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子势能随间距的变化E-r图",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子势能为负值及其解释",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "类比弹簧模型分析两分子势能的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "两分子间分子势能和动能随间距变化的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子动能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解内能的概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "内能与机械能的区别",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第五章 原子核": {
-                "2": [
-                    {
-                        "1. 原子核的组成": {
-                            "3": [
-                                {
-                                    "天然放射现象的发现过程": {}
-                                },
-                                {
-                                    "放射性元素与放射性现象": {}
-                                },
-                                {
-                                    "理解核子、电荷数和质量数": {}
-                                },
-                                {
-                                    "用符号表示原子核": {}
-                                },
-                                {
-                                    "计算某原子核中的质子数和中子数": {}
-                                },
-                                {
-                                    "α和β、γ三种射线的性质": {}
-                                },
-                                {
-                                    "威尔逊云室": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 放射性元素的衰变": {
-                            "3": [
-                                {
-                                    "α衰变的特点、本质及其方程的写法": {}
-                                },
-                                {
-                                    "β衰变的特点、本质及其方程的写法": {}
-                                },
-                                {
-                                    "半衰期的概念": {}
-                                },
-                                {
-                                    "半衰期相关的计算": {}
-                                },
-                                {
-                                    "发现质子和中子的核反应": {}
-                                },
-                                {
-                                    "根据条件写出核反应方程": {}
-                                },
-                                {
-                                    "人工放射性同位素": {}
-                                },
-                                {
-                                    "理解同位素": {}
-                                },
-                                {
-                                    "放射性同位素的应用": {}
-                                },
-                                {
-                                    "核辐射和安全": {}
-                                },
-                                {
-                                    "气泡室": {}
-                                },
-                                {
-                                    "盖革-米勒计数器": {}
-                                },
-                                {
-                                    "计算发生α衰变和β衰变的次数": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 核力与结合能": {
-                            "3": [
-                                {
-                                    "核力的性质": {}
-                                },
-                                {
-                                    "原子核中质子与中子的比例": {}
-                                },
-                                {
-                                    "比较核反应与化学反应的异同": {}
-                                },
-                                {
-                                    "分析原子核的结合能与比结合能": {}
-                                },
-                                {
-                                    "元素核子平均质量曲线": {}
-                                },
-                                {
-                                    "元素的比结合能曲线": {}
-                                },
-                                {
-                                    "自然界的四种基本相互作用": {}
-                                },
-                                {
-                                    "计算核反应中的质量亏损": {}
-                                },
-                                {
-                                    "利用质能方程公式进行计算": {}
-                                },
-                                {
-                                    "质能方程中的单位换算": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 核裂变与核聚变": {
-                            "3": [
-                                {
-                                    "核裂变现象和产生条件": {}
-                                },
-                                {
-                                    "铀核的典型裂变方程": {}
-                                },
-                                {
-                                    "计算核裂变反应中释放的能量": {}
-                                },
-                                {
-                                    "核裂变的应用": {}
-                                },
-                                {
-                                    "核聚变现象和产生条件": {}
-                                },
-                                {
-                                    "典型的核聚变方程": {}
-                                },
-                                {
-                                    "计算核聚变反应中释放的能量": {}
-                                },
-                                {
-                                    "受控热核反应": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. “基本”粒子": {
-                            "3": [
-                                {
-                                    "强子、轻子和媒介子": {}
-                                },
-                                {
-                                    "夸克模型": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "1. 温度和温标",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子动能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "热力学第零定律：热平衡定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "热力学温标及其与摄氏温标的换算关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体的状态参量",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 气体的等温变化",
+            "subsections": [
+                {
+                    "subsectionTitle": "理解玻意耳定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体等温变化的图象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "应用波意耳定律解决实际问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "探究等温情况下一定质量气体压强与体积的关系",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 气体的等压变化和等容变化",
+            "subsections": [
+                {
+                    "subsectionTitle": "理解查理定理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体等容变化的图象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "应用查理定律解决实际问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解盖吕萨克定理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气体等压变化的图象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "应用盖吕萨克定律解决实际问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理想气体的状态方程及各物理量的含义",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "应用理想气体状态方程处理实际问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理想气体",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 固体",
+            "subsections": [
+                {
+                    "subsectionTitle": "晶体和非晶体",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "晶体的微观结构",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "各向异性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 液体",
+            "subsections": [
+                {
+                    "subsectionTitle": "液体的表面张力",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "液体的微观结构",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "浸润和不浸润",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "毛细现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "液晶",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 功、热和内能的改变",
+            "subsections": [
+                {
+                    "subsectionTitle": "通过做功改变系统内能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "通过热传递改变系统内能",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 热力学第一定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "理解热力学第一定律的表述和表达式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "判断系统吸放热、做功情况和内能变化情况",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算系统内能改变、吸放热及做功",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 能量守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "能量守恒定律的内容",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "第一类永动机对于热力学第一定律的违反",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能量守恒定律在科技中的应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 热力学第二定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "热力学第二定律两种表述",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "第二类永动机违背了热力学第二定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "热力学第二定律的微观意义",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "熵和熵增加原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能源与环境",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "新能源开发",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "绝对零度",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "热力学第三定律的内容",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 普朗克黑体辐射理论",
+            "subsections": [
+                {
+                    "subsectionTitle": "热辐射、黑体和黑体辐射",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "黑体辐射的实验规律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解量子化与能量子",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据公式计算能量子ε的值",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能量的量子化",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 光电效应",
+            "subsections": [
+                {
+                    "subsectionTitle": "光电效应现象及其解释",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光电效应的极限频率",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响光电流大小的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光电子的最大初速度",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光电效应的瞬时性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "康普顿效应的现象及其解释",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光子的动量及其公式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光压",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用不同色光照射光电管能否发生光电效应",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "饱和电流的本质及其决定因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遏止电压的本质及其决定因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光子能量的公式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "爱因斯坦光电效应方程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光电效应方程的函数图象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "爱因斯坦光子说的内容及其对光电效应的解释",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 原子的核式结构模型",
+            "subsections": [
+                {
+                    "subsectionTitle": "发现阴极射线——电子的实验装置",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算电子的比荷",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "密立根实验测电子的电荷量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "枣糕模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "α粒子散射实验的装置、现象和结果分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "α粒子射向原子核的微观分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "卢瑟福原子核式结构模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原子与原子核半径的数量级比较",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 氢原子光谱和玻尔的原子模型",
+            "subsections": [
+                {
+                    "subsectionTitle": "线状谱和连续谱",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光谱分析及其应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "太阳光谱的特征分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解氢原子光谱的特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解巴尔末公式及其应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "玻尔原子理论的基本假设",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基态、激发态、跃迁、电离",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "氢原子能级图",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算电子跃迁中释放的光子频率种数",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算电子跃迁时吸收或释放光子的频率和波长",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "玻尔理论的局限性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 粒子的波动性和量子力学的建立",
+            "subsections": [
+                {
+                    "subsectionTitle": "光的波粒二象性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "实物粒子的波动性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "德布罗意波的公式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电子束衍射和衍射图样",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "概率波的概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用概率波观点解释干涉图样的形成",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "从概率波角度说明电磁波的波粒二象性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 原子核的组成",
+            "subsections": [
+                {
+                    "subsectionTitle": "天然放射现象的发现过程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "放射性元素与放射性现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解核子、电荷数和质量数",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用符号表示原子核",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算某原子核中的质子数和中子数",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "α和β、γ三种射线的性质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "威尔逊云室",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 放射性元素的衰变",
+            "subsections": [
+                {
+                    "subsectionTitle": "α衰变的特点、本质及其方程的写法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "β衰变的特点、本质及其方程的写法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "半衰期的概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "半衰期相关的计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "发现质子和中子的核反应",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据条件写出核反应方程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "人工放射性同位素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "理解同位素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "放射性同位素的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "核辐射和安全",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "气泡室",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "盖革-米勒计数器",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算发生α衰变和β衰变的次数",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 核力与结合能",
+            "subsections": [
+                {
+                    "subsectionTitle": "核力的性质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原子核中质子与中子的比例",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "比较核反应与化学反应的异同",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分析原子核的结合能与比结合能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素核子平均质量曲线",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素的比结合能曲线",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "自然界的四种基本相互作用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算核反应中的质量亏损",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用质能方程公式进行计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "质能方程中的单位换算",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 核裂变与核聚变",
+            "subsections": [
+                {
+                    "subsectionTitle": "核裂变现象和产生条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "铀核的典型裂变方程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算核裂变反应中释放的能量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "核裂变的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "核聚变现象和产生条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "典型的核聚变方程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算核聚变反应中释放的能量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "受控热核反应",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. “基本”粒子",
+            "subsections": [
+                {
+                    "subsectionTitle": "强子、轻子和媒介子",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "夸克模型",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         }
     ]
 }

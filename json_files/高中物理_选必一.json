@@ -1,628 +1,759 @@
 {
-    "1": [
+    "chapter": "第四章 光",
+    "sections": [
         {
-            "第一章 动量守恒定律": {
-                "2": [
-                    {
-                        "1. 动量": {
-                            "3": [
-                                {
-                                    "动量的定义、单位和矢量性": {}
-                                },
-                                {
-                                    "计算物体的动量及动量的变化": {}
-                                },
-                                {
-                                    "动量和动能的区别与联系": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 动量定理": {
-                            "3": [
-                                {
-                                    "冲量的定义、单位和矢量性": {}
-                                },
-                                {
-                                    "求恒力的冲量": {}
-                                },
-                                {
-                                    "求变力的冲量": {}
-                                },
-                                {
-                                    "利用F-t图像求冲量": {}
-                                },
-                                {
-                                    "动量定理的内容": {}
-                                },
-                                {
-                                    "用动量定理解释缓冲现象": {}
-                                },
-                                {
-                                    "利用动量定理求蹦极类的问题": {}
-                                },
-                                {
-                                    "动量定理与v-t图象结合的问题": {}
-                                },
-                                {
-                                    "用动量定理解决流体问题": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 动量守恒定律": {
-                            "3": [
-                                {
-                                    "碰撞中的不变量": {}
-                                },
-                                {
-                                    "动量守恒定律的内容、应用范围和推导": {}
-                                },
-                                {
-                                    "系统受到的合外力为零": {}
-                                },
-                                {
-                                    "系统内力远大于外力或作用时间极短": {}
-                                },
-                                {
-                                    "系统在某一方向不受外力": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 实验：验证动量守恒定律": {
-                            "3": [
-                                {
-                                    "验证动量守恒定律的实验目的、原理、器材": {}
-                                },
-                                {
-                                    "验证动量守恒定律的实验步骤和数据处理": {}
-                                },
-                                {
-                                    "验证动量守恒定律的注意事项和误差分析": {}
-                                },
-                                {
-                                    "用竖直挡板验证动量守恒定律": {}
-                                },
-                                {
-                                    "在斜面上验证动量守恒定律": {}
-                                },
-                                {
-                                    "利用频闪相机和气垫导轨验证动量守恒定律": {}
-                                },
-                                {
-                                    "利用光电门和气垫导轨验证动量守恒定律": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 弹性碰撞和非弹性碰撞": {
-                            "3": [
-                                {
-                                    "判断碰撞时系统动量是否守恒": {}
-                                },
-                                {
-                                    "利用动量守恒计算解决简单的碰撞问题": {}
-                                },
-                                {
-                                    "完全弹性碰撞1：动碰静": {}
-                                },
-                                {
-                                    "完全弹性碰撞2：动碰动": {}
-                                },
-                                {
-                                    "完全非弹性碰撞的特征": {}
-                                },
-                                {
-                                    "完全非弹性碰撞后速度的计算": {}
-                                },
-                                {
-                                    "碰撞后直接粘连问题": {}
-                                },
-                                {
-                                    "板块/子弹打木块模型": {}
-                                },
-                                {
-                                    "滑块斜（曲）面模型": {}
-                                },
-                                {
-                                    "滑块弹簧模型": {}
-                                },
-                                {
-                                    "非完全弹性碰撞后的速度": {}
-                                },
-                                {
-                                    "非完全弹性碰撞的能量损失": {}
-                                },
-                                {
-                                    "含有动量守恒的多过程问题": {}
-                                },
-                                {
-                                    "两物体多次碰撞问题": {}
-                                },
-                                {
-                                    "多物体多次碰撞问题": {}
-                                },
-                                {
-                                    "利用动量守恒及能量守恒解决（类）碰撞问题": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "6. 反冲现象 火箭": {
-                            "3": [
-                                {
-                                    "求解爆炸中的能量转化": {}
-                                },
-                                {
-                                    "某一方向上的动量守恒": {}
-                                },
-                                {
-                                    "弹簧弹开两端物体的问题": {}
-                                },
-                                {
-                                    "反冲运动的定义": {}
-                                },
-                                {
-                                    "火箭的原理": {}
-                                },
-                                {
-                                    "人船模型": {}
-                                },
-                                {
-                                    "计算沿绳下滑所需绳子的长度": {}
-                                },
-                                {
-                                    "用抛球避免两船碰撞的问题": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "1. 动量",
+            "subsections": [
+                {
+                    "subsectionTitle": "动量的定义、单位和矢量性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算物体的动量及动量的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "动量和动能的区别与联系",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第二章 机械振动": {
-                "2": [
-                    {
-                        "1. 简谐运动": {
-                            "3": [
-                                {
-                                    "从弹簧振子认识简谐运动的特征": {}
-                                },
-                                {
-                                    "简谐运动的弹簧振子模型": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 简谐运动的描述": {
-                            "3": [
-                                {
-                                    "简谐运动的振幅、周期、频率": {}
-                                },
-                                {
-                                    "简谐运动的回复力": {}
-                                },
-                                {
-                                    "简谐运动图像对应的表达式": {}
-                                },
-                                {
-                                    "简谐运动的对称性": {}
-                                },
-                                {
-                                    "简谐运动x-t的图象及其信息读取": {}
-                                },
-                                {
-                                    "弹簧振子在一个周期内运动的定性规律": {}
-                                },
-                                {
-                                    "影响弹簧振子周期的物理量、周期公式": {}
-                                },
-                                {
-                                    "计算弹簧振子在某段时间内的路程和位移": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 简谐运动的回复力和能量": {
-                            "3": [
-                                {
-                                    "简谐运动的回复力": {}
-                                },
-                                {
-                                    "根据振动图象判断振子的运动状态和受力情况": {}
-                                },
-                                {
-                                    "弹簧振子运动时能量的转化": {}
-                                },
-                                {
-                                    "机械振动与力学的综合问题": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 单摆": {
-                            "3": [
-                                {
-                                    "单摆做简谐运动的模型及成立条件": {}
-                                },
-                                {
-                                    "单摆的回复力": {}
-                                },
-                                {
-                                    "分析单摆运动过程中速度、加速度和位移的变化": {}
-                                },
-                                {
-                                    "单摆运动的对称性": {}
-                                },
-                                {
-                                    "单摆的振动图像及其表达式": {}
-                                },
-                                {
-                                    "影响单摆周期的因素、单摆周期公式": {}
-                                },
-                                {
-                                    "单摆周期公式的简单应用": {}
-                                },
-                                {
-                                    "等效单摆及其摆长的计算": {}
-                                },
-                                {
-                                    "单摆在有竖直加速度情况下的周期": {}
-                                },
-                                {
-                                    "单摆在不同星球上的周期": {}
-                                },
-                                {
-                                    "调节钟摆的快慢": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 实验：用单摆测量重力加速度": {
-                            "3": [
-                                {
-                                    "用单摆测重力加速度的实验目的、原理、器材": {}
-                                },
-                                {
-                                    "用单摆测重力加速度的实验步骤和数据处理": {}
-                                },
-                                {
-                                    "用单摆测重力加速度的注意事项和误差分析": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "6. 受迫振动 共振": {
-                            "3": [
-                                {
-                                    "阻尼振动的定义及特点": {}
-                                },
-                                {
-                                    "阻尼振动的振幅和能量的变化": {}
-                                },
-                                {
-                                    "周期性外力作用下物体的振动频率": {}
-                                },
-                                {
-                                    "共振现象产生的条件及特点": {}
-                                },
-                                {
-                                    "共振曲线及其应用": {}
-                                },
-                                {
-                                    "共振现象的利用和防止": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "2. 动量定理",
+            "subsections": [
+                {
+                    "subsectionTitle": "冲量的定义、单位和矢量性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "求恒力的冲量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "求变力的冲量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用F-t图像求冲量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "动量定理的内容",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用动量定理解释缓冲现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用动量定理求蹦极类的问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "动量定理与v-t图象结合的问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用动量定理解决流体问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第三章 机械波": {
-                "2": [
-                    {
-                        "1. 波的形成": {
-                            "3": [
-                                {
-                                    "产生机械波的条件、生活中的波动现象": {}
-                                },
-                                {
-                                    "通过绳波理解波产生的过程": {}
-                                },
-                                {
-                                    "横波和纵波": {}
-                                },
-                                {
-                                    "机械波中质点振动的特点": {}
-                                },
-                                {
-                                    "机械振动和机械波的关系": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 波的描述": {
-                            "3": [
-                                {
-                                    "描述机械波的物理量及决定因素": {}
-                                },
-                                {
-                                    "波长、频率和波速的关系": {}
-                                },
-                                {
-                                    "机械波相关物理量的计算": {}
-                                },
-                                {
-                                    "波形图的物理意义及信息读取": {}
-                                },
-                                {
-                                    "根据条件描绘某横波的波形曲线": {}
-                                },
-                                {
-                                    "根据波的图象判断质点在某时刻的位移、速度和加速度方向": {}
-                                },
-                                {
-                                    "判断波源初始振动的方向": {}
-                                },
-                                {
-                                    "波形图中某质点的速度方向与传播方向的关系": {}
-                                },
-                                {
-                                    "振动图像与波形图的结合": {}
-                                },
-                                {
-                                    "求周期的多解问题": {}
-                                },
-                                {
-                                    "求波长的多解问题": {}
-                                },
-                                {
-                                    "求波速的多解问题": {}
-                                },
-                                {
-                                    "传播方向的多解问题": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 波的反射、折射和衍射": {
-                            "3": [
-                                {
-                                    "波的衍射概念及产生明显衍射的条件": {}
-                                },
-                                {
-                                    "生活中常见的波的衍射现象": {}
-                                },
-                                {
-                                    "波在经过小孔和绕过障碍物时的衍射图样": {}
-                                },
-                                {
-                                    "用惠更斯原理解释波的反射和折射": {}
-                                },
-                                {
-                                    "惠更斯原理的内容": {}
-                                },
-                                {
-                                    "波面与波线的概念": {}
-                                },
-                                {
-                                    "球面波与平面波": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 波的干涉": {
-                            "3": [
-                                {
-                                    "波的叠加原理": {}
-                                },
-                                {
-                                    "波发生稳定干涉的条件": {}
-                                },
-                                {
-                                    "波的干涉图样、判断干涉加强和减弱区": {}
-                                },
-                                {
-                                    "生活中常见的波的干涉现象": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 多普勒效应": {
-                            "3": [
-                                {
-                                    "超声波和次声波的频率范围": {}
-                                },
-                                {
-                                    "超声波和次声波的应用": {}
-                                },
-                                {
-                                    "多普勒效应": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "3. 动量守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "碰撞中的不变量",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "动量守恒定律的内容、应用范围和推导",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "系统受到的合外力为零",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "系统内力远大于外力或作用时间极短",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "系统在某一方向不受外力",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第四章 光": {
-                "2": [
-                    {
-                        "1. 光的折射": {
-                            "3": [
-                                {
-                                    "光的折射现象、光路的可逆性": {}
-                                },
-                                {
-                                    "光的折射定律、折射率": {}
-                                },
-                                {
-                                    "根据反射与折射定律画出光路图": {}
-                                },
-                                {
-                                    " 折射率的波长表达式和速度表达式": {}
-                                },
-                                {
-                                    "用插针法测介质折射率的实验目的、原理、器材": {}
-                                },
-                                {
-                                    "用插针法测介质折射率的实验步骤和数据处理": {}
-                                },
-                                {
-                                    "用插针法测介质折射率的注意事项和误差分析": {}
-                                },
-                                {
-                                    "根据侧移量判断折射率大小": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "2. 全反射": {
-                            "3": [
-                                {
-                                    "全反射现象的光路图": {}
-                                },
-                                {
-                                    "全反射光束的能量分析": {}
-                                },
-                                {
-                                    "光疏介质和光密介质": {}
-                                },
-                                {
-                                    "发生全反射的条件、临界角": {}
-                                },
-                                {
-                                    "根据全反射条件判断光能否发生全反射": {}
-                                },
-                                {
-                                    "折射和全反射的综合问题": {}
-                                },
-                                {
-                                    "根据条件画出全反射的光路图": {}
-                                },
-                                {
-                                    "全反射棱镜": {}
-                                },
-                                {
-                                    "光导纤维": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "3. 光的干涉": {
-                            "3": [
-                                {
-                                    "发生双缝干涉的条件": {}
-                                },
-                                {
-                                    "单色光与白光的双缝干涉图样": {}
-                                },
-                                {
-                                    "干涉条纹间距与波长的关系": {}
-                                },
-                                {
-                                    "已知光程差和频率判断某点的明暗条纹": {}
-                                },
-                                {
-                                    "更换光的颜色判断条纹间距的变化": {}
-                                },
-                                {
-                                    "改变双缝间距判断条纹间距的变化": {}
-                                },
-                                {
-                                    "改变双缝到光屏距离判断条纹间距的变化": {}
-                                },
-                                {
-                                    "薄膜干涉现象和原理": {}
-                                },
-                                {
-                                    "检查工件的平整度": {}
-                                },
-                                {
-                                    "增透膜与增反膜": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "4. 实验：用双缝干涉测量光的波长": {
-                            "3": [
-                                {
-                                    "杨氏双缝干涉实验的实验目的、原理": {}
-                                },
-                                {
-                                    "杨氏双缝干涉实验的实验步骤和数据处理": {}
-                                },
-                                {
-                                    "杨氏双缝干涉实验的注意事项和误差分析": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "5. 光的衍射": {
-                            "3": [
-                                {
-                                    "单缝衍射和小孔衍射图样": {}
-                                },
-                                {
-                                    "泊松亮斑": {}
-                                },
-                                {
-                                    "衍射光栅": {}
-                                },
-                                {
-                                    "光发生明显衍射的条件": {}
-                                },
-                                {
-                                    "调节单缝的宽度观察条纹变化": {}
-                                },
-                                {
-                                    "光的干涉与衍射的联系": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "6. 光的偏振 激光": {
-                            "3": [
-                                {
-                                    "偏振现象及其解释": {}
-                                },
-                                {
-                                    "激光的原理和产生条件": {}
-                                },
-                                {
-                                    "激光的特点及其应用": {}
-                                },
-                                {
-                                    "偏振的应用": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "4. 实验：验证动量守恒定律",
+            "subsections": [
+                {
+                    "subsectionTitle": "验证动量守恒定律的实验目的、原理、器材",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "验证动量守恒定律的实验步骤和数据处理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "验证动量守恒定律的注意事项和误差分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用竖直挡板验证动量守恒定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "在斜面上验证动量守恒定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用频闪相机和气垫导轨验证动量守恒定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用光电门和气垫导轨验证动量守恒定律",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 弹性碰撞和非弹性碰撞",
+            "subsections": [
+                {
+                    "subsectionTitle": "判断碰撞时系统动量是否守恒",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用动量守恒计算解决简单的碰撞问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "完全弹性碰撞1：动碰静",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "完全弹性碰撞2：动碰动",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "完全非弹性碰撞的特征",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "完全非弹性碰撞后速度的计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "碰撞后直接粘连问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "板块/子弹打木块模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "滑块斜（曲）面模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "滑块弹簧模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "非完全弹性碰撞后的速度",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "非完全弹性碰撞的能量损失",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "含有动量守恒的多过程问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "两物体多次碰撞问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "多物体多次碰撞问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用动量守恒及能量守恒解决（类）碰撞问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "6. 反冲现象 火箭",
+            "subsections": [
+                {
+                    "subsectionTitle": "求解爆炸中的能量转化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "某一方向上的动量守恒",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "弹簧弹开两端物体的问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "反冲运动的定义",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "火箭的原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "人船模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算沿绳下滑所需绳子的长度",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用抛球避免两船碰撞的问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 简谐运动",
+            "subsections": [
+                {
+                    "subsectionTitle": "从弹簧振子认识简谐运动的特征",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简谐运动的弹簧振子模型",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 简谐运动的描述",
+            "subsections": [
+                {
+                    "subsectionTitle": "简谐运动的振幅、周期、频率",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简谐运动的回复力",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简谐运动图像对应的表达式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简谐运动的对称性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简谐运动x-t的图象及其信息读取",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "弹簧振子在一个周期内运动的定性规律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响弹簧振子周期的物理量、周期公式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "计算弹簧振子在某段时间内的路程和位移",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 简谐运动的回复力和能量",
+            "subsections": [
+                {
+                    "subsectionTitle": "简谐运动的回复力",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据振动图象判断振子的运动状态和受力情况",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "弹簧振子运动时能量的转化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "机械振动与力学的综合问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 单摆",
+            "subsections": [
+                {
+                    "subsectionTitle": "单摆做简谐运动的模型及成立条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆的回复力",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分析单摆运动过程中速度、加速度和位移的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆运动的对称性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆的振动图像及其表达式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响单摆周期的因素、单摆周期公式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆周期公式的简单应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "等效单摆及其摆长的计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆在有竖直加速度情况下的周期",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单摆在不同星球上的周期",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "调节钟摆的快慢",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 实验：用单摆测量重力加速度",
+            "subsections": [
+                {
+                    "subsectionTitle": "用单摆测重力加速度的实验目的、原理、器材",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用单摆测重力加速度的实验步骤和数据处理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用单摆测重力加速度的注意事项和误差分析",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "6. 受迫振动 共振",
+            "subsections": [
+                {
+                    "subsectionTitle": "阻尼振动的定义及特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "阻尼振动的振幅和能量的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "周期性外力作用下物体的振动频率",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "共振现象产生的条件及特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "共振曲线及其应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "共振现象的利用和防止",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 波的形成",
+            "subsections": [
+                {
+                    "subsectionTitle": "产生机械波的条件、生活中的波动现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "通过绳波理解波产生的过程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "横波和纵波",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "机械波中质点振动的特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "机械振动和机械波的关系",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 波的描述",
+            "subsections": [
+                {
+                    "subsectionTitle": "描述机械波的物理量及决定因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波长、频率和波速的关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "机械波相关物理量的计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波形图的物理意义及信息读取",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据条件描绘某横波的波形曲线",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据波的图象判断质点在某时刻的位移、速度和加速度方向",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "判断波源初始振动的方向",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波形图中某质点的速度方向与传播方向的关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "振动图像与波形图的结合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "求周期的多解问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "求波长的多解问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "求波速的多解问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "传播方向的多解问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 波的反射、折射和衍射",
+            "subsections": [
+                {
+                    "subsectionTitle": "波的衍射概念及产生明显衍射的条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生活中常见的波的衍射现象",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波在经过小孔和绕过障碍物时的衍射图样",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用惠更斯原理解释波的反射和折射",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "惠更斯原理的内容",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波面与波线的概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "球面波与平面波",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 波的干涉",
+            "subsections": [
+                {
+                    "subsectionTitle": "波的叠加原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波发生稳定干涉的条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "波的干涉图样、判断干涉加强和减弱区",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生活中常见的波的干涉现象",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 多普勒效应",
+            "subsections": [
+                {
+                    "subsectionTitle": "超声波和次声波的频率范围",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "超声波和次声波的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "多普勒效应",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "1. 光的折射",
+            "subsections": [
+                {
+                    "subsectionTitle": "光的折射现象、光路的可逆性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光的折射定律、折射率",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据反射与折射定律画出光路图",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": " 折射率的波长表达式和速度表达式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用插针法测介质折射率的实验目的、原理、器材",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用插针法测介质折射率的实验步骤和数据处理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用插针法测介质折射率的注意事项和误差分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据侧移量判断折射率大小",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2. 全反射",
+            "subsections": [
+                {
+                    "subsectionTitle": "全反射现象的光路图",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "全反射光束的能量分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光疏介质和光密介质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "发生全反射的条件、临界角",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据全反射条件判断光能否发生全反射",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "折射和全反射的综合问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "根据条件画出全反射的光路图",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "全反射棱镜",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光导纤维",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "3. 光的干涉",
+            "subsections": [
+                {
+                    "subsectionTitle": "发生双缝干涉的条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单色光与白光的双缝干涉图样",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "干涉条纹间距与波长的关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "已知光程差和频率判断某点的明暗条纹",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "更换光的颜色判断条纹间距的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "改变双缝间距判断条纹间距的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "改变双缝到光屏距离判断条纹间距的变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "薄膜干涉现象和原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "检查工件的平整度",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "增透膜与增反膜",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "4. 实验：用双缝干涉测量光的波长",
+            "subsections": [
+                {
+                    "subsectionTitle": "杨氏双缝干涉实验的实验目的、原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "杨氏双缝干涉实验的实验步骤和数据处理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "杨氏双缝干涉实验的注意事项和误差分析",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "5. 光的衍射",
+            "subsections": [
+                {
+                    "subsectionTitle": "单缝衍射和小孔衍射图样",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "泊松亮斑",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "衍射光栅",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光发生明显衍射的条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "调节单缝的宽度观察条纹变化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "光的干涉与衍射的联系",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "6. 光的偏振 激光",
+            "subsections": [
+                {
+                    "subsectionTitle": "偏振现象及其解释",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "激光的原理和产生条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "激光的特点及其应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "偏振的应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         }
     ]
 }

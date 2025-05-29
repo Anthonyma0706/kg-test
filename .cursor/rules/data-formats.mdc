@@ -1,0 +1,79 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 数据格式规范
+
+## 输入数据格式 (HTML)
+
+### HTML结构要求
+输入的HTML文件必须包含以下结构：
+```html
+<li data-level="1">
+    <a class="tree-anchor" title="章节标题">...</a>
+</li>
+<li data-level="2">
+    <a class="tree-anchor" title="小节标题">...</a>
+</li>
+```
+
+### 关键属性
+- `class="tree-anchor"`: 标识标题元素
+- `data-level`: 层级标识 (1=章节, 2=小节, 3=子小节, ≥4=知识点)
+- `title`: 包含实际的标题文本
+
+## 输出数据格式
+
+### Markdown格式
+生成带缩进的列表结构：
+```markdown
+- 第一章 标题
+    - 1.1 小节标题
+        - 1.1.1 子小节标题
+            - 知识点1
+            - 知识点2
+```
+
+### JSON格式规范
+参考 [README.md](mdc:README.md) 中的详细说明，标准结构：
+
+#### 完整结构示例
+```json
+{
+    "chapter": "第十一单元 化学与社会",
+    "sections": [
+        {
+            "sectionTitle": "1.1 正数和负数",
+            "subsections": [],
+            "knowledgePoints": ["正负数的定义", "相反意义的量"]
+        },
+        {
+            "sectionTitle": "1.2 有理数", 
+            "subsections": [
+                {
+                    "subsectionTitle": "1.2.1 有理数",
+                    "knowledgePoints": ["有理数的定义", "0的意义"]
+                }
+            ],
+            "knowledgePoints": []
+        }
+    ]
+}
+```
+
+## 数据处理规则
+
+### 过滤规则
+- 自动过滤包含"复习与测试"的标题
+- 保留所有有效的教学内容
+
+### 层级映射
+- Level 1 → chapter (章节)
+- Level 2 → sectionTitle (小节)  
+- Level 3 → subsectionTitle (子小节)
+- Level ≥4 → knowledgePoints (知识点)
+
+### 特殊情况处理
+- 当小节下没有子小节时，知识点直接放在小节的knowledgePoints中
+- 当小节下有子小节时，知识点放在对应子小节的knowledgePoints中

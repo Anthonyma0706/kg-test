@@ -1,229 +1,262 @@
 {
-    "1": [
+    "chapter": "实验活动 简单配合物的形成",
+    "sections": [
         {
-            "第一章  原子结构与性质": {
-                "2": [
-                    {
-                        "第一节  原子结构": {
-                            "3": [
-                                {
-                                    "核外电子运动": {}
-                                },
-                                {
-                                    "能层与能级": {}
-                                },
-                                {
-                                    "构造原理与元素周期表": {}
-                                },
-                                {
-                                    "核外电子排布的表示形式": {}
-                                },
-                                {
-                                    "能量最低原理": {}
-                                },
-                                {
-                                    "泡利原理": {}
-                                },
-                                {
-                                    "洪特规则": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  原子结构与元素的性质": {
-                            "3": [
-                                {
-                                    "电离能": {}
-                                },
-                                {
-                                    "电负性": {}
-                                },
-                                {
-                                    "元素周期表结构": {}
-                                },
-                                {
-                                    "元素周期表的应用": {}
-                                },
-                                {
-                                    "元素周期律实质": {}
-                                },
-                                {
-                                    "同周期元素性质递变规律": {}
-                                },
-                                {
-                                    "同主族元素性质递变规律": {}
-                                },
-                                {
-                                    "金属与非金属在周期表中位置及其性质递变的规律": {}
-                                },
-                                {
-                                    "元素周期律的应用": {}
-                                },
-                                {
-                                    "原子的构成结构": {}
-                                },
-                                {
-                                    "原子核外电子的排布": {}
-                                },
-                                {
-                                    "核素": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第一节  原子结构",
+            "subsections": [
+                {
+                    "subsectionTitle": "核外电子运动",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能层与能级",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "构造原理与元素周期表",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "核外电子排布的表示形式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能量最低原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "泡利原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "洪特规则",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第二章  分子结构与性质": {
-                "2": [
-                    {
-                        "第一节  共价键": {
-                            "3": [
-                                {
-                                    "化学键基本概念 ": {}
-                                },
-                                {
-                                    "共价键 ": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  分子的空间结构": {
-                            "3": [
-                                {
-                                    "价层电子对互斥理论": {}
-                                },
-                                {
-                                    "杂化轨道理论": {}
-                                },
-                                {
-                                    "等电子原理": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  分子结构与物质的性质": {
-                            "3": [
-                                {
-                                    "分子间作用力 氢键": {}
-                                },
-                                {
-                                    "极性分子和非极性分子": {}
-                                },
-                                {
-                                    "相似相溶原理": {}
-                                },
-                                {
-                                    "范德华力对物质性质的影响": {}
-                                },
-                                {
-                                    "化学键与分子间作用力": {}
-                                },
-                                {
-                                    "含有氢键的物质": {}
-                                },
-                                {
-                                    "氢键对物质性质的影响": {}
-                                },
-                                {
-                                    "分子的手性": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第二节  原子结构与元素的性质",
+            "subsections": [
+                {
+                    "subsectionTitle": "电离能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电负性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素周期表结构",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素周期表的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素周期律实质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "同周期元素性质递变规律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "同主族元素性质递变规律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "金属与非金属在周期表中位置及其性质递变的规律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "元素周期律的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原子的构成结构",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原子核外电子的排布",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "核素",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第三章  晶体结构与性质": {
-                "2": [
-                    {
-                        "第一节  物质的聚集状态与晶体的常识": {
-                            "3": [
-                                {
-                                    "晶胞": {}
-                                },
-                                {
-                                    "晶体与非晶体": {}
-                                },
-                                {
-                                    "晶体材料的应用": {}
-                                },
-                                {
-                                    "等离子体、液晶、离子液体": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节 分子晶体与共价晶体": {
-                            "3": [
-                                {
-                                    "分子晶体": {}
-                                },
-                                {
-                                    "共价晶体（新教材）": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  金属晶体与离子晶体": {
-                            "3": [
-                                {
-                                    "金属晶体": {}
-                                },
-                                {
-                                    "离子晶体": {}
-                                },
-                                {
-                                    "离子键": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第四节  配合物与超分子": {
-                            "3": [
-                                {
-                                    "配合物的概念、组成及形成条件": {}
-                                },
-                                {
-                                    "配合物的结构与性质": {}
-                                },
-                                {
-                                    "配合物的应用": {}
-                                },
-                                {
-                                    "简单配合物的成键": {}
-                                },
-                                {
-                                    "超分子": {}
-                                },
-                                {
-                                    "混合型晶体和过渡晶体": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
         },
         {
-            "实验活动 简单配合物的形成": {}
+            "sectionTitle": "第一节  共价键",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学键基本概念 ",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "共价键 ",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  分子的空间结构",
+            "subsections": [
+                {
+                    "subsectionTitle": "价层电子对互斥理论",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "杂化轨道理论",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "等电子原理",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  分子结构与物质的性质",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子间作用力 氢键",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "极性分子和非极性分子",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "相似相溶原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "范德华力对物质性质的影响",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学键与分子间作用力",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "含有氢键的物质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "氢键对物质性质的影响",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分子的手性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  物质的聚集状态与晶体的常识",
+            "subsections": [
+                {
+                    "subsectionTitle": "晶胞",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "晶体与非晶体",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "晶体材料的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "等离子体、液晶、离子液体",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节 分子晶体与共价晶体",
+            "subsections": [
+                {
+                    "subsectionTitle": "分子晶体",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "共价晶体（新教材）",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  金属晶体与离子晶体",
+            "subsections": [
+                {
+                    "subsectionTitle": "金属晶体",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "离子晶体",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "离子键",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第四节  配合物与超分子",
+            "subsections": [
+                {
+                    "subsectionTitle": "配合物的概念、组成及形成条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "配合物的结构与性质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "配合物的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "简单配合物的成键",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "超分子",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "混合型晶体和过渡晶体",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
         }
     ]
 }

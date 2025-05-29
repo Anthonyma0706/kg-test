@@ -1,0 +1,961 @@
+{
+    "chapter": "实验与探究",
+    "sections": [
+        {
+            "sectionTitle": "组成细胞的分子",
+            "subsections": [
+                {
+                    "subsectionTitle": "细胞中的元素和化合物",
+                    "knowledgePoints": [
+                        "组成细胞的元素",
+                        "组成细胞的化合物",
+                        "检测生物组织中的糖类、脂肪和蛋白质",
+                        "细胞中的元素和化合物综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞中的无机物",
+                    "knowledgePoints": [
+                        "细胞中的水",
+                        "细胞中的无机盐",
+                        "细胞中的水和无机盐综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞中的糖类和脂质",
+                    "knowledgePoints": [
+                        "糖类的元素组成",
+                        "糖类的种类及分布",
+                        "糖类的功能",
+                        "细胞中的糖类综合",
+                        "脂质的元素组成",
+                        "脂质的种类及功能",
+                        "细胞中的脂质综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "蛋白质是生命活动的主要承担者",
+                    "knowledgePoints": [
+                        "蛋白质的元素组成",
+                        "蛋白质的基本组成单位--氨基酸",
+                        "蛋白质的结构及多样性",
+                        "蛋白质的功能",
+                        "与蛋白质相关的计算",
+                        "蛋白质的变性",
+                        "蛋白质的结构和功能综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "核酸",
+                    "knowledgePoints": [
+                        "核酸的元素组成及基本单位",
+                        "核酸的种类及分布",
+                        "DNA与RNA的异同",
+                        "核酸的功能",
+                        "观察DNA和RNA在细胞中的分布实验（旧）",
+                        "核酸综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "生物大分子以碳链为骨架",
+                "细胞的分子组成综合"
+            ]
+        },
+        {
+            "sectionTitle": "细胞的结构和功能",
+            "subsections": [
+                {
+                    "subsectionTitle": "细胞是生命活动的基本单位",
+                    "knowledgePoints": [
+                        "细胞学说及其建立过程",
+                        "生物的基本特征及病毒（旧）",
+                        "生命活动与细胞的关系（旧）",
+                        "细胞是基本的生命系统"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞的多样性和统一性",
+                    "knowledgePoints": [
+                        "显微镜的构造及使用",
+                        "真核细胞与原核细胞",
+                        "细胞的大小和形态（旧）"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞膜和细胞壁",
+                    "knowledgePoints": [
+                        "细胞壁的成分及功能",
+                        "细胞膜的结构与功能",
+                        "生物膜系统"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞质",
+                    "knowledgePoints": [
+                        "细胞骨架",
+                        "细胞质基质（细胞溶胶）",
+                        "细胞器的结构、功能及分离方法",
+                        "观察叶绿体、线粒体和细胞质流动实验（旧）",
+                        "观察叶绿体和细胞质的流动实验",
+                        "细胞器之间的协调配合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞核",
+                    "knowledgePoints": [
+                        "细胞核的结构",
+                        "细胞核的功能及有关的实验探究",
+                        "真核细胞的三维结构模型",
+                        "细胞核的结构和功能综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "细胞的结构和功能综合"
+            ]
+        },
+        {
+            "sectionTitle": "细胞的代谢",
+            "subsections": [
+                {
+                    "subsectionTitle": "物质跨膜运输的实例",
+                    "knowledgePoints": [
+                        "渗透作用",
+                        "细胞的吸水和失水",
+                        "质壁分离及其复原实验",
+                        "质壁分离及其复原实验的应用",
+                        "物质跨膜运输的其他实例"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞的物质输入和输出",
+                    "knowledgePoints": [
+                        "被动运输",
+                        "主动运输",
+                        "胞吞和胞吐",
+                        "物质出入细胞的方式综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "酶与ATP",
+                    "knowledgePoints": [
+                        "酶",
+                        "ATP在能量代谢中的作用",
+                        "吸能反应与放能反应"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞呼吸",
+                    "knowledgePoints": [
+                        "细胞呼吸的方式及过程",
+                        "细胞呼吸的影响因素及应用",
+                        "细胞呼吸综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "光合作用",
+                    "knowledgePoints": [
+                        "捕获光能的色素与结构",
+                        "光合作用的原理和应用",
+                        "光合作用与呼吸作用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "糖类、脂质和蛋白质的代谢",
+                    "knowledgePoints": [
+                        "糖类、脂质和蛋白质的代谢过程及与生活的关系",
+                        "三大有机物质代谢的相互转化"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "细胞的代谢综合"
+            ]
+        },
+        {
+            "sectionTitle": "细胞的生命历程",
+            "subsections": [
+                {
+                    "subsectionTitle": "细胞的增殖",
+                    "knowledgePoints": [
+                        "细胞不能无限长大",
+                        "细胞周期与有丝分裂",
+                        "无丝分裂"
+                    ]
+                },
+                {
+                    "subsectionTitle": "细胞的分化、衰老、死亡",
+                    "knowledgePoints": [
+                        "细胞的分化",
+                        "细胞的全能性",
+                        "细胞的衰老",
+                        "细胞的死亡"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "无性生殖和有性生殖",
+                "细胞的增殖综合",
+                "细胞的生命历程综合"
+            ]
+        },
+        {
+            "sectionTitle": "遗传的细胞基础",
+            "subsections": [
+                {
+                    "subsectionTitle": "减数分裂和受精作用",
+                    "knowledgePoints": [
+                        "减数分裂概念、四分体、同源染色体、非同源染色体",
+                        "精子的形成过程",
+                        "卵细胞的形成过程",
+                        "精子和卵细胞的形成过程异同",
+                        "减数分裂过程中的变化规律",
+                        "减数分裂异常情况分析",
+                        "观察细胞的减数分裂实验",
+                        "受精作用",
+                        "植物的个体发育",
+                        "动物的个体发育",
+                        "细胞的减数分裂综合",
+                        "减数分裂和有丝分裂的综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "遗传的基本规律",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因的分离定律",
+                    "knowledgePoints": [
+                        "融合遗传",
+                        "性状与相对性状",
+                        "纯合子与杂合子",
+                        "性状的显、隐性关系及基因型、表现型、等位基因",
+                        "孟德尔一对相对性状的杂交实验",
+                        "性状分离比的模拟实验",
+                        "基因分离定律的实质和应用",
+                        "分离定律综合问题分析（异常现象分析）",
+                        "完全显性、不完全显性和共显性",
+                        "用测交的方法检验F1的基因型"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因的自由组合定律",
+                    "knowledgePoints": [
+                        "孟德尔两对相对性状的杂交实验",
+                        "基因自由组合定律的实质和应用",
+                        "孟德尔遗传实验的科学方法",
+                        "利用分离定律思维解决自由组合定律的问题",
+                        "9:3:3:1和1:1:1:1的变式类型及应用",
+                        "基因连锁与交换定律"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因位于染色体上",
+                    "knowledgePoints": [
+                        "萨顿的假说",
+                        "基因位于染色体上的实验证据",
+                        "孟德尔遗传规律的细胞学解释"
+                    ]
+                },
+                {
+                    "subsectionTitle": "性别决定和伴性遗传",
+                    "knowledgePoints": [
+                        "染色体组型和性别决定",
+                        "伴性遗传的遗传规律及应用",
+                        "遗传系谱图中遗传方式的判定及应用",
+                        "基因在染色体上位置的判定方法问题"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "遗传的基本规律综合"
+            ]
+        },
+        {
+            "sectionTitle": "遗传的分子基础",
+            "subsections": [
+                {
+                    "subsectionTitle": "人类探索遗传物质的历程",
+                    "knowledgePoints": [
+                        "DNA是遗传物质的间接证据",
+                        "肺炎链球菌的转化实验",
+                        "噬菌体侵染细菌的实验",
+                        "RNA是遗传物质的实验证据",
+                        "DNA是主要的遗传物质",
+                        "“加法原理”与“减法原理”"
+                    ]
+                },
+                {
+                    "subsectionTitle": "DNA分子的结构和复制",
+                    "knowledgePoints": [
+                        "DNA分子的结构和特点",
+                        "DNA分子中碱基的相关计算",
+                        "制作DNA双螺旋结构模型",
+                        "不同生物中核酸、核苷酸和碱基的比较",
+                        "DNA分子的复制"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因通常是有遗传效应的DNA片段",
+                    "knowledgePoints": [
+                        "基因的结构及功能",
+                        "染色体、DNA、基因和核苷酸之间的关系",
+                        "DNA分子的多样性与特异性"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因指导蛋白质的合成",
+                    "knowledgePoints": [
+                        "遗传信息的转录",
+                        "遗传信息的翻译",
+                        "基因表达过程中的相关计算",
+                        "基因的表达综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因表达与性状的关系",
+                    "knowledgePoints": [
+                        "中心法则及其发展",
+                        "基因、蛋白质与性状的关系",
+                        "表观遗传"
+                    ]
+                },
+                {
+                    "subsectionTitle": "遗传密码的破译（旧）",
+                    "knowledgePoints": [
+                        "遗传密码的阅读方式",
+                        "克里克的实验证据",
+                        "遗传密码对应规则的发现"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "基因表达的调控过程",
+                "遗传的分子基础综合"
+            ]
+        },
+        {
+            "sectionTitle": "生物的变异与育种",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因突变和基因重组",
+                    "knowledgePoints": [
+                        "基因突变",
+                        "DNA分子上碱基对的改变对后代性状的影响",
+                        "癌细胞的概念及主要特征",
+                        "细胞癌变的原因及防治",
+                        "基因重组"
+                    ]
+                },
+                {
+                    "subsectionTitle": "染色体变异",
+                    "knowledgePoints": [
+                        "染色体结构的变异",
+                        "染色体数目的变异",
+                        "染色体结构变异和数目变异综合",
+                        "低温诱导植物染色体数目的变化实验",
+                        "基因突变、基因重组和染色体变异综合",
+                        "染色体组、单倍体、二倍体、多倍体概念"
+                    ]
+                },
+                {
+                    "subsectionTitle": "育种（旧）",
+                    "knowledgePoints": [
+                        "杂交育种",
+                        "诱变育种",
+                        "单倍体育种",
+                        "多倍体育种",
+                        "其他育种方式"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "生物的变异与育种综合（旧）"
+            ]
+        },
+        {
+            "sectionTitle": "遗传与人类健康",
+            "subsections": [
+                {
+                    "subsectionTitle": "人类遗传病",
+                    "knowledgePoints": [
+                        "人类遗传病的类型及实例",
+                        "遗传病的检测和预防",
+                        "人类基因组计划",
+                        "调查人群中的遗传病",
+                        "遗传病与人类未来",
+                        "基因治疗",
+                        "遗传与人类健康综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "生物的进化",
+            "subsections": [],
+            "knowledgePoints": [
+                "生物有共同祖先的证据",
+                "自然选择与适应的形成",
+                "适应的普遍性与相对性",
+                "获得性遗传与自然选择学说",
+                "基因频率的改变与生物进化",
+                "探究抗生素对细菌的选择作用实验",
+                "隔离与物种的形成",
+                "协同进化与生物多样性",
+                "生物的进化综合"
+            ]
+        },
+        {
+            "sectionTitle": "生物界是一个相对稳定的生命系统（旧）",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "内环境与稳态",
+            "subsections": [
+                {
+                    "subsectionTitle": "内环境的稳态",
+                    "knowledgePoints": [
+                        "稳态的概念及调节机制",
+                        "模拟生物体维持pH的稳定",
+                        "内环境的稳态及意义",
+                        "水和电解质的平衡及其调节",
+                        "稳态概念的发展",
+                        "人体的内环境与稳态综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "细胞生活的环境",
+                "内环境的组成及成分",
+                "内环境的理化性质",
+                "内环境是外界与细胞进行物质交换的媒介"
+            ]
+        },
+        {
+            "sectionTitle": "动物体对外界信息的获取",
+            "subsections": [],
+            "knowledgePoints": [
+                "动物体对物理信息的获取",
+                "动物体对化学信息的获取"
+            ]
+        },
+        {
+            "sectionTitle": "神经调节",
+            "subsections": [
+                {
+                    "subsectionTitle": "神经调节的结构基础",
+                    "knowledgePoints": [
+                        "神经系统的基本结构",
+                        "交感神经与副交感神经",
+                        "组成神经系统的细胞"
+                    ]
+                },
+                {
+                    "subsectionTitle": "神经调节的基本方式",
+                    "knowledgePoints": [
+                        "反射与反射弧",
+                        "非条件反射与条件反射"
+                    ]
+                },
+                {
+                    "subsectionTitle": "神经冲动的产生和传导",
+                    "knowledgePoints": [
+                        "兴奋在神经纤维上的传导",
+                        "兴奋在神经元之间的传递",
+                        "膜电位的变化及相关曲线",
+                        "兴奋传导和传递的相关实验",
+                        "电表偏转问题分析",
+                        "药物对兴奋传导及传递的影响"
+                    ]
+                },
+                {
+                    "subsectionTitle": "神经系统的分级调节",
+                    "knowledgePoints": [
+                        "神经系统对内脏活动的分级调节",
+                        "神经系统对躯体运动的分级调节"
+                    ]
+                },
+                {
+                    "subsectionTitle": "人脑的高级功能",
+                    "knowledgePoints": [
+                        "语言",
+                        "学习、记忆、情绪",
+                        "大脑皮层特定的区域控制相应的生命活动（旧）"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "体液调节",
+            "subsections": [
+                {
+                    "subsectionTitle": "激素与内分泌系统",
+                    "knowledgePoints": [
+                        "激素调节的发现历程及相关实验分析",
+                        "内分泌系统的组成和功能"
+                    ]
+                },
+                {
+                    "subsectionTitle": "激素调节的过程",
+                    "knowledgePoints": [
+                        "激素分泌的分级调节",
+                        "激素分泌的反馈调节",
+                        "激素调节的特点",
+                        "激素调节信号转导的分子机制"
+                    ]
+                },
+                {
+                    "subsectionTitle": "神经调节和体液调节的关系",
+                    "knowledgePoints": [
+                        "神经调节与体液调节的比较",
+                        "体温调节",
+                        "水盐平衡调节",
+                        "血糖调节",
+                        "血脂代谢及其调节",
+                        "血压及其调节",
+                        "动物激素的调节和应用",
+                        "验证（探究）人或动物某种激素的生理作用",
+                        "其他体液成分参与稳态的调节"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "免疫调节",
+            "subsections": [
+                {
+                    "subsectionTitle": "免疫系统的组成和功能",
+                    "knowledgePoints": [
+                        "免疫系统的组成",
+                        "免疫系统的功能",
+                        "非特异性免疫与特异性免疫"
+                    ]
+                },
+                {
+                    "subsectionTitle": "特异性免疫",
+                    "knowledgePoints": [
+                        "体液免疫",
+                        "细胞免疫",
+                        "体液免疫和细胞免疫的协调配合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "免疫功能异常",
+                    "knowledgePoints": [
+                        "过敏反应",
+                        "自身免疫病",
+                        "免疫缺陷病"
+                    ]
+                },
+                {
+                    "subsectionTitle": "免疫学的应用",
+                    "knowledgePoints": [
+                        "疫苗",
+                        "器官移植"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "与免疫调节相关的实验"
+            ]
+        },
+        {
+            "sectionTitle": "动物和人体生命活动的调节综合",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "植物生命活动的调节",
+            "subsections": [
+                {
+                    "subsectionTitle": "植物生长素",
+                    "knowledgePoints": [
+                        "生长素的发现过程",
+                        "生长素的产生、分布及运输",
+                        "不同处理方案下植物的向性运动",
+                        "生长素的生理作用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "其他植物激素",
+                    "knowledgePoints": [
+                        "其他植物激素的产生、分布和功能",
+                        "不同的植物激素对植物生命活动的调节"
+                    ]
+                },
+                {
+                    "subsectionTitle": "环境因素参与调节植物的生命活动",
+                    "knowledgePoints": [
+                        "植物的向性运动",
+                        "参与调节植物生命活动的其他环境因素",
+                        "植物对不良环境的适应性反应"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "植物生长调节剂及应用",
+                "植物生命活动的调节综合"
+            ]
+        },
+        {
+            "sectionTitle": "种群和群落",
+            "subsections": [
+                {
+                    "subsectionTitle": "种群",
+                    "knowledgePoints": [
+                        "种群的数量特征",
+                        "种群数量的变化",
+                        "影响种群数量变化的因素",
+                        "种群综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "群落",
+                    "knowledgePoints": [
+                        "群落的结构",
+                        "群落的主要类型",
+                        "群落的演替及其影响因素",
+                        "群落综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "种群和群落综合"
+            ]
+        },
+        {
+            "sectionTitle": "生态系统及其稳定性",
+            "subsections": [
+                {
+                    "subsectionTitle": "生态系统的结构",
+                    "knowledgePoints": [
+                        "环境对生物的重要性",
+                        "生态系统的概念和类型",
+                        "生态系统的组成成分",
+                        "食物链和食物网",
+                        "生物圈的概念、范围"
+                    ]
+                },
+                {
+                    "subsectionTitle": "生态系统的功能",
+                    "knowledgePoints": [
+                        "生态系统的能量流动",
+                        "生态系统的物质循环",
+                        "生态系统的信息传递"
+                    ]
+                },
+                {
+                    "subsectionTitle": "生态系统的稳定性",
+                    "knowledgePoints": [
+                        "生态平衡与生态系统的稳定性及自我调节能力",
+                        "抵抗力稳定性和恢复力稳定性",
+                        "提高生态系统稳定性的措施",
+                        "设计并制作生态瓶，观察其稳定性"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "生态系统的结构和功能综合",
+                "生态系统的生产量和生物量",
+                "生态系统及其稳定性综合"
+            ]
+        },
+        {
+            "sectionTitle": "人与环境",
+            "subsections": [
+                {
+                    "subsectionTitle": "人类活动对生态环境的影响",
+                    "knowledgePoints": [
+                        "人口增长与生态足迹",
+                        "关注全球性生态环境问题"
+                    ]
+                },
+                {
+                    "subsectionTitle": "生物多样性及其保护",
+                    "knowledgePoints": [
+                        "全球性的环境问题及环境污染的防治",
+                        "生物多样性及其价值",
+                        "生物多样性丧失原因及其保护措施"
+                    ]
+                },
+                {
+                    "subsectionTitle": "生态工程",
+                    "knowledgePoints": [
+                        "生态工程的特点及基本原理",
+                        "生态工程实例及发展前景",
+                        "生态工程综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "人与环境综合"
+            ]
+        },
+        {
+            "sectionTitle": "发酵工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "传统发酵技术的应用",
+                    "knowledgePoints": [
+                        "果酒和果醋的制作",
+                        "腐乳的制作",
+                        "泡菜的制作",
+                        "植物有效成分的提取",
+                        "传统发酵技术的应用综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "微生物的培养与应用",
+                    "knowledgePoints": [
+                        "微生物的实验室培养",
+                        "分离特定微生物并测定其数量",
+                        "微生物的培养与应用综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "酶的研究与应用",
+                    "knowledgePoints": [
+                        "酶的制备和应用",
+                        "固定化酶的制备及应用",
+                        "酶的研究与应用综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "DNA和蛋白质技术",
+                    "knowledgePoints": [
+                        "蛋白质的提取和分离",
+                        "DNA和蛋白质技术综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "发酵工程及其应用",
+                    "knowledgePoints": [
+                        "发酵工程的基本环节",
+                        "发酵工程的应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "发酵技术综合"
+            ]
+        },
+        {
+            "sectionTitle": "基因工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因工程的基本工具",
+                    "knowledgePoints": [
+                        "基因工程的概念及原理",
+                        "DNA重组技术的基本工具",
+                        "DNA的粗提取及鉴定"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因工程的基本操作程序",
+                    "knowledgePoints": [
+                        "目的基因的筛选、获取",
+                        "基因表达载体的构建",
+                        "将目的基因导入受体细胞",
+                        "目的基因的检测与鉴定",
+                        "电泳鉴定",
+                        "基因工程的操作程序综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "基因工程的应用",
+                    "knowledgePoints": [
+                        "基因工程在农牧业、制药及环境等方面的应用",
+                        "基因诊断和基因治疗",
+                        "基因芯片"
+                    ]
+                },
+                {
+                    "subsectionTitle": "蛋白质工程",
+                    "knowledgePoints": [
+                        "蛋白质工程原理及操作流程",
+                        "蛋白质工程的应用及实例分析"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "基因工程综合"
+            ]
+        },
+        {
+            "sectionTitle": "细胞工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "植物细胞工程的基本技术及应用",
+                    "knowledgePoints": [
+                        "植物的组织培养技术",
+                        "植物组织培养技术综合",
+                        "植物体细胞杂交技术",
+                        "植物细胞工程的实际应用"
+                    ]
+                },
+                {
+                    "subsectionTitle": "动物细胞的培养和核移植技术",
+                    "knowledgePoints": [
+                        "动物细胞培养技术",
+                        "动物体细胞核移植技术和克隆",
+                        "动物细胞工程的实际应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "动物细胞融合与单克隆抗体的制备",
+                "干细胞工程",
+                "细胞工程综合"
+            ]
+        },
+        {
+            "sectionTitle": "胚胎工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "体内受精和胚胎发育",
+                    "knowledgePoints": [
+                        "精子和卵子的发生",
+                        "体内受精",
+                        "胚胎发育"
+                    ]
+                },
+                {
+                    "subsectionTitle": "体外受精和早期胚胎的培养",
+                    "knowledgePoints": [
+                        "动物的体外受精",
+                        "胚胎的体外培养"
+                    ]
+                },
+                {
+                    "subsectionTitle": "胚胎工程的应用及前景",
+                    "knowledgePoints": [
+                        "胚胎移植技术",
+                        "胚胎分割技术",
+                        "胚胎干细胞技术",
+                        "胚胎工程的应用"
+                    ]
+                }
+            ],
+            "knowledgePoints": [
+                "胚胎工程综合"
+            ]
+        },
+        {
+            "sectionTitle": "生物技术的安全性和伦理问题",
+            "subsections": [],
+            "knowledgePoints": [
+                "转基因生物安全性",
+                "生物技术中的伦理问题",
+                "禁止生物武器",
+                "生物技术的安全性和伦理问题综合"
+            ]
+        },
+        {
+            "sectionTitle": "生物技术与工程综合",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "碳达峰和碳中和",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "丙型肝炎病毒",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "阿尔茨海默病",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "新型冠状病毒及相关",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "垃圾分类及处理",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2020年沙漠蝗灾与生态",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "2019年澳洲大火与生态",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "基因编辑技术",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "细胞感知和适应氧气变化的机制",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "世界首例体细胞克隆猴“中中”和“华华”",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "屠呦呦与青蒿素的发现",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "控制昼夜节律的分子机制",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "细胞自噬机制",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "抑制负面免疫调节的癌症疗法",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验基本理论",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验基本技术",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "验证性实验与探究性实验",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "研究性学习",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验与探究综合",
+            "subsections": [],
+            "knowledgePoints": []
+        }
+    ]
+}

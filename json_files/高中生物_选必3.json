@@ -1,331 +1,269 @@
 {
-    "1": [
+    "chapter": "第4章  生物技术的安全性与伦理问题",
+    "sections": [
         {
-            "第1章  发酵工程": {
-                "2": [
-                    {
-                        "第1节  传统发酵技术的应用": {
-                            "3": [
-                                {
-                                    "果酒和果醋的制作流程及实验分析": {}
-                                },
-                                {
-                                    "腐乳制作的原理": {}
-                                },
-                                {
-                                    "腐乳制作的步骤及注意事项": {}
-                                },
-                                {
-                                    "影响腐乳品质的因素": {}
-                                },
-                                {
-                                    "泡菜的腌制": {}
-                                },
-                                {
-                                    "果酒和果醋的制作原理": {}
-                                },
-                                {
-                                    "亚硝酸盐含量的测定": {}
-                                },
-                                {
-                                    "传统发酵技术的应用综合": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节  微生物的培养技术及应用": {
-                            "3": [
-                                {
-                                    "一  微生物的基本培养技术": {
-                                        "4": [
-                                            {
-                                                "培养基的成分及其功能": {}
-                                            },
-                                            {
-                                                "培养基的类型及其应用": {}
-                                            },
-                                            {
-                                                "无菌技术": {}
-                                            },
-                                            {
-                                                "培养基的制备": {}
-                                            },
-                                            {
-                                                "微生物的接种方法": {}
-                                            },
-                                            {
-                                                "微生物的培养与菌种保藏": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二  微生物的选择培养与计数": {
-                                        "4": [
-                                            {
-                                                "土壤中分解尿素的细菌的分离与计数": {}
-                                            },
-                                            {
-                                                "分解纤维素的微生物的分离": {}
-                                            },
-                                            {
-                                                "其他微生物的分离与计数": {}
-                                            },
-                                            {
-                                                "微生物的培养与应用综合": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节  发酵工程及其应用": {
-                            "3": [
-                                {
-                                    "传统发酵技术的应用综合": {}
-                                },
-                                {
-                                    "微生物的培养与应用综合": {}
-                                },
-                                {
-                                    "发酵工程的基本环节": {}
-                                },
-                                {
-                                    "发酵工程的应用": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第1节  传统发酵技术的应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "果酒和果醋的制作流程及实验分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "腐乳制作的原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "腐乳制作的步骤及注意事项",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响腐乳品质的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "泡菜的腌制",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "果酒和果醋的制作原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "亚硝酸盐含量的测定",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "传统发酵技术的应用综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第2章  细胞工程": {
-                "2": [
-                    {
-                        "第1节  植物细胞工程": {
-                            "3": [
-                                {
-                                    "一  植物细胞工程的基本技术": {
-                                        "4": [
-                                            {
-                                                "植物组织培养技术综合": {}
-                                            },
-                                            {
-                                                "植物体细胞杂交技术": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二  植物细胞工程的应用": {
-                                        "4": [
-                                            {
-                                                "植物细胞工程的实际应用": {}
-                                            },
-                                            {
-                                                "单倍体育种": {}
-                                            },
-                                            {
-                                                "诱变育种": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节  动物细胞工程": {
-                            "3": [
-                                {
-                                    "一  动物细胞培养": {
-                                        "4": [
-                                            {
-                                                "动物细胞培养技术": {}
-                                            },
-                                            {
-                                                "干细胞工程": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二  动物细胞融合技术与单克隆抗体": {
-                                        "4": [
-                                            {
-                                                "动物细胞融合与单克隆抗体的制备": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "三  动物体细胞核移植技术和克隆动物": {
-                                        "4": [
-                                            {
-                                                "动物体细胞核移植技术和克隆": {}
-                                            },
-                                            {
-                                                "动物细胞工程的实际应用": {}
-                                            },
-                                            {
-                                                "细胞工程综合": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节  胚胎工程": {
-                            "3": [
-                                {
-                                    "一  胚胎工程的理论基础": {
-                                        "4": [
-                                            {
-                                                "体内受精": {}
-                                            },
-                                            {
-                                                "胚胎发育": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二  胚胎工程技术及其应用": {
-                                        "4": [
-                                            {
-                                                "动物的体外受精": {}
-                                            },
-                                            {
-                                                "胚胎的体外培养": {}
-                                            },
-                                            {
-                                                "胚胎移植技术": {}
-                                            },
-                                            {
-                                                "胚胎分割技术": {}
-                                            },
-                                            {
-                                                "胚胎工程的应用": {}
-                                            },
-                                            {
-                                                "胚胎工程综合": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第2节  微生物的培养技术及应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "一  微生物的基本培养技术",
+                    "knowledgePoints": [
+                        "培养基的成分及其功能",
+                        "培养基的类型及其应用",
+                        "无菌技术",
+                        "培养基的制备",
+                        "微生物的接种方法",
+                        "微生物的培养与菌种保藏"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二  微生物的选择培养与计数",
+                    "knowledgePoints": [
+                        "土壤中分解尿素的细菌的分离与计数",
+                        "分解纤维素的微生物的分离",
+                        "其他微生物的分离与计数",
+                        "微生物的培养与应用综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第3章  基因工程": {
-                "2": [
-                    {
-                        "第1节  重组DNA技术的基本工具": {
-                            "3": [
-                                {
-                                    "DNA重组技术的基本工具": {}
-                                },
-                                {
-                                    "DNA的粗提取及鉴定的方法": {}
-                                },
-                                {
-                                    "DNA的粗提取与鉴定的实验设计": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节  基因工程的基本操作程序": {
-                            "3": [
-                                {
-                                    "目的基因的筛选、获取": {}
-                                },
-                                {
-                                    "基因表达载体的构建": {}
-                                },
-                                {
-                                    "将目的基因导入受体细胞": {}
-                                },
-                                {
-                                    "目的基因的检测与鉴定": {}
-                                },
-                                {
-                                    "PCR扩增的原理与过程": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节  基因工程的应用": {
-                            "3": [
-                                {
-                                    "基因工程在农牧业、制药及环境等方面的应用": {}
-                                },
-                                {
-                                    "基因工程综合": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第4节  蛋白质工程的原理和应用": {
-                            "3": [
-                                {
-                                    "蛋白质工程原理及操作流程": {}
-                                },
-                                {
-                                    "蛋白质工程的应用及实例分析": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第3节  发酵工程及其应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "传统发酵技术的应用综合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "微生物的培养与应用综合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "发酵工程的基本环节",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "发酵工程的应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第4章  生物技术的安全性与伦理问题": {
-                "2": [
-                    {
-                        "第1节  转基因产品的安全性": {
-                            "3": [
-                                {
-                                    "转基因生物安全性": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节  关注生殖性克隆人": {
-                            "3": [
-                                {
-                                    "生物技术中的伦理问题": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节  禁止生物武器": {
-                            "3": [
-                                {
-                                    "禁止生物武器": {}
-                                },
-                                {
-                                    "生物技术的安全性和伦理问题综合": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第1节  植物细胞工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "一  植物细胞工程的基本技术",
+                    "knowledgePoints": [
+                        "植物组织培养技术综合",
+                        "植物体细胞杂交技术"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二  植物细胞工程的应用",
+                    "knowledgePoints": [
+                        "植物细胞工程的实际应用",
+                        "单倍体育种",
+                        "诱变育种"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节  动物细胞工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "一  动物细胞培养",
+                    "knowledgePoints": [
+                        "动物细胞培养技术",
+                        "干细胞工程"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二  动物细胞融合技术与单克隆抗体",
+                    "knowledgePoints": [
+                        "动物细胞融合与单克隆抗体的制备"
+                    ]
+                },
+                {
+                    "subsectionTitle": "三  动物体细胞核移植技术和克隆动物",
+                    "knowledgePoints": [
+                        "动物体细胞核移植技术和克隆",
+                        "动物细胞工程的实际应用",
+                        "细胞工程综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节  胚胎工程",
+            "subsections": [
+                {
+                    "subsectionTitle": "一  胚胎工程的理论基础",
+                    "knowledgePoints": [
+                        "体内受精",
+                        "胚胎发育"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二  胚胎工程技术及其应用",
+                    "knowledgePoints": [
+                        "动物的体外受精",
+                        "胚胎的体外培养",
+                        "胚胎移植技术",
+                        "胚胎分割技术",
+                        "胚胎工程的应用",
+                        "胚胎工程综合"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第1节  重组DNA技术的基本工具",
+            "subsections": [
+                {
+                    "subsectionTitle": "DNA重组技术的基本工具",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA的粗提取及鉴定的方法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA的粗提取与鉴定的实验设计",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节  基因工程的基本操作程序",
+            "subsections": [
+                {
+                    "subsectionTitle": "目的基因的筛选、获取",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因表达载体的构建",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "将目的基因导入受体细胞",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "目的基因的检测与鉴定",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "PCR扩增的原理与过程",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节  基因工程的应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因工程在农牧业、制药及环境等方面的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因工程综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第4节  蛋白质工程的原理和应用",
+            "subsections": [
+                {
+                    "subsectionTitle": "蛋白质工程原理及操作流程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "蛋白质工程的应用及实例分析",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第1节  转基因产品的安全性",
+            "subsections": [
+                {
+                    "subsectionTitle": "转基因生物安全性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节  关注生殖性克隆人",
+            "subsections": [
+                {
+                    "subsectionTitle": "生物技术中的伦理问题",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节  禁止生物武器",
+            "subsections": [
+                {
+                    "subsectionTitle": "禁止生物武器",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生物技术的安全性和伦理问题综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         }
     ]
 }

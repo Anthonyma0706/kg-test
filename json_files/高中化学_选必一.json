@@ -1,283 +1,328 @@
 {
-    "1": [
+    "chapter": "第四章  化学反应与电能",
+    "sections": [
         {
-            "第一章  化学反应的热效应": {
-                "2": [
-                    {
-                        "第一节  反应热": {
-                            "3": [
-                                {
-                                    "化学反应中能量变化的原因": {}
-                                },
-                                {
-                                    "能量的相互转化": {}
-                                },
-                                {
-                                    "反应热的内能变化与焓变": {}
-                                },
-                                {
-                                    "热化学方程式": {}
-                                },
-                                {
-                                    "中和热": {}
-                                },
-                                {
-                                    "燃烧热": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  反应热的计算": {
-                            "3": [
-                                {
-                                    "盖斯定律": {}
-                                },
-                                {
-                                    "反应焓变的计算": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第一节  反应热",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学反应中能量变化的原因",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "能量的相互转化",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "反应热的内能变化与焓变",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "热化学方程式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "中和热",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "燃烧热",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第二章  化学反应速率与化学平衡": {
-                "2": [
-                    {
-                        "第一节  化学反应速率": {
-                            "3": [
-                                {
-                                    "化学反应的速率的定义、计算": {}
-                                },
-                                {
-                                    "影响化学反应速率的因素": {}
-                                },
-                                {
-                                    "活化能": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  化学平衡": {
-                            "3": [
-                                {
-                                    "化学平衡状态": {}
-                                },
-                                {
-                                    "影响化学平衡的因素": {}
-                                },
-                                {
-                                    "化学平衡常数": {}
-                                },
-                                {
-                                    "化学平衡的有关计算": {}
-                                },
-                                {
-                                    "化学平衡图像分析": {}
-                                },
-                                {
-                                    "等效平衡理论的综合应用": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  化学反应的方向": {
-                            "3": [
-                                {
-                                    "化学反应自发过程": {}
-                                },
-                                {
-                                    "化学反应进行方向的判据": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第四节  化学反应的调控": {
-                            "3": [
-                                {
-                                    "合成氨条件的选择": {}
-                                },
-                                {
-                                    "氨的合成": {}
-                                },
-                                {
-                                    "化学反应条件控制的相关实验": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    },
-                    {
-                        "实验活动1 探究影响化学平衡移动的因素": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第二节  反应热的计算",
+            "subsections": [
+                {
+                    "subsectionTitle": "盖斯定律",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "反应焓变的计算",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第三章  水溶液中的离子反应与平衡": {
-                "2": [
-                    {
-                        "第一节  电离平衡": {
-                            "3": [
-                                {
-                                    "强电解质和弱电解质": {}
-                                },
-                                {
-                                    "弱电解质的电离平衡": {}
-                                },
-                                {
-                                    "电离平衡常数和电离度": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  水的电离和溶液的pH": {
-                            "3": [
-                                {
-                                    "水的电离": {}
-                                },
-                                {
-                                    "溶液的酸碱性与pH": {}
-                                },
-                                {
-                                    "酸碱中和滴定": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  盐类的水解": {
-                            "3": [
-                                {
-                                    "盐类水解原理": {}
-                                },
-                                {
-                                    "影响盐类水解程度的主要因素": {}
-                                },
-                                {
-                                    "盐类水解的应用": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第四节  沉淀溶解平衡": {
-                            "3": [
-                                {
-                                    "难溶电解质的沉淀溶解平衡": {}
-                                },
-                                {
-                                    "沉淀溶解平衡的应用": {}
-                                },
-                                {
-                                    "溶度积": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    },
-                    {
-                        "实验活动2 强酸与强碱的中和滴定": {}
-                    },
-                    {
-                        "实验活动3盐类水解的应用": {}
-                    }
-                ]
-            }
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
         },
         {
-            "第四章  化学反应与电能": {
-                "2": [
-                    {
-                        "第一节  原电池": {
-                            "3": [
-                                {
-                                    "燃烧发电的能量转化过程": {}
-                                },
-                                {
-                                    "原电池的构成和形成条件": {}
-                                },
-                                {
-                                    "原电池原理": {}
-                                },
-                                {
-                                    "原电池原理的应用": {}
-                                },
-                                {
-                                    "电源使用及回收": {}
-                                },
-                                {
-                                    "一次电池": {}
-                                },
-                                {
-                                    "二次电池": {}
-                                },
-                                {
-                                    "燃料电池": {}
-                                },
-                                {
-                                    "新型电池": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第二节  电解池": {
-                            "3": [
-                                {
-                                    "电解池概念及组成": {}
-                                },
-                                {
-                                    "电解原理": {}
-                                },
-                                {
-                                    "电解原理的应用": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第三节  金属的腐蚀与防护": {
-                            "3": [
-                                {
-                                    "金属的化学腐蚀与电化学腐蚀": {}
-                                },
-                                {
-                                    "析氢腐蚀": {}
-                                },
-                                {
-                                    "吸氧腐蚀": {}
-                                },
-                                {
-                                    "金属的防护": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "整理与提升": {}
-                    },
-                    {
-                        "实验活动4 简单的电镀实验": {}
-                    },
-                    {
-                        "实验活动5 制作简单的燃料电池": {}
-                    }
-                ]
-            }
+            "sectionTitle": "第一节  化学反应速率",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学反应的速率的定义、计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响化学反应速率的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "活化能",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  化学平衡",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学平衡状态",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响化学平衡的因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学平衡常数",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学平衡的有关计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学平衡图像分析",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "等效平衡理论的综合应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  化学反应的方向",
+            "subsections": [
+                {
+                    "subsectionTitle": "化学反应自发过程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学反应进行方向的判据",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第四节  化学反应的调控",
+            "subsections": [
+                {
+                    "subsectionTitle": "合成氨条件的选择",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "氨的合成",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "化学反应条件控制的相关实验",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动1 探究影响化学平衡移动的因素",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  电离平衡",
+            "subsections": [
+                {
+                    "subsectionTitle": "强电解质和弱电解质",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "弱电解质的电离平衡",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电离平衡常数和电离度",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  水的电离和溶液的pH",
+            "subsections": [
+                {
+                    "subsectionTitle": "水的电离",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "溶液的酸碱性与pH",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "酸碱中和滴定",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  盐类的水解",
+            "subsections": [
+                {
+                    "subsectionTitle": "盐类水解原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "影响盐类水解程度的主要因素",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "盐类水解的应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第四节  沉淀溶解平衡",
+            "subsections": [
+                {
+                    "subsectionTitle": "难溶电解质的沉淀溶解平衡",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "沉淀溶解平衡的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "溶度积",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动2 强酸与强碱的中和滴定",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动3盐类水解的应用",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  原电池",
+            "subsections": [
+                {
+                    "subsectionTitle": "燃烧发电的能量转化过程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原电池的构成和形成条件",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原电池原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "原电池原理的应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电源使用及回收",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "一次电池",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "二次电池",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "燃料电池",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "新型电池",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第二节  电解池",
+            "subsections": [
+                {
+                    "subsectionTitle": "电解池概念及组成",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电解原理",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "电解原理的应用",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第三节  金属的腐蚀与防护",
+            "subsections": [
+                {
+                    "subsectionTitle": "金属的化学腐蚀与电化学腐蚀",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "析氢腐蚀",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "吸氧腐蚀",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "金属的防护",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动4 简单的电镀实验",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动5 制作简单的燃料电池",
+            "subsections": [],
+            "knowledgePoints": []
         }
     ]
 }

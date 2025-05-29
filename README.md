@@ -17,6 +17,10 @@
 python extract_titles.py --html_dir /path/to/html/files --md_output_dir /path/to/md/output --json_output_dir /path/to/json/output
 ```
 
+```bash
+python extract_titles.py html_files md_files json_files
+```
+
 ### 参数说明
 | 参数名          | 描述                          | 示例值                          |
 |-----------------|-------------------------------|---------------------------------|

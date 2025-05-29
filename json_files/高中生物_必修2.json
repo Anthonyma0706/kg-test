@@ -1,430 +1,441 @@
 {
-    "1": [
+    "chapter": "第6章 生物的进化",
+    "sections": [
         {
-            "第1章 遗传因子的发现": {
-                "2": [
-                    {
-                        "第1节 孟德尔的豌豆杂交实验（一）": {
-                            "3": [
-                                {
-                                    "融合遗传": {}
-                                },
-                                {
-                                    "性状与相对性状": {}
-                                },
-                                {
-                                    "纯合子与杂合子": {}
-                                },
-                                {
-                                    "孟德尔一对相对性状的杂交实验": {}
-                                },
-                                {
-                                    "性状分离比的模拟实验": {}
-                                },
-                                {
-                                    "基因分离定律的实质和应用": {}
-                                },
-                                {
-                                    "分离定律综合问题分析（异常现象分析）": {}
-                                },
-                                {
-                                    "完全显性、不完全显性和共显性": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 孟德尔的豌豆杂交实验（二）": {
-                            "3": [
-                                {
-                                    "性状的显、隐性关系及基因型、表现型、等位基因": {}
-                                },
-                                {
-                                    "用测交的方法检验F1的基因型": {}
-                                },
-                                {
-                                    "孟德尔两对相对性状的杂交实验": {}
-                                },
-                                {
-                                    "基因自由组合定律的实质和应用": {}
-                                },
-                                {
-                                    "孟德尔遗传实验的科学方法": {}
-                                },
-                                {
-                                    "利用分离定律思维解决自由组合定律的问题": {}
-                                },
-                                {
-                                    "9:3:3:1和1:1:1:1的变式类型及应用": {}
-                                },
-                                {
-                                    "基因连锁与交换定律": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第1节 孟德尔的豌豆杂交实验（一）",
+            "subsections": [
+                {
+                    "subsectionTitle": "融合遗传",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "性状与相对性状",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "纯合子与杂合子",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "孟德尔一对相对性状的杂交实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "性状分离比的模拟实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因分离定律的实质和应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "分离定律综合问题分析（异常现象分析）",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "完全显性、不完全显性和共显性",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第2章 基因和染色体的关系": {
-                "2": [
-                    {
-                        "第1节 减数分裂和受精作用": {
-                            "3": [
-                                {
-                                    "一 减数分裂": {
-                                        "4": [
-                                            {
-                                                "减数分裂概念、四分体、同源染色体、非同源染色体": {}
-                                            },
-                                            {
-                                                "精子的形成过程": {}
-                                            },
-                                            {
-                                                "卵细胞的形成过程": {}
-                                            },
-                                            {
-                                                "精子和卵细胞的形成过程异同": {}
-                                            },
-                                            {
-                                                "减数分裂过程中的变化规律": {}
-                                            },
-                                            {
-                                                "减数分裂异常情况分析": {}
-                                            },
-                                            {
-                                                "观察细胞的减数分裂实验": {}
-                                            },
-                                            {
-                                                "细胞的减数分裂综合": {}
-                                            },
-                                            {
-                                                "减数分裂和有丝分裂的综合": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二 受精作用": {
-                                        "4": [
-                                            {
-                                                "受精作用": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 基因在染色体上": {
-                            "3": [
-                                {
-                                    "萨顿的假说": {}
-                                },
-                                {
-                                    "基因位于染色体上的实验证据": {}
-                                },
-                                {
-                                    "孟德尔遗传规律的细胞学解释": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节 伴性遗传": {
-                            "3": [
-                                {
-                                    "伴性遗传的遗传规律及应用": {}
-                                },
-                                {
-                                    "遗传系谱图中遗传方式的判定及应用": {}
-                                },
-                                {
-                                    "基因在染色体上位置的判定方法问题": {}
-                                },
-                                {
-                                    "遗传的基本规律综合": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第2节 孟德尔的豌豆杂交实验（二）",
+            "subsections": [
+                {
+                    "subsectionTitle": "性状的显、隐性关系及基因型、表现型、等位基因",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "用测交的方法检验F1的基因型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "孟德尔两对相对性状的杂交实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因自由组合定律的实质和应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "孟德尔遗传实验的科学方法",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "利用分离定律思维解决自由组合定律的问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "9:3:3:1和1:1:1:1的变式类型及应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因连锁与交换定律",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第3章 基因的本质": {
-                "2": [
-                    {
-                        "第1节 DNA是主要的遗传物质": {
-                            "3": [
-                                {
-                                    "肺炎链球菌的转化实验": {}
-                                },
-                                {
-                                    "噬菌体侵染细菌的实验": {}
-                                },
-                                {
-                                    "RNA是遗传物质的实验证据": {}
-                                },
-                                {
-                                    "DNA是主要的遗传物质": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 DNA的结构": {
-                            "3": [
-                                {
-                                    "DNA分子的结构和特点": {}
-                                },
-                                {
-                                    "DNA分子中碱基的相关计算": {}
-                                },
-                                {
-                                    "制作DNA双螺旋结构模型": {}
-                                },
-                                {
-                                    "不同生物中核酸、核苷酸和碱基的比较": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节 DNA的复制": {
-                            "3": [
-                                {
-                                    "探究DNA的复制过程": {}
-                                },
-                                {
-                                    "DNA分子的复制过程、特点及意义": {}
-                                },
-                                {
-                                    "DNA分子复制的相关计算": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第4节 基因通常是有遗传效应的DNA片段": {
-                            "3": [
-                                {
-                                    "基因的结构及功能": {}
-                                },
-                                {
-                                    "染色体、DNA、基因和核苷酸之间的关系": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第1节 减数分裂和受精作用",
+            "subsections": [
+                {
+                    "subsectionTitle": "一 减数分裂",
+                    "knowledgePoints": [
+                        "减数分裂概念、四分体、同源染色体、非同源染色体",
+                        "精子的形成过程",
+                        "卵细胞的形成过程",
+                        "精子和卵细胞的形成过程异同",
+                        "减数分裂过程中的变化规律",
+                        "减数分裂异常情况分析",
+                        "观察细胞的减数分裂实验",
+                        "细胞的减数分裂综合",
+                        "减数分裂和有丝分裂的综合"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二 受精作用",
+                    "knowledgePoints": [
+                        "受精作用"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第4章 基因的表达": {
-                "2": [
-                    {
-                        "第1节 基因指导蛋白质的合成": {
-                            "3": [
-                                {
-                                    "遗传信息的转录": {}
-                                },
-                                {
-                                    "遗传信息的翻译": {}
-                                },
-                                {
-                                    "基因表达过程中的相关计算": {}
-                                },
-                                {
-                                    "基因的表达综合": {}
-                                },
-                                {
-                                    "中心法则及其发展": {}
-                                },
-                                {
-                                    "遗传密码的阅读方式": {}
-                                },
-                                {
-                                    "克里克的实验证据": {}
-                                },
-                                {
-                                    "遗传密码对应规则的发现": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 基因表达与性状的关系": {
-                            "3": [
-                                {
-                                    "基因、蛋白质与性状的关系": {}
-                                },
-                                {
-                                    "表观遗传": {}
-                                },
-                                {
-                                    "遗传的分子基础综合": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第2节 基因在染色体上",
+            "subsections": [
+                {
+                    "subsectionTitle": "萨顿的假说",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因位于染色体上的实验证据",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "孟德尔遗传规律的细胞学解释",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第5章 基因突变及其他变异": {
-                "2": [
-                    {
-                        "第1节 基因突变和基因重组": {
-                            "3": [
-                                {
-                                    "基因突变": {}
-                                },
-                                {
-                                    "细胞癌变的原因及防治": {}
-                                },
-                                {
-                                    "DNA分子上碱基对的改变对后代性状的影响": {}
-                                },
-                                {
-                                    "基因重组": {}
-                                },
-                                {
-                                    "癌细胞的概念及主要特征": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 染色体变异": {
-                            "3": [
-                                {
-                                    "染色体结构的变异": {}
-                                },
-                                {
-                                    "染色体数目的变异": {}
-                                },
-                                {
-                                    "染色体结构变异和数目变异综合": {}
-                                },
-                                {
-                                    "低温诱导植物染色体数目的变化实验": {}
-                                },
-                                {
-                                    "基因突变、基因重组和染色体变异综合": {}
-                                },
-                                {
-                                    "染色体组、单倍体、二倍体、多倍体概念": {}
-                                },
-                                {
-                                    "杂交育种": {}
-                                },
-                                {
-                                    "诱变育种": {}
-                                },
-                                {
-                                    "单倍体育种": {}
-                                },
-                                {
-                                    "多倍体育种": {}
-                                },
-                                {
-                                    "其他育种方式": {}
-                                },
-                                {
-                                    "生物的变异与育种综合（旧）": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节 人类遗传病": {
-                            "3": [
-                                {
-                                    "人类遗传病的类型及实例": {}
-                                },
-                                {
-                                    "调查人群中的遗传病": {}
-                                },
-                                {
-                                    "遗传病的检测和预防": {}
-                                },
-                                {
-                                    "人类基因组计划": {}
-                                },
-                                {
-                                    "遗传病与人类未来": {}
-                                },
-                                {
-                                    "遗传与人类健康综合": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第3节 伴性遗传",
+            "subsections": [
+                {
+                    "subsectionTitle": "伴性遗传的遗传规律及应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传系谱图中遗传方式的判定及应用",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因在染色体上位置的判定方法问题",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传的基本规律综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         },
         {
-            "第6章 生物的进化": {
-                "2": [
-                    {
-                        "第1节 生物有共同祖先的证据": {
-                            "3": [
-                                {
-                                    "生物有共同祖先的证据": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第2节 自然选择与适应的形成": {
-                            "3": [
-                                {
-                                    "自然选择与适应的形成": {}
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第3节 种群基因组成的变化与物种的形成": {
-                            "3": [
-                                {
-                                    "一 种群基因组成的变化": {
-                                        "4": [
-                                            {
-                                                "基因频率的改变与生物进化": {}
-                                            }
-                                        ]
-                                    }
-                                },
-                                {
-                                    "二 隔离在物种形成中的作用": {
-                                        "4": [
-                                            {
-                                                "隔离与物种的形成": {}
-                                            }
-                                        ]
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "第4节 协同进化与生物多样性的形成": {
-                            "3": [
-                                {
-                                    "协同进化与生物多样性": {}
-                                },
-                                {
-                                    "生物的进化综合": {}
-                                }
-                            ]
-                        }
-                    }
-                ]
-            }
+            "sectionTitle": "第1节 DNA是主要的遗传物质",
+            "subsections": [
+                {
+                    "subsectionTitle": "肺炎链球菌的转化实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "噬菌体侵染细菌的实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "RNA是遗传物质的实验证据",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA是主要的遗传物质",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节 DNA的结构",
+            "subsections": [
+                {
+                    "subsectionTitle": "DNA分子的结构和特点",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA分子中碱基的相关计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "制作DNA双螺旋结构模型",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "不同生物中核酸、核苷酸和碱基的比较",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节 DNA的复制",
+            "subsections": [
+                {
+                    "subsectionTitle": "探究DNA的复制过程",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA分子的复制过程、特点及意义",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA分子复制的相关计算",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第4节 基因通常是有遗传效应的DNA片段",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因的结构及功能",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "染色体、DNA、基因和核苷酸之间的关系",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第1节 基因指导蛋白质的合成",
+            "subsections": [
+                {
+                    "subsectionTitle": "遗传信息的转录",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传信息的翻译",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因表达过程中的相关计算",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因的表达综合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "中心法则及其发展",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传密码的阅读方式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "克里克的实验证据",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传密码对应规则的发现",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节 基因表达与性状的关系",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因、蛋白质与性状的关系",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "表观遗传",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传的分子基础综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第1节 基因突变和基因重组",
+            "subsections": [
+                {
+                    "subsectionTitle": "基因突变",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "细胞癌变的原因及防治",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "DNA分子上碱基对的改变对后代性状的影响",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因重组",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "癌细胞的概念及主要特征",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节 染色体变异",
+            "subsections": [
+                {
+                    "subsectionTitle": "染色体结构的变异",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "染色体数目的变异",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "染色体结构变异和数目变异综合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "低温诱导植物染色体数目的变化实验",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "基因突变、基因重组和染色体变异综合",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "染色体组、单倍体、二倍体、多倍体概念",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "杂交育种",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "诱变育种",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "单倍体育种",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "多倍体育种",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "其他育种方式",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生物的变异与育种综合（旧）",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节 人类遗传病",
+            "subsections": [
+                {
+                    "subsectionTitle": "人类遗传病的类型及实例",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "调查人群中的遗传病",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传病的检测和预防",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "人类基因组计划",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传病与人类未来",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "遗传与人类健康综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第1节 生物有共同祖先的证据",
+            "subsections": [
+                {
+                    "subsectionTitle": "生物有共同祖先的证据",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第2节 自然选择与适应的形成",
+            "subsections": [
+                {
+                    "subsectionTitle": "自然选择与适应的形成",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第3节 种群基因组成的变化与物种的形成",
+            "subsections": [
+                {
+                    "subsectionTitle": "一 种群基因组成的变化",
+                    "knowledgePoints": [
+                        "基因频率的改变与生物进化"
+                    ]
+                },
+                {
+                    "subsectionTitle": "二 隔离在物种形成中的作用",
+                    "knowledgePoints": [
+                        "隔离与物种的形成"
+                    ]
+                }
+            ],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第4节 协同进化与生物多样性的形成",
+            "subsections": [
+                {
+                    "subsectionTitle": "协同进化与生物多样性",
+                    "knowledgePoints": []
+                },
+                {
+                    "subsectionTitle": "生物的进化综合",
+                    "knowledgePoints": []
+                }
+            ],
+            "knowledgePoints": []
         }
     ]
 }

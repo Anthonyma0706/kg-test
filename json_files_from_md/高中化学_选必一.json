@@ -1,0 +1,163 @@
+{
+    "chapter": "第四章  化学反应与电能",
+    "sections": [
+        {
+            "sectionTitle": "第一节  反应热",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学反应中能量变化的原因",
+                "能量的相互转化",
+                "反应热的内能变化与焓变",
+                "热化学方程式",
+                "中和热",
+                "燃烧热"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  反应热的计算",
+            "subsections": [],
+            "knowledgePoints": [
+                "盖斯定律",
+                "反应焓变的计算"
+            ]
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  化学反应速率",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学反应的速率的定义、计算",
+                "影响化学反应速率的因素",
+                "活化能"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  化学平衡",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学平衡状态",
+                "影响化学平衡的因素",
+                "化学平衡常数",
+                "化学平衡的有关计算",
+                "化学平衡图像分析",
+                "等效平衡理论的综合应用"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  化学反应的方向",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学反应自发过程",
+                "化学反应进行方向的判据"
+            ]
+        },
+        {
+            "sectionTitle": "第四节  化学反应的调控",
+            "subsections": [],
+            "knowledgePoints": [
+                "合成氨条件的选择",
+                "氨的合成",
+                "化学反应条件控制的相关实验"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动1 探究影响化学平衡移动的因素",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  电离平衡",
+            "subsections": [],
+            "knowledgePoints": [
+                "强电解质和弱电解质",
+                "弱电解质的电离平衡",
+                "电离平衡常数和电离度"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  水的电离和溶液的pH",
+            "subsections": [],
+            "knowledgePoints": [
+                "水的电离",
+                "溶液的酸碱性与pH",
+                "酸碱中和滴定"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  盐类的水解",
+            "subsections": [],
+            "knowledgePoints": [
+                "盐类水解原理",
+                "影响盐类水解程度的主要因素",
+                "盐类水解的应用"
+            ]
+        },
+        {
+            "sectionTitle": "第四节  沉淀溶解平衡",
+            "subsections": [],
+            "knowledgePoints": [
+                "难溶电解质的沉淀溶解平衡",
+                "沉淀溶解平衡的应用",
+                "溶度积"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动2 强酸与强碱的中和滴定",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动3盐类水解的应用",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  原电池",
+            "subsections": [],
+            "knowledgePoints": [
+                "燃烧发电的能量转化过程",
+                "原电池的构成和形成条件",
+                "原电池原理",
+                "原电池原理的应用",
+                "电源使用及回收",
+                "一次电池",
+                "二次电池",
+                "燃料电池",
+                "新型电池"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  电解池",
+            "subsections": [],
+            "knowledgePoints": [
+                "电解池概念及组成",
+                "电解原理",
+                "电解原理的应用"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  金属的腐蚀与防护",
+            "subsections": [],
+            "knowledgePoints": [
+                "金属的化学腐蚀与电化学腐蚀",
+                "析氢腐蚀",
+                "吸氧腐蚀",
+                "金属的防护"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动4 简单的电镀实验",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动5 制作简单的燃料电池",
+            "subsections": [],
+            "knowledgePoints": []
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "chapter": "第八章  化学与可持续发展",
+    "sections": [
+        {
+            "sectionTitle": "第一节  硫及其化合物",
+            "subsections": [],
+            "knowledgePoints": [
+                "硫",
+                "二氧化硫",
+                "三氧化硫",
+                "硫酸",
+                "硫酸盐",
+                "亚硫酸及其盐",
+                "硫化氢与硫化物",
+                "含硫化合物之间的转化",
+                "硫的其他化合物",
+                "氧元素及其化合物"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  氮及其化合物",
+            "subsections": [],
+            "knowledgePoints": [
+                "氮气",
+                "氨气",
+                "氨水",
+                "氮的氧化物",
+                "硝酸",
+                "硝酸盐和亚硝酸盐",
+                "铵盐",
+                "磷元素及其化合物"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  无机非金属材料",
+            "subsections": [],
+            "knowledgePoints": [
+                "硅单质",
+                "二氧化硅",
+                "硅酸与硅酸盐",
+                "碳族其他元素及其化合物"
+            ]
+        },
+        {
+            "sectionTitle": "整理与提升",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动4  用化学沉淀法去除粗盐中的杂质离子",
+            "subsections": [],
+            "knowledgePoints": [
+                "物质的分离、提纯",
+                "常见阴离子的检验"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动5  不同价态含硫物质的转化",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  化学反应与能量变化",
+            "subsections": [],
+            "knowledgePoints": [
+                "能量的相互转化",
+                "化学能与热能的相互转化",
+                "燃烧发电的能量转化过程",
+                "原电池的构成和形成条件",
+                "电源使用及回收",
+                "锰锌干电池",
+                "设计原电池"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  化学反应的速率与限度",
+            "subsections": [],
+            "knowledgePoints": [
+                "化学反应速率计算",
+                "化学反应速率含义、单位",
+                "化学反应速率的表示方法",
+                "反应速率的测定",
+                "可逆反应及反应限度",
+                "化学平衡状态本质及特征",
+                "化学平衡的移动"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动6  化学能转化成电能",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动7  化学反应速率的影响因素",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  认识有机化合物",
+            "subsections": [],
+            "knowledgePoints": [
+                "有机化学发展及应用",
+                "有机物通性",
+                "有机化合物中碳的成键特征",
+                "有机物结构的表示方法",
+                "同分异构现象",
+                "同分异构体书写",
+                "取代反应",
+                "甲烷",
+                "烷烃"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  乙烯与有机高分子材料",
+            "subsections": [],
+            "knowledgePoints": [
+                "乙烯",
+                "苯的来源及应用",
+                "塑料",
+                "合成橡胶",
+                "合成纤维",
+                "有机物的分类-根据碳架结构分类"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  乙醇与乙酸",
+            "subsections": [],
+            "knowledgePoints": [
+                "乙醇",
+                "乙酸",
+                "有机物的分类-根据官能团分类",
+                "有机官能团的性质及结构"
+            ]
+        },
+        {
+            "sectionTitle": "第四节  基本营养物质",
+            "subsections": [],
+            "knowledgePoints": [
+                "糖类",
+                "油脂",
+                "蛋白质 核酸"
+            ]
+        },
+        {
+            "sectionTitle": "实验活动8  搭建球棍模型认识有机化合物分子结构的特点",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "实验活动9  乙醇、乙酸的主要性质",
+            "subsections": [],
+            "knowledgePoints": []
+        },
+        {
+            "sectionTitle": "第一节  自然资源的开发利用",
+            "subsections": [],
+            "knowledgePoints": [
+                "新型金属材料",
+                "金属材料的性质及利用",
+                "金属材料的冶炼及保护",
+                "高分子材料使用对环境的影响",
+                "能源",
+                "化石能源",
+                "海水资源综合利用",
+                "淡水资源"
+            ]
+        },
+        {
+            "sectionTitle": "第二节  化学品的合理使用",
+            "subsections": [],
+            "knowledgePoints": [
+                "人体健康物质基础",
+                "人体健康基本维护"
+            ]
+        },
+        {
+            "sectionTitle": "第三节  环境保护与绿色化学",
+            "subsections": [],
+            "knowledgePoints": [
+                "大气污染",
+                "水污染",
+                "固体废弃物的处理",
+                "土地资源保护"
+            ]
+        }
+    ]
+}
