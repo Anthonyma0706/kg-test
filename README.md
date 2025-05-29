@@ -1,41 +1,100 @@
 # 知识图谱提取工具
 
 ## 概述
-`extract_titles.py` 是一个强大的Python脚本，专门用于从HTML教材文件中提取章节结构，并将其转换为Markdown和JSON格式。该脚本能够自动处理复杂的嵌套结构，输出符合规范的知识图谱数据。
+这是一个专门用于从HTML教材文件中提取章节结构并转换为知识图谱的工具集。工具采用两步转换流程：首先将HTML转换为Markdown，然后将Markdown转换为JSON格式的知识图谱。
 
-## `extract_titles.py` 功能详解
-### 主要功能
-1. **HTML标题提取**：从HTML文件中精准提取带层级的标题结构。
-2. **Markdown生成**：根据提取的标题结构，生成带缩进的Markdown列表。
-3. **JSON转换**：将提取的信息转换为符合规范的JSON知识结构。
-4. **嵌套结构处理**：自动处理多级嵌套结构，包括章节、小节、子小节和知识点。
-5. **内容过滤**：自动过滤掉如“复习与测试”等非知识点内容。
+## 工具架构
 
-### 使用方式
-运行脚本时，需要通过命令行传递必要的参数。以下是一个示例：
-```bash
-python extract_titles.py --html_dir /path/to/html/files --md_output_dir /path/to/md/output --json_output_dir /path/to/json/output
+### 📁 两步转换流程
+```
+HTML文件 → extract_titles.py → Markdown文件 → md_to_json.py → JSON知识图谱
 ```
 
+### 🔧 脚本功能分离
+- **`extract_titles.py`**: 专注HTML到Markdown的转换
+- **`md_to_json.py`**: 专注Markdown到JSON的转换
+- **职责分离**: 每个脚本功能单一，便于维护和测试
+
+## `extract_titles.py` 功能详解
+
+### 主要功能
+1. **HTML标题提取**：从HTML文件中精准提取带层级的标题结构
+2. **Markdown生成**：根据提取的标题结构，生成带缩进的Markdown列表
+3. **内容过滤**：自动过滤掉如"复习与测试"等非知识点内容
+4. **层级保持**：准确保持原始HTML中的层级结构
+
+### 使用方式
 ```bash
-python extract_titles.py html_files md_files json_files
+python extract_titles.py html_files md_files
 ```
 
 ### 参数说明
 | 参数名          | 描述                          | 示例值                          |
 |-----------------|-------------------------------|---------------------------------|
-| `html_dir`      | 包含HTML文件的目录            | `/Users/mma0706/html_files`     |
-| `md_output_dir` | 输出Markdown文件的目录        | `/Users/mma0706/md_output`      |
-| `json_output_dir` | 输出JSON文件的目录          | `/Users/mma0706/json_output`    |
+| `html_dir`      | 包含HTML文件的目录            | `html_files`                    |
+| `md_output_dir` | 输出Markdown文件的目录        | `md_files`                      |
 
 ### 处理逻辑
-1. **HTML解析**：解析HTML文件中 `tree-anchor` 类的元素。
-2. **层级确定**：根据元素的 `data-level` 属性确定标题的层级关系。
-3. **内容过滤**：自动过滤掉包含“复习与测试”的标题。
-4. **子小节识别**：使用正则表达式识别并处理“x.x.x”格式的子小节标题。
-5. **数据生成**：根据处理结果生成符合规范的Markdown和JSON文件。
+1. **HTML解析**：解析HTML文件中 `tree-anchor` 类的元素
+2. **层级确定**：根据元素的 `data-level` 属性确定标题的层级关系
+3. **内容过滤**：自动过滤掉包含"复习与测试"的标题
+4. **Markdown输出**：生成规范的层级缩进Markdown文件
+
+## `md_to_json.py` 功能详解
+
+### 主要功能
+1. **Markdown解析**：解析层级结构的Markdown文件
+2. **智能识别**：动态判断Level 2内容是子小节还是知识点
+3. **JSON生成**：转换为符合规范的JSON知识图谱结构
+4. **批量处理**：支持批量转换整个目录的Markdown文件
+
+### 使用方式
+```bash
+python md_to_json.py md_files json_files
+```
+
+### 参数说明
+| 参数名           | 描述                          | 示例值                          |
+|------------------|-------------------------------|---------------------------------|
+| `md_input_dir`   | 包含Markdown文件的目录        | `md_files`                      |
+| `json_output_dir`| 输出JSON文件的目录            | `json_files`                    |
+
+### 智能层级识别
+```python
+# 动态判断Level 2内容类型：
+if has_level3_children:
+    # Level 2 是子小节 (subsectionTitle)
+else:
+    # Level 2 是知识点 (knowledgePoints)
+```
+
+### Markdown层级结构
+- **0个空格缩进**: 章节 (level 0) → `chapter`
+- **4个空格缩进**: 小节 (level 1) → `sectionTitle` 
+- **8个空格缩进**: 子小节 (level 2) → `subsectionTitle` 或知识点
+- **12个空格缩进**: 知识点 (level 3) → `knowledgePoints`
+
+## 完整使用流程
+
+### 步骤1：HTML到Markdown
+```bash
+python extract_titles.py html_files md_files
+```
+
+### 步骤2：Markdown到JSON
+```bash
+python md_to_json.py md_files json_files
+```
+
+### 一键执行示例
+```bash
+# 完整转换流程
+python extract_titles.py html_files md_files
+python md_to_json.py md_files json_files
+```
 
 ## JSON格式输出规范
+
 ### 基本结构
 ```json
 {
@@ -51,10 +110,11 @@ python extract_titles.py html_files md_files json_files
 ```
 
 ### 字段说明
+
 #### 1. 章节 (`chapter`)
 - **类型**：字符串
 - **描述**：教材的章节标题
-- **示例**：`"第十一单元 化学与社会"`
+- **示例**：`"第十六章 二次根式"`
 
 #### 2. 小节 (`sections`)
 - **类型**：数组
@@ -65,7 +125,7 @@ python extract_titles.py html_files md_files json_files
 - `subsections`：子小节数组（数组）
 - `knowledgePoints`：知识点数组（数组）
 
-### 3. 子小节 (`subsections`)
+#### 3. 子小节 (`subsections`)
 - **类型**：数组
 - **描述**：当小节下有带编号的子小节时使用
 - **结构**：
@@ -76,40 +136,58 @@ python extract_titles.py html_files md_files json_files
 }
 ```
 
-### 4. 知识点 (`knowledgePoints`)
+#### 4. 知识点 (`knowledgePoints`)
 - **类型**：数组
 - **描述**：包含该小节/子小节下的所有知识点
-- **规则**：
-  - 当小节下没有子小节时，知识点直接放在小节的 `knowledgePoints` 中。
-  - 当小节下有子小节时，知识点放在对应子小节的 `knowledgePoints` 中。
+- **智能归属规则**：
+  - 当Level 2内容没有Level 3子节点时，Level 2直接作为知识点
+  - 当Level 2内容有Level 3子节点时，Level 2作为子小节，Level 3作为知识点
 
-## 示例
-### 情况1：只有小节和知识点
+## 输出示例
+
+### 情况1：小节直接包含知识点
 ```json
 {
-    "sectionTitle": "1.1 正数和负数",
+    "sectionTitle": "16.1 二次根式",
     "subsections": [],
     "knowledgePoints": [
-        "正负数的定义",
-        "相反意义的量"
+        "求二次根式的值",
+        "求二次根式中的参数",
+        "二次根式有意义的条件"
     ]
 }
 ```
 
-### 情况2：有小节和子小节
+### 情况2：小节包含子小节
 ```json
 {
-    "sectionTitle": "1.2 有理数",
+    "sectionTitle": "18.1 平行四边形",
     "subsections": [
         {
-            "subsectionTitle": "1.2.1 有理数",
+            "subsectionTitle": "18.1.1 平行四边形的性质",
             "knowledgePoints": [
-                "有理数的定义",
-                "0的意义"
+                "利用平行四边形的性质求解",
+                "利用平行四边形的性质证明"
             ]
         }
-    ]
+    ],
+    "knowledgePoints": []
 }
 ```
+
+## 技术特点
+
+### ✅ 优势
+- **职责分离**：两个脚本各司其职，代码简洁
+- **智能识别**：动态判断内容层级，无需人工干预
+- **批量处理**：支持整个目录的批量转换
+- **格式规范**：输出符合知识图谱标准的JSON格式
+- **易于维护**：功能模块化，便于调试和扩展
+
+### 🔧 技术实现
+- **HTML解析**：使用BeautifulSoup解析HTML结构
+- **树结构算法**：构建层级树来处理复杂嵌套
+- **动态判断**：基于子节点存在性判断内容类型
+- **编码支持**：全面支持中文字符编码
 ```
         
